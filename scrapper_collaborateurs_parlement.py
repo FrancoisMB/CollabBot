@@ -1,16 +1,17 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Aug  8 08:26:18 2019
-
 @author: Francois
 
 Bot collaborateurs parlementaires http://twitter.com/Collab_Bot
+
+J'ai pas dit que c'était du beau code.
 """
 from urllib.request import urlopen
 from pathlib import Path
 from datetime import datetime
 import pandas, os, numpy as np, time, tweepy
 
+# set le dossier de travail à l'endroit où se trouve 
 path_wd = r"C:\Users\Francois\Documents\Code_Python\scrapper_collaborateurs_parlement"
 os.chdir(path_wd)
 
@@ -32,11 +33,26 @@ except:
 
 send_to_twitter = 1
 
+
 #%%
 if not os.path.exists('date_dernier_run.txt'):Path('date_dernier_run.txt').touch()
 f = open("date_dernier_run.txt", "r")
 date_dernier_run = f.read()
 f.close()
+
+def update_wayback_machine(url):
+    #["depute"]["url_an"]
+    try:
+        update_waybackmachine = urlopen("https://web.archive.org/save/"+url)
+    except Exception as err:
+        print("Erreur update waybackmachine pour l'url", url)
+        print(err)
+    if update_waybackmachine.getcode() == 200:
+        pass
+    else:
+        print("L'update wayback machine n'a pas pu se faire pour l'url", url)
+        print("error code =", update_waybackmachine.getcode())
+    return update_waybackmachine     
 
 
 def find_group_and_twitter(row): #on passe un df.loc[i]
@@ -44,12 +60,20 @@ def find_group_and_twitter(row): #on passe un df.loc[i]
         for i in range(len(dict_d["deputes"])):
             if row["parlementaire"] == dict_d["deputes"][i]["depute"]["nom"]:
                 result = {"groupe":dict_d["deputes"][i]["depute"]["groupe_sigle"], "twitter":dict_d["deputes"][i]["depute"]["twitter"]}
+                try:
+                    update_wayback_machine(dict_d["deputes"][i]["depute"]["url_an"])
+                except:
+                    pass
                 return result
                 break
     elif row["fonction"] in ["sénateur", "sénatrice"]:
         for i in range(len(dict_s["senateurs"])):
             if row["parlementaire"] == dict_s["senateurs"][i]["senateur"]["nom"]:
                 result = {"groupe":dict_s["senateurs"][i]["senateur"]["groupe_sigle"], "twitter":dict_s["senateurs"][i]["senateur"]["twitter"]}
+                try:
+                    update_wayback_machine("http://www.senat.fr/trombinoaga/trombinoSE_" + dict_s["senateurs"][i]["senateur"]["id_institution"][-6:].upper() +".html")
+                except:
+                    pass
                 return result
                 break
     
@@ -124,7 +148,7 @@ if not date_dernier_run == datetime.today().strftime('%Y-%m-%d'):
 
     # fetch les deux csv du jour et les load en dt
     df_d = pandas.read_csv("https://raw.githubusercontent.com/regardscitoyens/Collaborateurs-Parlement/master/data/liste_deputes_collaborateurs.csv")
-    df_s = pandas.read_csv("https://raw.githubusercontent.com/regardscitoyens/Collaborateurs-Parlement/master/data/liste_senateurs_collaborateurs.csv")
+    df_s = pandas.read_csv("https://raw.githubusercontent.com/regardscitoyens/Collaborateurs-Parlement/master/data/liste_collaborateurs_senateurs2.csv")
     
     # les enregistre en _today
     df_d.to_csv('deputes_today.csv', encoding="utf-8", index = False)
@@ -185,11 +209,20 @@ if not date_dernier_run == datetime.today().strftime('%Y-%m-%d'):
                 raise ValueError("TWEET TROP LONG : Plus de 260 signes dans le tweet, il y a un risque qu'avec les metadata (le @compte au début) le tweet dépasse les 280. Faire un rollback, et il est temps de gérer ce cornercase dans le code.")
                 break
             print(collab["phrase1"])
-            tweeted = api.update_status(collab["phrase1"])
+            try:
+                tweeted = api.update_status(collab["phrase1"])
+            except Exception as err:
+                print("Erreur lors du tweet de", collab["phrase1"])
+                print(err)
+                continue
             time.sleep(5)
             if collab.get("phrase2"):
                 print(collab["phrase2"])
-                api.update_status(collab["phrase2"], in_reply_to_status_id = tweeted.id_str, auto_populate_reply_metadata = True)               
+                try:
+                    api.update_status(collab["phrase2"], in_reply_to_status_id = tweeted.id_str, auto_populate_reply_metadata = True)               
+                except Exception as err:
+                    print("Erreur lors du tweet de", collab["phrase2"])
+                    print(err)
             time.sleep(10)
     else:
         for collab in dict_tweets.values():
@@ -212,12 +245,4 @@ def rollback():
     os.replace("senateurs_j_minus_two.csv", "senateurs_yesterday.csv")
     os.replace("senateurs_j_minus_three.csv", "senateurs_j_minus_two.csv")
     os.replace("date_dernier_run.txt","rollback_effectue.txt")
-
-
-#for d in dict_d["deputes"]:
-#    if d["depute"]["nom_de_famille"] == "Dunoyer":
-#        print(d["depute"])
-
-
-
-
+ 
