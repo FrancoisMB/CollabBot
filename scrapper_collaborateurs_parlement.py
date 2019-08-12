@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 """
+Created on Thu Aug  8 08:26:18 2019
+
 @author: Francois
 
 Bot collaborateurs parlementaires http://twitter.com/Collab_Bot
-
-J'ai pas dit que c'était du beau code.
 """
 from urllib.request import urlopen
 from pathlib import Path
@@ -15,10 +15,10 @@ path_wd = r"C:\Users\Francois\Documents\Code_Python\scrapper_collaborateurs_parl
 os.chdir(path_wd)
 
 # connexion twitter
-consumer_key = "******"
-consumer_secret = "******"
-access_token = "******"
-access_secret = "******"
+consumer_key = ""
+consumer_secret = ""
+access_token = ""
+access_secret = ""
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)
@@ -38,20 +38,46 @@ f = open("date_dernier_run.txt", "r")
 date_dernier_run = f.read()
 f.close()
 
+
+def find_group_and_twitter(row): #on passe un df.loc[i]
+    if row["fonction"] in ["député", "députée"]:
+        for i in range(len(dict_d["deputes"])):
+            if row["parlementaire"] == dict_d["deputes"][i]["depute"]["nom"]:
+                result = {"groupe":dict_d["deputes"][i]["depute"]["groupe_sigle"], "twitter":dict_d["deputes"][i]["depute"]["twitter"]}
+                return result
+                break
+    elif row["fonction"] in ["sénateur", "sénatrice"]:
+        for i in range(len(dict_s["senateurs"])):
+            if row["parlementaire"] == dict_s["senateurs"][i]["senateur"]["nom"]:
+                result = {"groupe":dict_s["senateurs"][i]["senateur"]["groupe_sigle"], "twitter":dict_s["senateurs"][i]["senateur"]["twitter"]}
+                return result
+                break
+    
+# find_group_and_twitter(df_final.loc[1])["twitter"]
+# find_group_and_twitter(df_final.loc[1])["groupe"]
+
+
 def find_changes_collabs(df):
     dict_tweets = {}
     for i in range(len(df)):
-        osef = find_group_and_twitter(df_final.loc[i])
-        groupe, twitter = osef["groupe"], osef["twitter"]
-        phrase2 = ""
-        del osef
+        try:
+            group_and_twitter = find_group_and_twitter(df_final.loc[i])
+            groupe = group_and_twitter["groupe"]
+            if group_and_twitter["twitter"] == "":
+                twitter_account = ""
+            else:
+                twitter_account = " @"+group_and_twitter["twitter"] # espace et @ au début pour que, dans le tweet, le @ soit pas collé au nom du parlementaire
+            phrase2 = ""
+            del group_and_twitter
+        except:
+            groupe, twitter_account = "", ""
         if df.loc[i]["add_or_del"] == "add":
             if df.loc[i]["sexe_collaborateur"] == "H":
                 el1 = "a un nouveau collaborateur,"
             else:
                 el1 = "a une nouvelle collaboratrice,"
                 
-            phrase1 = "%s %s @%s (%s %s) %s %s." % (df.loc[i]["titre"], df.loc[i]["parlementaire"], twitter, df.loc[i]["fonction"], groupe, el1, df.loc[i]["collaborateur"])
+            phrase1 = "%s %s%s (%s %s) %s %s." % (df.loc[i]["titre"], df.loc[i]["parlementaire"], twitter_account, df.loc[i]["fonction"], groupe, el1, df.loc[i]["collaborateur"])
             phrase2 = "Peut-être est-ce @%s ?" % (api.search_users(df.loc[i]["prénom_collaborateur"]+" "+df.loc[i]["nom_collaborateur"])[0].screen_name)
             
         elif df.loc[i]["add_or_del"] == "del":
@@ -59,7 +85,7 @@ def find_changes_collabs(df):
                 el2 = ", collaborateur de"
             else:
                 el2 = ", collaboratrice de"
-            phrase1 = "%s%s %s %s @%s (%s %s), a cessé ses fonctions." % (df.loc[i]["collaborateur"], el2, df.loc[i]["titre"], df.loc[i]["parlementaire"], twitter, df.loc[i]["fonction"], groupe)
+            phrase1 = "%s%s %s %s%s (%s %s), a cessé ses fonctions." % (df.loc[i]["collaborateur"], el2, df.loc[i]["titre"], df.loc[i]["parlementaire"], twitter_account, df.loc[i]["fonction"], groupe)
         dict_tweets[df.loc[i]["collaborateur"]] = {}
         dict_tweets[df.loc[i]["collaborateur"]]["phrase1"] = phrase1
         if not phrase2 == "": dict_tweets[df.loc[i]["collaborateur"]]["phrase2"] = phrase2
@@ -67,6 +93,17 @@ def find_changes_collabs(df):
     return dict_tweets
 
 if not date_dernier_run == datetime.today().strftime('%Y-%m-%d'):
+
+    # les json qui permettent de trouver les groupes des parlementaires et leurs twitters
+    import json
+    url_d = "http://www.nosdeputes.fr/deputes/json"
+    url_s = "http://www.nossenateurs.fr/senateurs/json"
+    json_raw_d = urlopen(url_d).read()
+    json_raw_s = urlopen(url_s).read()
+    dict_d = json.loads(json_raw_d)
+    dict_s = json.loads(json_raw_s)
+    del json_raw_d, json_raw_s
+
     # créé des fichiers vides s'ils n'existent pas
     if not os.path.exists('deputes_j_minus_three.csv'):Path('deputes_j_minus_three.csv').touch()
     if not os.path.exists('senateurs_j_minus_three.csv'):Path('senateurs_j_minus_three.csv').touch()
@@ -92,36 +129,6 @@ if not date_dernier_run == datetime.today().strftime('%Y-%m-%d'):
     # les enregistre en _today
     df_d.to_csv('deputes_today.csv', encoding="utf-8", index = False)
     df_s.to_csv('senateurs_today.csv', encoding="utf-8", index = False)
-    
-    
-    #%%
-    
-    # les json qui permettent de trouver les groupes des parlementaires et leurs twitters
-    import json
-    url_d = "http://www.nosdeputes.fr/deputes/json"
-    url_s = "http://www.nossenateurs.fr/senateurs/json"
-    json_raw_d = urlopen(url_d).read()
-    json_raw_s = urlopen(url_s).read()
-    dict_d = json.loads(json_raw_d)
-    dict_s = json.loads(json_raw_s)
-    del json_raw_d, json_raw_s
-    
-    def find_group_and_twitter(row): #on passe un df.loc[i]
-        if row["fonction"] in ["député", "députée"]:
-            for i in range(len(dict_d["deputes"])):
-                if row["parlementaire"] == dict_d["deputes"][i]["depute"]["nom"]:
-                    result = {"groupe":dict_d["deputes"][i]["depute"]["groupe_sigle"], "twitter":dict_d["deputes"][i]["depute"]["twitter"]}
-                    return result
-                    break
-        elif row["fonction"] in ["sénateur", "sénatrice"]:
-            for i in range(len(dict_s["senateurs"])):
-                if row["parlementaire"] == dict_s["senateurs"][i]["senateur"]["nom"]:
-                    result = {"groupe":dict_s["senateurs"][i]["senateur"]["groupe_sigle"], "twitter":dict_s["senateurs"][i]["senateur"]["twitter"]}
-                    return result
-                    break
-        
-    # find_group_and_twitter(df_final.loc[1])["twitter"]
-    # find_group_and_twitter(df_final.loc[1])["groupe"]
     
     
     #%%
@@ -205,4 +212,12 @@ def rollback():
     os.replace("senateurs_j_minus_two.csv", "senateurs_yesterday.csv")
     os.replace("senateurs_j_minus_three.csv", "senateurs_j_minus_two.csv")
     os.replace("date_dernier_run.txt","rollback_effectue.txt")
-    
+
+
+#for d in dict_d["deputes"]:
+#    if d["depute"]["nom_de_famille"] == "Dunoyer":
+#        print(d["depute"])
+
+
+
+
