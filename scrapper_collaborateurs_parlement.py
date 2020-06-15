@@ -32,7 +32,7 @@ except:
     print("Error during authentication")
 
 send_to_twitter = 1
-
+update_wbm_enabled = 1
 
 #%%
 if not os.path.exists('date_dernier_run.txt'):Path('date_dernier_run.txt').touch()
@@ -40,19 +40,23 @@ f = open("date_dernier_run.txt", "r")
 date_dernier_run = f.read()
 f.close()
 
+print("date_dernier_run =",date_dernier_run)
+
 def update_wayback_machine(url):
-    #["depute"]["url_an"]
-    try:
-        update_waybackmachine = urlopen("https://web.archive.org/save/"+url)
-    except Exception as err:
-        print("Erreur update waybackmachine pour l'url", url)
-        print(err)
-    if update_waybackmachine.getcode() == 200:
-        pass
-    else:
-        print("L'update wayback machine n'a pas pu se faire pour l'url", url)
-        print("error code =", update_waybackmachine.getcode())
-    return update_waybackmachine     
+    if update_wbm_enabled:
+        #["depute"]["url_an"]
+        try:
+            update_waybackmachine = urlopen("https://web.archive.org/save/"+url)
+            if update_waybackmachine.getcode() == 200:
+                print("Update wayback machine OK")
+            else:
+                print("L'update wayback machine n'a pas pu se faire pour l'url", url)
+                print("error code =", update_waybackmachine.getcode())
+            time.sleep(3)
+            return update_waybackmachine     
+        except Exception as err:
+            print("Erreur update waybackmachine pour l'url", url)
+            print(err)
 
 
 def find_group_and_twitter(row): #on passe un df.loc[i]
@@ -84,35 +88,45 @@ def find_group_and_twitter(row): #on passe un df.loc[i]
 def find_changes_collabs(df):
     dict_tweets = {}
     for i in range(len(df)):
+        
         try:
             group_and_twitter = find_group_and_twitter(df_final.loc[i])
             groupe = group_and_twitter["groupe"]
             if group_and_twitter["twitter"] == "":
                 twitter_account = ""
             else:
-                twitter_account = " @"+group_and_twitter["twitter"] # espace et @ au début pour que, dans le tweet, le @ soit pas collé au nom du parlementaire
+                twitter_account = " twitter.com/"+group_and_twitter["twitter"] # espace et @ au début pour que, dans le tweet, le @ soit pas collé au nom du parlementaire
             phrase2 = ""
             del group_and_twitter
         except:
             groupe, twitter_account = "", ""
-        if df.loc[i]["add_or_del"] == "add":
+            
+
+        if df.loc[i]["add_or_del"] == "del":
+            if df.loc[i]["sexe_collaborateur"] == "H":
+                el2 = ", collaborateur de"
+            else:
+                el2 = ", collaboratrice de"
+            phrase1 = "%s%s %s %s%s (%s %s), a cessé ses fonctions." % (df.loc[i]["collaborateur"], el2, df.loc[i]["titre"], df.loc[i]["parlementaire"], twitter_account, df.loc[i]["fonction"], groupe)
+        elif df.loc[i]["add_or_del"] == "add":
             if df.loc[i]["sexe_collaborateur"] == "H":
                 el1 = "a un nouveau collaborateur,"
             else:
                 el1 = "a une nouvelle collaboratrice,"
                 
             phrase1 = "%s %s%s (%s %s) %s %s." % (df.loc[i]["titre"], df.loc[i]["parlementaire"], twitter_account, df.loc[i]["fonction"], groupe, el1, df.loc[i]["collaborateur"])
-            phrase2 = "Peut-être est-ce @%s ?" % (api.search_users(df.loc[i]["prénom_collaborateur"]+" "+df.loc[i]["nom_collaborateur"])[0].screen_name)
-            
-        elif df.loc[i]["add_or_del"] == "del":
-            if df.loc[i]["sexe_collaborateur"] == "H":
-                el2 = ", collaborateur de"
-            else:
-                el2 = ", collaboratrice de"
-            phrase1 = "%s%s %s %s%s (%s %s), a cessé ses fonctions." % (df.loc[i]["collaborateur"], el2, df.loc[i]["titre"], df.loc[i]["parlementaire"], twitter_account, df.loc[i]["fonction"], groupe)
+            try:
+                retour_requete_twitter_probable = api.search_users(df.loc[i]["prénom_collaborateur"]+" "+df.loc[i]["nom_collaborateur"])
+                phrase2 = "Peut-être est-ce twitter.com/%s ?" % (retour_requete_twitter_probable[0].screen_name)
+            except Exception as err:
+                print("Pas réussi à trouver un twitter de collaborateur")
+                print("Print de retour_requete_twitter_probable :", retour_requete_twitter_probable)
+                print("Print de l'erreur : ")
+                print(err)
         dict_tweets[df.loc[i]["collaborateur"]] = {}
         dict_tweets[df.loc[i]["collaborateur"]]["phrase1"] = phrase1
         if not phrase2 == "": dict_tweets[df.loc[i]["collaborateur"]]["phrase2"] = phrase2
+        dict_tweets[df.loc[i]["collaborateur"]]["add_or_del"] = df.loc[i]["add_or_del"]
 
     return dict_tweets
 
@@ -154,7 +168,10 @@ if not date_dernier_run == datetime.today().strftime('%Y-%m-%d'):
     df_d.to_csv('deputes_today.csv', encoding="utf-8", index = False)
     df_s.to_csv('senateurs_today.csv', encoding="utf-8", index = False)
     
-    
+    f = open("date_dernier_run.txt","w")
+    f.write(datetime.today().strftime('%Y-%m-%d'))
+    f.close()
+    print("dl et save des files ok")
     #%%
     # on les reload en mémoire pour faire la diff
     df_d = pandas.read_csv('deputes_today.csv', encoding="utf-8")
@@ -199,16 +216,19 @@ if not date_dernier_run == datetime.today().strftime('%Y-%m-%d'):
     df_deleted_s['add_or_del'] = 'del'
     
     df_final = pandas.concat([df_added_d, df_deleted_d, df_added_s, df_deleted_s]).reset_index()
+    # trie les départs avant les arrivées
+    df_final = df_final.sort_values(by='add_or_del', ascending=False)
     #df_deleted_d.empty
     
-    dict_tweets = find_changes_collabs(df_final)
+    dict_phrases_a_tweeter = find_changes_collabs(df_final)
     
     if send_to_twitter == True:
-        for collab in dict_tweets.values():
+        for collab in dict_phrases_a_tweeter.values():
+            print(collab["phrase1"])
+            # ici ou dans find_changes_collabs(), ajouter IF SOC, ça l'écrit dans un fichier par exemple
             if len(collab["phrase1"]) >= 260 or len(collab["phrase1"]) >= 260 :
                 raise ValueError("TWEET TROP LONG : Plus de 260 signes dans le tweet, il y a un risque qu'avec les metadata (le @compte au début) le tweet dépasse les 280. Faire un rollback, et il est temps de gérer ce cornercase dans le code.")
                 break
-            print(collab["phrase1"])
             try:
                 tweeted = api.update_status(collab["phrase1"])
             except Exception as err:
@@ -224,14 +244,12 @@ if not date_dernier_run == datetime.today().strftime('%Y-%m-%d'):
                     print("Erreur lors du tweet de", collab["phrase2"])
                     print(err)
             time.sleep(10)
-    else:
-        for collab in dict_tweets.values():
+    else: # afficher dans le stdout sans poster sur twitter
+        for collab in dict_phrases_a_tweeter.values():
             print(collab["phrase1"])
             if collab.get("phrase2"):print(collab["phrase2"])
 
-    f = open("date_dernier_run.txt","w")
-    f.write(datetime.today().strftime('%Y-%m-%d'))
-    f.close()
+
 else:
     print("Script already ran today")
 
