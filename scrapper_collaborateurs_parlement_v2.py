@@ -16,15 +16,11 @@ import pandas, os, numpy as np, time, tweepy, requests
 import base64
 from github import Github, InputGitTreeElement
 
-# set le dossier de travail à l'endroit où se trouve 
-path_wd = r"C:\Users\Francois\Documents\Code_Python\scrapper_collaborateurs_parlement"
-os.chdir(path_wd)
-
 # connexion twitter
-consumer_key = "####"
-consumer_secret = "####"
-access_token = "####"
-access_secret = "####"
+consumer_key = "GvrRCQLYgSnI2raZ9mURf4BpW"
+consumer_secret = "9Ps4Ul5brO7dmTX4EDc6sq2kretJLnnMbTjuNZpchsopFDfm4m"
+access_token = "1160498817151721472-hTHX8sA7IMBlmZa4ehMS14UFL8pw35"
+access_secret = "0FK8TK5z1ULjBuEPGZ6tKmQB80HrQI0GutffGgAgr9hTE"
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)
@@ -41,7 +37,7 @@ update_wbm_enabled = 1
 
 base_github_url = "https://github.com/FrancoisMB/CollabBot/raw/master/"    
 
-g = Github("####")
+g = Github("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")
 repo = g.get_user().get_repo('CollabBot') # repo name
         
 
@@ -164,27 +160,29 @@ if not date_dernier_run == datetime.today().strftime('%Y-%m-%d'):
         df_y_d = pandas.read_csv(base_github_url+"deputes_last.csv", encoding="utf-8")
         df_y_s = pandas.read_csv(base_github_url+"senateurs_last.csv", encoding="utf-8")
         
+        commit_msg = "python commit " + str(datetime.today().strftime('%Y-%m-%d'))
+        
         # décale d'un jour tous les fichiers
         contents = repo.get_contents("deputes_state_minus_3.csv")
-        repo.update_file(contents.path, "python commit", requests.get(base_github_url+"deputes_state_minus_2.csv").content, contents.sha)
+        repo.update_file(contents.path, commit_msg, requests.get(base_github_url+"deputes_state_minus_2.csv").content, contents.sha)
         contents = repo.get_contents("deputes_state_minus_2.csv")
-        repo.update_file(contents.path, "python commit", requests.get(base_github_url+"deputes_state_minus_1.csv").content, contents.sha)
+        repo.update_file(contents.path, commit_msg, requests.get(base_github_url+"deputes_state_minus_1.csv").content, contents.sha)
         contents = repo.get_contents("deputes_state_minus_1.csv")
-        repo.update_file(contents.path, "python commit", requests.get(base_github_url+"deputes_last.csv").content, contents.sha)
+        repo.update_file(contents.path, commit_msg, requests.get(base_github_url+"deputes_last.csv").content, contents.sha)
         contents = repo.get_contents("deputes_last.csv")
-        repo.update_file(contents.path, "python commit", requests.get(regards_url_d).content, contents.sha)
+        repo.update_file(contents.path, commit_msg, requests.get(regards_url_d).content, contents.sha)
     
         contents = repo.get_contents("senateurs_state_minus_3.csv")
-        repo.update_file(contents.path, "python commit", requests.get(base_github_url+"senateurs_state_minus_2.csv").content, contents.sha)
+        repo.update_file(contents.path, commit_msg, requests.get(base_github_url+"senateurs_state_minus_2.csv").content, contents.sha)
         contents = repo.get_contents("senateurs_state_minus_2.csv")
-        repo.update_file(contents.path, "python commit", requests.get(base_github_url+"senateurs_state_minus_1.csv").content, contents.sha)
+        repo.update_file(contents.path, commit_msg, requests.get(base_github_url+"senateurs_state_minus_1.csv").content, contents.sha)
         contents = repo.get_contents("senateurs_state_minus_1.csv")
-        repo.update_file(contents.path, "python commit", requests.get(base_github_url+"senateurs_last.csv").content, contents.sha)
+        repo.update_file(contents.path, commit_msg, requests.get(base_github_url+"senateurs_last.csv").content, contents.sha)
         contents = repo.get_contents("senateurs_last.csv")
-        repo.update_file(contents.path, "python commit", requests.get(regards_url_s).content, contents.sha)
+        repo.update_file(contents.path, commit_msg, requests.get(regards_url_s).content, contents.sha)
         
         contents = repo.get_contents("date_dernier_run.txt")
-        repo.update_file(contents.path, "python commit", datetime.today().strftime('%Y-%m-%d'), contents.sha)
+        repo.update_file(contents.path, commit_msg, datetime.today().strftime('%Y-%m-%d'), contents.sha)
         print("dl et save des files ok")
 
     except Exception as e:
@@ -268,22 +266,22 @@ else:
 
 
 def rollback():
+    commit_msg = "python revert " + str(datetime.today().strftime('%Y-%m-%d'))
+
     contents = repo.get_contents("deputes_state_minus_2.csv")
-    repo.update_file(contents.path, "python revert", requests.get(base_github_url+"deputes_state_minus_3.csv").content, contents.sha)
+    repo.update_file(contents.path, commit_msg, requests.get(base_github_url+"deputes_state_minus_3.csv").content, contents.sha)
     contents = repo.get_contents("deputes_state_minus_1.csv")
-    repo.update_file(contents.path, "python revert", requests.get(base_github_url+"deputes_state_minus_2.csv").content, contents.sha)
+    repo.update_file(contents.path, commit_msg, requests.get(base_github_url+"deputes_state_minus_2.csv").content, contents.sha)
     contents = repo.get_contents("deputes_last.csv")
-    repo.update_file(contents.path, "python revert", requests.get(base_github_url+"deputes_state_minus_1.csv").content, contents.sha)
+    repo.update_file(contents.path, commit_msg, requests.get(base_github_url+"deputes_state_minus_1.csv").content, contents.sha)
 
     contents = repo.get_contents("senateurs_state_minus_2.csv")
-    repo.update_file(contents.path, "python revert", requests.get(base_github_url+"senateurs_state_minus_3.csv").content, contents.sha)
+    repo.update_file(contents.path, commit_msg, requests.get(base_github_url+"senateurs_state_minus_3.csv").content, contents.sha)
     contents = repo.get_contents("senateurs_state_minus_1.csv")
-    repo.update_file(contents.path, "python revert", requests.get(base_github_url+"senateurs_state_minus_2.csv").content, contents.sha)
+    repo.update_file(contents.path, commit_msg, requests.get(base_github_url+"senateurs_state_minus_2.csv").content, contents.sha)
     contents = repo.get_contents("senateurs_last.csv")
-    repo.update_file(contents.path, "python revert", requests.get(base_github_url+"senateurs_state_minus_1.csv").content, contents.sha)
+    repo.update_file(contents.path, commit_msg, requests.get(base_github_url+"senateurs_state_minus_1.csv").content, contents.sha)
 
     contents = repo.get_contents("date_dernier_run.csv")
-    repo.update_file(contents.path, "python revert", (datetime.today()+timedelta(days=-1)).strftime('%Y-%m-%d'), contents.sha)
+    repo.update_file(contents.path, commit_msg, (datetime.today()+timedelta(days=-1)).strftime('%Y-%m-%d'), contents.sha)
     print("rollback done")
-
- 
