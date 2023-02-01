@@ -14,13 +14,16 @@ from pathlib import Path
 from datetime import datetime, timedelta
 import pandas, os, numpy as np, time, tweepy, requests
 import base64
-from github import Github, InputGitTreeElement
+from github import Github
+
+def now():
+    return datetime.now().strftime("%d-%m-%Y %H:%M:%S")
 
 # connexion twitter
-consumer_key = ""
-consumer_secret = ""
-access_token = "-"
-access_secret = ""
+consumer_key = "GvrRCQLYgSnI2raZ9mURf4BpW"
+consumer_secret = "9Ps4Ul5brO7dmTX4EDc6sq2kretJLnnMbTjuNZpchsopFDfm4m"
+access_token = "1160498817151721472-hTHX8sA7IMBlmZa4ehMS14UFL8pw35"
+access_secret = "0FK8TK5z1ULjBuEPGZ6tKmQB80HrQI0GutffGgAgr9hTE"
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)
@@ -34,12 +37,14 @@ except:
 
 send_to_twitter = 1
 update_wbm_enabled = 1
+run_quand_meme = 0
 
-base_github_url = "https://github.com/FrancoisMB/CollabBot/raw/master/"    
 
-g = Github("")
+base_github_url = "https://github.com/FrancoisMB/CollabBot/raw/master/"
+
+g = Github("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")
 repo = g.get_user().get_repo('CollabBot') # repo name
-        
+
 
 #%%
 date_dernier_run = requests.get("https://raw.githubusercontent.com/FrancoisMB/CollabBot/master/date_dernier_run.txt")
@@ -63,6 +68,22 @@ def update_wayback_machine(url):
             print("Erreur update waybackmachine pour l'url", url)
             print(err)
 
+print("WBM feuilles vertes tarte etc")
+update_wayback_machine("https://www.assemblee-nationale.fr/agendas/conference.pdf")
+time.sleep(2)
+update_wayback_machine("https://www.senat.fr/ordre-du-jour/ordre-du-jour.html")
+time.sleep(2)
+update_wayback_machine("https://www.assemblee-nationale.fr/dyn/16/organes/commissions-permanentes/finances")
+time.sleep(2)
+update_wayback_machine("https://www.assemblee-nationale.fr/dyn/texte_ordre_du_jour")
+time.sleep(2)
+update_wayback_machine("https://www2.assemblee-nationale.fr/static/16/seance/fin-seance.pdf")
+time.sleep(2)
+update_wayback_machine("https://www2.assemblee-nationale.fr/static/16/seance/discussion_debat.pdf")
+time.sleep(2)
+update_wayback_machine("https://www2.assemblee-nationale.fr/static/16/seance/discussion_generale.pdf")
+time.sleep(2)
+update_wayback_machine("http://www.senat.fr/dossiers-legislatifs/textes-recents.html")
 
 def find_group_and_twitter(row): #on passe un df.loc[i]
     if row["fonction"] in ["député", "députée"]:
@@ -135,14 +156,10 @@ def find_changes_collabs(df):
 
     return dict_tweets
 
-if not date_dernier_run == datetime.today().strftime('%Y-%m-%d'):
+if not date_dernier_run == datetime.today().strftime('%Y-%m-%d') or run_quand_meme:
 
     try:
-    # les json qui permettent de trouver les groupes des parlementaires et leurs twitters
-    # les url des CSV avec les listes des collabs
-        regards_url_d = "https://raw.githubusercontent.com/regardscitoyens/Collaborateurs-Parlement/master/data/liste_deputes_collaborateurs.csv"
-        regards_url_s = "https://raw.githubusercontent.com/regardscitoyens/Collaborateurs-Parlement/master/data/liste_collaborateurs_senateurs2.csv"
-    
+        # les json qui permettent de trouver les groupes des parlementaires et leurs twitters
         import json
         url_d = "http://www.nosdeputes.fr/deputes/json"
         url_s = "http://www.nossenateurs.fr/senateurs/json"
@@ -152,6 +169,13 @@ if not date_dernier_run == datetime.today().strftime('%Y-%m-%d'):
         dict_s = json.loads(json_raw_s)
         del json_raw_d, json_raw_s
         
+        # les url des CSV avec les listes des collabs
+        regards_url_d = "https://raw.githubusercontent.com/regardscitoyens/Collaborateurs-Parlement/master/data/liste_deputes_collaborateurs.csv"
+        regards_url_s = "https://raw.githubusercontent.com/regardscitoyens/Collaborateurs-Parlement/master/data/liste_collaborateurs_senateurs2.csv"        
+        update_wayback_machine(regards_url_d)
+        update_wayback_machine(regards_url_s)
+        
+        
         # fetch les deux csv du jour et les load en dt
         df_d = pandas.read_csv(regards_url_d, encoding="utf-8")
         df_s = pandas.read_csv(regards_url_s, encoding="utf-8")
@@ -160,26 +184,41 @@ if not date_dernier_run == datetime.today().strftime('%Y-%m-%d'):
         df_y_d = pandas.read_csv(base_github_url+"deputes_last.csv", encoding="utf-8")
         df_y_s = pandas.read_csv(base_github_url+"senateurs_last.csv", encoding="utf-8")
         
-        commit_msg = "python commit " + str(datetime.today().strftime('%Y-%m-%d'))
+        commit_msg = "python commit " + str(datetime.today().strftime('%Y-%m-%d %H:%M:%S'))
         
         # décale d'un jour tous les fichiers
-        contents = repo.get_contents("deputes_state_minus_3.csv")
+        contents = repo.get_contents("test.csv")
         repo.update_file(contents.path, commit_msg, requests.get(base_github_url+"deputes_state_minus_2.csv").content, contents.sha)
-        contents = repo.get_contents("deputes_state_minus_2.csv")
-        repo.update_file(contents.path, commit_msg, requests.get(base_github_url+"deputes_state_minus_1.csv").content, contents.sha)
-        contents = repo.get_contents("deputes_state_minus_1.csv")
-        repo.update_file(contents.path, commit_msg, requests.get(base_github_url+"deputes_last.csv").content, contents.sha)
+      
+        
+        minus2 = requests.get(base_github_url+"deputes_state_minus_2.csv").content
+        minus1 = requests.get(base_github_url+"deputes_state_minus_1.csv").content
+        last   = requests.get(base_github_url+"deputes_last.csv").content
+
         contents = repo.get_contents("deputes_last.csv")
         repo.update_file(contents.path, commit_msg, requests.get(regards_url_d).content, contents.sha)
-    
-        contents = repo.get_contents("senateurs_state_minus_3.csv")
-        repo.update_file(contents.path, commit_msg, requests.get(base_github_url+"senateurs_state_minus_2.csv").content, contents.sha)
-        contents = repo.get_contents("senateurs_state_minus_2.csv")
-        repo.update_file(contents.path, commit_msg, requests.get(base_github_url+"senateurs_state_minus_1.csv").content, contents.sha)
-        contents = repo.get_contents("senateurs_state_minus_1.csv")
-        repo.update_file(contents.path, commit_msg, requests.get(base_github_url+"senateurs_last.csv").content, contents.sha)
+        contents = repo.get_contents("deputes_state_minus_1.csv")
+        repo.update_file(contents.path, commit_msg, last, contents.sha)
+        contents = repo.get_contents("deputes_state_minus_2.csv")
+        repo.update_file(contents.path, commit_msg, minus1, contents.sha)
+        contents = repo.get_contents("deputes_state_minus_3.csv")
+        repo.update_file(contents.path, commit_msg, minus2, contents.sha)
+
+
+        minus2 = requests.get(base_github_url+"senateurs_state_minus_2.csv").content
+        minus1 = requests.get(base_github_url+"senateurs_state_minus_1.csv").content
+        last   = requests.get(base_github_url+"senateurs_last.csv").content
+
         contents = repo.get_contents("senateurs_last.csv")
         repo.update_file(contents.path, commit_msg, requests.get(regards_url_s).content, contents.sha)
+        contents = repo.get_contents("senateurs_state_minus_1.csv")
+        repo.update_file(contents.path, commit_msg, last, contents.sha)
+        contents = repo.get_contents("senateurs_state_minus_2.csv")
+        repo.update_file(contents.path, commit_msg, minus1, contents.sha)
+        contents = repo.get_contents("senateurs_state_minus_3.csv")
+        repo.update_file(contents.path, commit_msg, minus2, contents.sha)
+        
+        
         
         contents = repo.get_contents("date_dernier_run.txt")
         repo.update_file(contents.path, commit_msg, datetime.today().strftime('%Y-%m-%d'), contents.sha)
@@ -260,29 +299,39 @@ if not date_dernier_run == datetime.today().strftime('%Y-%m-%d'):
         for collab in dict_phrases_a_tweeter.values():
             print(collab["phrase1"])
             if collab.get("phrase2"):print(collab["phrase2"])
-
+    print("Date de ce run :", now())
 else:
     print("Script already ran today")
 
 
 def rollback():
-    commit_msg = "python revert " + str(datetime.today().strftime('%Y-%m-%d'))
+    commit_msg = "python revert " + str(datetime.today().strftime('%Y-%m-%d %H:%M:%S'))
 
-    contents = repo.get_contents("deputes_state_minus_2.csv")
-    repo.update_file(contents.path, commit_msg, requests.get(base_github_url+"deputes_state_minus_3.csv").content, contents.sha)
-    contents = repo.get_contents("deputes_state_minus_1.csv")
-    repo.update_file(contents.path, commit_msg, requests.get(base_github_url+"deputes_state_minus_2.csv").content, contents.sha)
+    minus3 = requests.get(base_github_url+"deputes_state_minus_3.csv").content
+    minus2 = requests.get(base_github_url+"deputes_state_minus_2.csv").content
+    minus1 = requests.get(base_github_url+"deputes_state_minus_1.csv").content
+    #last   = requests.get(base_github_url+"deputes_last.csv").content
+
     contents = repo.get_contents("deputes_last.csv")
-    repo.update_file(contents.path, commit_msg, requests.get(base_github_url+"deputes_state_minus_1.csv").content, contents.sha)
+    repo.update_file(contents.path, commit_msg, minus1, contents.sha)
+    contents = repo.get_contents("deputes_state_minus_1.csv")
+    repo.update_file(contents.path, commit_msg, minus2, contents.sha)
+    contents = repo.get_contents("deputes_state_minus_2.csv")
+    repo.update_file(contents.path, commit_msg, minus3, contents.sha)
 
-    contents = repo.get_contents("senateurs_state_minus_2.csv")
-    repo.update_file(contents.path, commit_msg, requests.get(base_github_url+"senateurs_state_minus_3.csv").content, contents.sha)
-    contents = repo.get_contents("senateurs_state_minus_1.csv")
-    repo.update_file(contents.path, commit_msg, requests.get(base_github_url+"senateurs_state_minus_2.csv").content, contents.sha)
+    minus3 = requests.get(base_github_url+"senateurs_state_minus_3.csv").content
+    minus2 = requests.get(base_github_url+"senateurs_state_minus_2.csv").content
+    minus1 = requests.get(base_github_url+"senateurs_state_minus_1.csv").content
+    #last   = requests.get(base_github_url+"senateurs_last.csv").content
+
     contents = repo.get_contents("senateurs_last.csv")
-    repo.update_file(contents.path, commit_msg, requests.get(base_github_url+"senateurs_state_minus_1.csv").content, contents.sha)
-
-    contents = repo.get_contents("date_dernier_run.csv")
+    repo.update_file(contents.path, commit_msg, minus1, contents.sha)
+    contents = repo.get_contents("senateurs_state_minus_1.csv")
+    repo.update_file(contents.path, commit_msg, minus2, contents.sha)
+    contents = repo.get_contents("senateurs_state_minus_2.csv")
+    repo.update_file(contents.path, commit_msg, minus3, contents.sha)
+    
+    contents = repo.get_contents("date_dernier_run.txt")
     repo.update_file(contents.path, commit_msg, (datetime.today()+timedelta(days=-1)).strftime('%Y-%m-%d'), contents.sha)
     print("rollback done")
 
