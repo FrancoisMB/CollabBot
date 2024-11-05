@@ -98,7 +98,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 000277,M.,Barroux,André,ANCIEN,1911-09-10 00:00:00.0,1986-04-06 00:00:00.0,SER,,commission de l'économie,Puy-de-Dôme,,,Ingenieurs et cadres techniques d'entreprise,Salariés (Ingénieurs),Ingénieur
 05008E,M.,Bas,Philippe,ACTIF,1958-07-20 00:00:00.0,,Les Républicains,,commission des lois,Manche,,p.bas@senat.fr,Autres personnes sans activité professionnelle,Fonctionnaires (Hauts Fonctionnaires),Conseiller d'Etat
 19741B,M.,Bascher,Jérôme,ANCIEN,1973-05-31 00:00:00.0,,Les Républicains,,commission des finances,Oise,,j.bascher@senat.fr,Cadres de la fonction publique,Fonctionnaires (Cadres moyens),Attaché statisticien hors classe
-21460Q,M.,Basquin,Alexandre,ACTIF,1981-09-21 00:00:00.0,,Aucun,,Aucune (Président du Sénat),Nord,,,Autres personnes sans activité professionnelle,Sans profession déclarée,
+21460Q,M.,Basquin,Alexandre,ACTIF,1981-09-21 00:00:00.0,,CRCE-K,,Aucune (Président du Sénat),Nord,,,Autres personnes sans activité professionnelle,Sans profession déclarée,
 58613L,M.,Bastie,Pierre,ANCIEN,1925-09-17 00:00:00.0,2013-05-21 00:00:00.0,SER,,commission des affaires sociales,Aude,,,Anciens cadres,Enseignement (Retraités),Retraité
 000032,M.,Bastit-St Martin,Armand,ANCIEN,1900-11-14 00:00:00.0,1984-03-13 00:00:00.0,R.I.A.S.,,commission des lois,Gironde,,,Agriculteurs exploitants,Professions agricoles,Viticulteur
 11036J,Mme,Bataille,Delphine,ANCIEN,1969-09-16 00:00:00.0,,RDPI,,commission des affaires économiques,Nord,,d.bataille@senat.fr,Autres personnes sans activité professionnelle,Salariés (Cadres divers),Assistante parlementaire
@@ -444,6 +444,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 04016A,M.,Claudel,Gérard,ANCIEN,1925-02-23 00:00:00.0,2021-03-25 00:00:00.0,Les Républicains,Apparenté,commission de l'économie,Val-d'Oise,,Non public,Agriculteurs exploitants,Professions agricoles,Entrepreneur de travaux agricoles
 95019G,M.,Cléach,Marcel-Pierre,ANCIEN,1934-01-16 00:00:00.0,2019-03-18 00:00:00.0,Les Républicains,,commission des affaires étrangères,Sarthe,,mp.cleach@senat.fr,Chefs d'entreprise de 10 salaries ou plus,Commerce et industrie (Chefs d'entreprises),Administrateur de sociétés
 000726,M.,Clerc,Jean,ANCIEN,1892-04-15 00:00:00.0,1966-03-09 00:00:00.0,RP,,commission des affaires étrangères,Haute-Savoie,,,Commercants et assimilés,Commerce et industrie (Négociants),Négociant
+1539R3,M.,CLEREL de TOCQUEVILLE,Hippolyte,ANCIEN,1797-11-01 00:00:00.0,1877-05-18 00:50:39.0,,,,Ariège,,,Autres personnes sans activité professionnelle,Sans profession déclarée,
 86018E,M.,Clouet,Jean,ANCIEN,1921-05-07 00:00:00.0,2008-10-20 00:00:00.0,Les Républicains,,commission des finances,Val-de-Marne,,,"Anciens artisans, commercants, chefs d'entreprise",Commerce et industrie (Retraités),Retraité
 71009B,M.,Cluzel,Jean,ANCIEN,1923-11-18 00:00:00.0,2020-09-12 00:00:00.0,UC,,commission des finances,Allier,,,Autres personnes sans activité professionnelle,Sans profession déclarée,Sans profession déclarée
 000058,M.,Cogniot,Georges,ANCIEN,1901-12-15 00:00:00.0,1978-03-12 00:00:00.0,C,,commission de la culture,Paris,,,"Professeurs des écoles, instituteurs et assimilés",Enseignement secondaire,Professeur agrégé
