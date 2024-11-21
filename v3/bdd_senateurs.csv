@@ -98,7 +98,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 000277,M.,Barroux,André,ANCIEN,1911-09-10 00:00:00.0,1986-04-06 00:00:00.0,SER,,commission de l'économie,Puy-de-Dôme,,,Ingenieurs et cadres techniques d'entreprise,Salariés (Ingénieurs),Ingénieur
 05008E,M.,Bas,Philippe,ACTIF,1958-07-20 00:00:00.0,,Les Républicains,,commission des lois,Manche,,p.bas@senat.fr,Autres personnes sans activité professionnelle,Fonctionnaires (Hauts Fonctionnaires),Conseiller d'Etat
 19741B,M.,Bascher,Jérôme,ANCIEN,1973-05-31 00:00:00.0,,Les Républicains,,commission des finances,Oise,,j.bascher@senat.fr,Cadres de la fonction publique,Fonctionnaires (Cadres moyens),Attaché statisticien hors classe
-21460Q,M.,Basquin,Alexandre,ACTIF,1981-09-21 00:00:00.0,,CRCE-K,,commission de l'aménagement du territoire et du développement durable,Nord,,,Autres personnes sans activité professionnelle,Sans profession déclarée,
+21460Q,M.,Basquin,Alexandre,ACTIF,1981-09-21 00:00:00.0,,CRCE-K,,commission de l'aménagement du territoire et du développement durable,Nord,,a.basquin@clb.senat.fr,Autres personnes sans activité professionnelle,Sans profession déclarée,
 58613L,M.,Bastie,Pierre,ANCIEN,1925-09-17 00:00:00.0,2013-05-21 00:00:00.0,SER,,commission des affaires sociales,Aude,,,Anciens cadres,Enseignement (Retraités),Retraité
 000032,M.,Bastit-St Martin,Armand,ANCIEN,1900-11-14 00:00:00.0,1984-03-13 00:00:00.0,R.I.A.S.,,commission des lois,Gironde,,,Agriculteurs exploitants,Professions agricoles,Viticulteur
 11036J,Mme,Bataille,Delphine,ANCIEN,1969-09-16 00:00:00.0,,RDPI,,commission des affaires économiques,Nord,,d.bataille@senat.fr,Autres personnes sans activité professionnelle,Salariés (Cadres divers),Assistante parlementaire
@@ -464,7 +464,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 19295A,Mme,Conconne,Catherine,ACTIF,1963-05-18 00:00:00.0,,SER,,commission des affaires sociales,Martinique,Secrétaire du Sénat,c.conconne@senat.fr,Autres personnes sans activité professionnelle,Autres professions,
 19812Y,Mme,Constant,Agnès,ANCIEN,1962-04-16 00:00:00.0,,RDPI,Apparenté,commission des affaires économiques,Hérault,,a.constant@senat.fr,Autres personnes sans activité professionnelle,Sans profession déclarée,Conjoint d'exploitant agricole
 000196,M.,Constant,Georges,ANCIEN,1908-08-14 00:00:00.0,1989-10-16 00:00:00.0,G.D.,,commission des affaires étrangères,Lot,,,Medecins libéraux généralistes,Professions médicales (Médecins),Médecin
-21419P,Mme,Conte Jaubert,Mireille,ACTIF,1954-10-23 00:00:00.0,,RDSE,,commission de la culture,Gironde,,,Autres personnes sans activité professionnelle,Sans profession déclarée,
+21419P,Mme,Conte Jaubert,Mireille,ACTIF,1954-10-23 00:00:00.0,,RDSE,,commission de la culture,Gironde,,m.conte-jaubert@senat.fr,Autres personnes sans activité professionnelle,Sans profession déclarée,
 11027H,Mme,Conway-Mouret,Hélène,ACTIF,1960-09-13 00:00:00.0,,SER,,commission des affaires étrangères,Français établis hors de France,,h.conway-mouret@senat.fr,Autres personnes sans activité professionnelle,Enseignement supérieur (sauf Professeurs de médecine),Professeure d'université
 57710G,M.,Coppenrath,Gérald,ANCIEN,1922-04-27 00:00:00.0,2008-11-05 00:00:00.0,U.N.R.,,commission de la culture,Polynésie française,,,Avocats,Professions judiciaires et libérales (Avocats),Avocat
 01035Q,M.,Coquelle,Yves,ANCIEN,1939-12-19 00:00:00.0,2015-04-07 00:00:00.0,CRCE,,commission de l'économie,Pas-de-Calais,,y.coquelle@senat.fr,Autres personnes sans activité professionnelle,Salariés (Ouvriers),Carreleur
@@ -691,7 +691,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 20074E,Mme,Dumont,Françoise,ACTIF,1965-04-09 00:00:00.0,,Les Républicains,,commission des lois,Var,,f.dumont@senat.fr,Personnels des services directs aux particuliers,Autres professions,Guide interprète
 59573A,M.,Dumont,Jean,ANCIEN,1930-11-27 00:00:00.0,2021-01-18 00:00:00.0,RI,,commission des affaires sociales,Deux-Sèvres,,,Vétérinaires (libéraux ou salariés),Professions médicales (Vétérinaires),Docteur vétérinaire
 58420D,M.,Dumont,Raymond,ANCIEN,1925-10-13 00:00:00.0,2009-05-09 00:00:00.0,C,,commission de l'économie,Pas-de-Calais,,,"Professeurs des écoles, instituteurs et assimilés",Enseignement primaire,Instituteur
-21423K,M.,Dumoulin,Éric,ACTIF,1965-03-05 00:00:00.0,,Les Républicains,Apparenté,commission des affaires économiques,Yvelines,,,Autres personnes sans activité professionnelle,Sans profession déclarée,
+21423K,M.,Dumoulin,Éric,ACTIF,1965-03-05 00:00:00.0,,Les Républicains,Apparenté,commission des affaires économiques,Yvelines,,e.dumoulin@senat.fr,Autres personnes sans activité professionnelle,Sans profession déclarée,
 19507S,M.,Duplomb,Laurent,ACTIF,1971-10-24 00:00:00.0,,Les Républicains,,commission des affaires économiques,Haute-Loire,,l.duplomb@senat.fr,Agriculteurs exploitants,Professions agricoles,Agriculteur
 89007P,M.,Dupont,Ambroise,ANCIEN,1937-05-11 00:00:00.0,,Les Républicains,,commission de la culture,Calvados,,a.dupont@senat.fr,Agriculteurs exploitants,Professions agricoles,Agriculteur
 04058L,Mme,Dupont,Bernadette,ANCIEN,1936-12-06 00:00:00.0,,Les Républicains,Apparenté,commission des affaires étrangères,Yvelines,,b.dupont@senat.fr,Autres personnes sans activité professionnelle,Sans profession déclarée,Sans profession déclarée
@@ -1007,7 +1007,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 83036T,M.,Huriet,Claude,ANCIEN,1930-05-24 00:00:00.0,2024-10-27 00:00:00.0,UC,,commission des affaires sociales,Meurthe-et-Moselle,Questeur du Sénat,Non public,Médecins hospitaliers (sans activité libérale),Professions médicales (Professeurs),Professeur agrégé de médecine
 11048N,M.,Husson,Jean-François,ACTIF,1961-04-17 00:00:00.0,,Les Républicains,,commission des finances,Meurthe-et-Moselle,,jf.husson@senat.fr,Autres personnes sans activité professionnelle,Autres professions,Agent d'assurance
 83037U,M.,Husson,Roger,ANCIEN,1924-06-12 00:00:00.0,2000-04-28 00:00:00.0,RPR,,commission des affaires étrangères,Moselle,Secrétaire du Sénat,Non public,Cadres d'entreprise,Salariés (Cadres divers),Agent de maîtrise
-21424L,Mme,Hybert,Brigitte,ACTIF,1960-05-12 00:00:00.0,,Les Républicains,,commission des affaires économiques,Vendée,,,Autres personnes sans activité professionnelle,Sans profession déclarée,
+21424L,Mme,Hybert,Brigitte,ACTIF,1960-05-12 00:00:00.0,,Les Républicains,,commission des affaires économiques,Vendée,,b.hybert@senat.fr,Autres personnes sans activité professionnelle,Sans profession déclarée,
 95039L,M.,Hyest,Jean-Jacques,ANCIEN,1943-03-02 00:00:00.0,,Les Républicains,,commission des lois,Seine-et-Marne,,jj.hyest@senat.fr,Personnels de direction de la fonction publique,Fonctionnaires (Hauts Fonctionnaires),Administrateur territorial
 19591F,M.,Iacovelli,Xavier,ACTIF,1981-03-31 00:00:00.0,,RDPI,,commission des affaires sociales,Hauts-de-Seine,,x.iacovelli@senat.fr,Professions intermédiaires administratives de la fonction publique,Salariés (Employés),Attaché territorial contractuel
 04062G,M.,Ibrahim Ramadani,Soibahadine,ANCIEN,1949-03-05 00:00:00.0,,Les Républicains,,commission de la culture,Mayotte,,s.ibrahim@senat.fr,"Professeurs des écoles, instituteurs et assimilés",Enseignement (Divers),Chargé de mission auprès du vice-recteur de Mayotte
@@ -1246,7 +1246,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 17779H,Mme,Lubin,Monique,ACTIF,1963-07-16 00:00:00.0,,SER,,commission des affaires sociales,Landes,,m.lubin@senat.fr,Professions intermédiaires administratives et commerciales d'entreprise,Salariés (Permanents politiques),Collaboratrice parlementaire
 77044F,Mme,Luc,Hélène,ANCIEN,1932-03-13 00:00:00.0,,CRCE,,commission des affaires étrangères,Val-de-Marne,,h.luc@senat.fr,Autres personnes sans activité professionnelle,Sans profession déclarée,Sans profession déclarée
 14103D,M.,Luche,Jean-Claude,ANCIEN,1952-08-07 00:00:00.0,,UC,,commission de l'aménagement du territoire et du développement durable,Aveyron,,jc.luche@senat.fr,Cadres et Professions intellectuelles supérieures,Salariés (Cadres divers),Cadre bancaire
-21417M,Mme,Lucot Avril,Virginie,ACTIF,1974-06-26 00:00:00.0,,Les Républicains,,commission de la culture,Seine-Maritime,,,Autres personnes sans activité professionnelle,Sans profession déclarée,
+21417M,Mme,Lucot Avril,Virginie,ACTIF,1974-06-26 00:00:00.0,,Les Républicains,,commission de la culture,Seine-Maritime,,v.lucot-avril@senat.fr,Autres personnes sans activité professionnelle,Sans profession déclarée,
 59549A,M.,Lucotte,Marcel,ANCIEN,1922-01-16 00:00:00.0,2000-12-28 00:00:00.0,RI,,commission de la culture,Saône-et-Loire,,,"Journalistes, secrétaires de rédaction",Professions libérales (Journalistes),Journaliste
 12016W,M.,Lurel,Victorin,ACTIF,1951-08-20 00:00:00.0,,SER,,commission des finances,Guadeloupe,,v.lurel@senat.fr,Retraités,Fonctionnaires (Retraités),
 02004M,Mme,Luypaert,Brigitte,ANCIEN,1954-03-19 00:00:00.0,,Les Républicains,,commission de la culture,Orne,,Non public,Agriculteurs exploitants,Professions agricoles,Agricultrice
@@ -1449,7 +1449,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 000119,M.,Nuninger,Marcel,ANCIEN,1905-04-24 00:00:00.0,1978-06-22 00:00:00.0,U.C.D.P.,,commission des lois,Haut-Rhin,,,Avocats,Professions judiciaires et libérales (Avocats),Avocat
 95051G,Mme,Olin,Nelly,ANCIEN,1941-03-23 00:00:00.0,2017-10-26 00:00:00.0,Les Républicains,,commission de la culture,Val-d'Oise,,,Cadres d'entreprise,Salariés (Cadres divers),Assistante de direction
 59240F,M.,Olivier,Henri,ANCIEN,1917-01-17 00:00:00.0,2004-08-18 00:00:00.0,U.R.E.I.,Rattaché,commission de l'économie,Orne,,,Agriculteurs exploitants,Professions agricoles,Agriculteur
-21418N,M.,Olivier,Jean-Baptiste,ACTIF,1979-08-01 00:00:00.0,,Les Républicains,,commission des finances,Paris,,,Autres personnes sans activité professionnelle,Sans profession déclarée,
+21418N,M.,Olivier,Jean-Baptiste,ACTIF,1979-08-01 00:00:00.0,,Les Républicains,,commission des finances,Paris,,jb.olivier@senat.fr,Autres personnes sans activité professionnelle,Sans profession déclarée,
 21037D,Mme,Ollivier,Mathilde,ACTIF,1994-06-09 00:00:00.0,,GEST,,commission de la culture,Français établis hors de France,,m.ollivier@senat.fr,Cadres de la publicité; cadres des relations publiques,Professions libérales (Publicistes),Cadre administratif et commercial d'entreprise
 19331L,M.,Omar Oili,Saïd,ACTIF,1957-06-20 00:00:00.0,,RDPI,,commission de l'aménagement du territoire et du développement durable,Mayotte,,s.omar-oili@senat.fr,"Journalistes, secrétaires de rédaction",Professions libérales (Journalistes),Retraité
 58645U,M.,Ooghe,Jean,ANCIEN,1928-04-17 00:00:00.0,,C,,commission des lois,Essonne,,,Ouvriers,Salariés (Ouvriers),Cheminot
@@ -1487,7 +1487,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 08073C,M.,Patient,Georges,ACTIF,1949-04-01 00:00:00.0,,RDPI,,commission des finances,Guyane,,g.patient@senat.fr,Cadres administratifs et commerciaux d'entreprise,Salariés (Cadres divers),Consultant financier
 000112,M.,Patria,Pierre,ANCIEN,1904-11-05 00:00:00.0,1983-05-25 00:00:00.0,RI,,commission de l'économie,Oise,,,Agriculteurs exploitants,Professions agricoles,Agriculteur
 08061X,M.,Patriat,François,ACTIF,1943-03-21 00:00:00.0,,RDPI,,commission des affaires sociales,Côte-d'Or,,f.patriat@senat.fr,Professions libérales,Professions judiciaires et libérales (Divers),Docteur vétérinaire
-21421H,Mme,Patru,Anne-Sophie,ACTIF,1975-02-15 00:00:00.0,,UC,,commission des lois,Ille-et-Vilaine,,,Autres personnes sans activité professionnelle,Sans profession déclarée,
+21421H,Mme,Patru,Anne-Sophie,ACTIF,1975-02-15 00:00:00.0,,UC,,commission des lois,Ille-et-Vilaine,,as.patru@senat.fr,Autres personnes sans activité professionnelle,Sans profession déclarée,
 08047A,M.,Paul,Philippe,ACTIF,1965-01-25 00:00:00.0,,Les Républicains,Rattaché,commission des affaires étrangères,Finistère,,p.paul@senat.fr,Cadres administratifs et commerciaux d'entreprise,Salariés (Cadres divers),Cadre du secteur privé
 000090,M.,Paulian,Gilbert,ANCIEN,1903-11-06 00:00:00.0,1984-05-22 00:00:00.0,RI,Apparenté,commission de l'économie,Alger,,,Agriculteurs exploitants,Professions agricoles,Directeur d'exploitation agricole
 000048,M.,Pauly,Paul,ANCIEN,1901-07-22 00:00:00.0,1973-06-27 00:00:00.0,SER,,commission des finances,Creuse,,,Cadres de la fonction publique,Fonctionnaires (Cadres moyens),Percepteur
@@ -1620,7 +1620,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 95060H,M.,Ralite,Jack,ANCIEN,1928-05-14 00:00:00.0,2017-11-12 00:00:00.0,CRCE,,commission de la culture,Seine-Saint-Denis,,j.ralite@senat.fr,"Journalistes, secrétaires de rédaction",Professions libérales (Journalistes),Journaliste
 59245L,M.,Ramassamy,Albert,ANCIEN,1923-11-13 00:00:00.0,2018-11-04 00:00:00.0,SER,,commission des lois,La Réunion,,,"Professeurs des écoles, instituteurs et assimilés",Enseignement secondaire,Proviseur
 19349W,M.,Rambaud,Didier,ACTIF,1959-05-12 00:00:00.0,,RDPI,,commission des finances,Isère,,d.rambaud@senat.fr,Cadres de la fonction publique,Fonctionnaires (Cadres moyens),Cadre administratif
-21422J,Mme,Ramia,Salama,ACTIF,1968-02-22 00:00:00.0,,RDPI,,commission des lois,Mayotte,,,Autres personnes sans activité professionnelle,Sans profession déclarée,
+21422J,Mme,Ramia,Salama,ACTIF,1968-02-22 00:00:00.0,,RDPI,,commission des lois,Mayotte,,s.ramia@senat.fr,Autres personnes sans activité professionnelle,Sans profession déclarée,
 19794Q,Mme,Ramond,Françoise,ANCIEN,1940-09-29 00:00:00.0,,Les Républicains,Apparenté,commission de l'aménagement du territoire et du développement durable,Eure-et-Loir,,f.ramond@senat.fr,Autres personnes sans activité professionnelle,Sans profession déclarée,Ingénieure
 01016M,M.,Raoul,Daniel,ANCIEN,1941-07-28 00:00:00.0,,SER,,commission des finances,Maine-et-Loire,,d.raoul@senat.fr,Autres personnes sans activité professionnelle,Enseignement supérieur (sauf Professeurs de médecine),Universitaire
 92042S,M.,Raoult,Paul,ANCIEN,1944-11-26 00:00:00.0,,SER,,commission de l'économie,Nord,,Non public,"Professeurs des écoles, instituteurs et assimilés",Enseignement secondaire,Professeur d'histoire-géographie
