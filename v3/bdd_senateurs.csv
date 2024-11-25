@@ -4,7 +4,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 57316A,M.,Abdellatif,Mohamed,ANCIEN,1918-08-23 00:00:00.0,1998-12-02 00:00:00.0,RI,,commission de la culture,Tizi-Ouzou,,,Professions intermédiaires administratives de la fonction publique,Fonctionnaires (Cadres moyens),Propriétaire agriculteur
 95004Y,M.,About,Nicolas,ANCIEN,1947-07-14 00:00:00.0,,UC,,commission des affaires sociales,Yvelines,,n.about@senat.fr,Medecins libéraux généralistes,Professions médicales (Médecins),Médecin
 000346,M.,Achour,Youssef,ANCIEN,1914-09-07 00:00:00.0,1992-12-15 00:00:00.0,G.D.,,commission des lois,Alger,,,Personnels de direction de la fonction publique,Fonctionnaires (Hauts Fonctionnaires),Sous-préfet
-08008S,M.,Ackermann,Yves,ANCIEN,1949-06-01 00:00:00.0,,SER,,Aucune (Président du Sénat),Territoire de Belfort,,,Cadres et Professions intellectuelles supérieures,Salariés (Cadres divers),Juriste
+08008S,M.,Ackermann,Yves,ANCIEN,1949-06-01 00:00:00.0,,SER,,Aucune,Territoire de Belfort,,,Cadres et Professions intellectuelles supérieures,Salariés (Cadres divers),Juriste
 89017R,M.,Adnot,Philippe,ANCIEN,1945-08-25 00:00:00.0,,NI,,commission des finances,Aube,,p.adnot@senat.fr,Agriculteurs exploitants,Professions agricoles,Agriculteur
 21071F,Mme,Aeschlimann,Marie-Do,ACTIF,1974-04-17 00:00:00.0,,Les Républicains,,commission des affaires sociales,Hauts-de-Seine,,md.aeschlimann@senat.fr,"Huissiers de justice, officiers ministériels et professions libérales divers",Professions judiciaires et libérales (Officiers ministériels),Avocat
 000448,M.,Agarande,Henri,ANCIEN,1920-09-13 00:00:00.0,1983-08-06 00:00:00.0,SER,Apparenté,commission de la culture,Guyane,,,Anciens cadres,Enseignement (Retraités),Ancien directeur de collège
@@ -74,7 +74,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 89046W,M.,Bailet,Honoré,ANCIEN,1920-02-27 00:00:00.0,2003-09-16 00:00:00.0,RPR,,commission de la culture,Alpes-Maritimes,,,Commercants et assimilés,Commerce et industrie (Commercants),Chevillard
 11039M,M.,Bailly,Dominique,ANCIEN,1960-01-02 00:00:00.0,,SER,,commission de la culture,Nord,Questeur du Sénat,d.bailly@senat.fr,Autres personnes sans activité professionnelle,Fonctionnaires (Cadres moyens),Fonctionnaire du ministère des Finances
 01008M,M.,Bailly,Gérard,ANCIEN,1940-01-28 00:00:00.0,,Les Républicains,,commission des affaires économiques,Jura,,g.bailly@senat.fr,Autres personnes sans activité professionnelle,Professions agricoles,Agriculteur
-000490,M.,Bailly,Jean,ANCIEN,1922-05-31 00:00:00.0,1984-04-21 00:00:00.0,U.D.R.,,Aucune (Président du Sénat),Territoire de Belfort,,,Personnels de direction de la fonction publique,Fonctionnaires (Hauts Fonctionnaires),Administrateur Civil
+000490,M.,Bailly,Jean,ANCIEN,1922-05-31 00:00:00.0,1984-04-21 00:00:00.0,U.D.R.,,Aucune,Territoire de Belfort,,,Personnels de direction de la fonction publique,Fonctionnaires (Hauts Fonctionnaires),Administrateur Civil
 000339,M.,Bajeux,Octave,ANCIEN,1914-04-23 00:00:00.0,1986-09-19 00:00:00.0,U.C.D.P.,,commission de l'économie,Nord,,,Agriculteurs exploitants,Professions agricoles,Agriculteur
 84004P,M.,Balarello,José,ANCIEN,1926-12-25 00:00:00.0,2015-02-25 00:00:00.0,Les Républicains,,commission des lois,Alpes-Maritimes,,jose.balarello@wanadoo.fr,Anciens cadres,Professions judiciaires et libérales (Retraités),Avocat honoraire
 000115,M.,Balestra,Clément,ANCIEN,1905-02-24 00:00:00.0,1984-11-14 00:00:00.0,SER,,commission de la culture,Var,,,Professions intermédiaires administratives de la fonction publique,Fonctionnaires (Divers),Chef de travaux de la marine nationale
@@ -120,7 +120,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 11030C,M.,Béchu,Christophe,ANCIEN,1974-06-11 00:00:00.0,,Les Républicains,,commission des lois,Maine-et-Loire,,c.bechu@senat.fr,Autres personnes sans activité professionnelle,Sans profession déclarée,
 95009E,M.,Bécot,Michel,ANCIEN,1939-10-10 00:00:00.0,,Les Républicains,,commission des affaires économiques,Deux-Sèvres,,m.becot@senat.fr,Chefs d'entreprise de 10 salaries ou plus,Commerce et industrie (Chefs d'entreprises),Chef d'entreprise
 000054,M.,Beguere,Antoine,ANCIEN,1901-09-29 00:00:00.0,1960-10-23 00:00:00.0,RI,,commission des affaires sociales,Hautes-Pyrénées,,,Chefs d'entreprise de 10 salaries ou plus,Commerce et industrie (Chefs d'entreprises),Entrepreneur de travaux publics
-98006P,M.,Bel,Jean-Pierre,ANCIEN,1951-12-30 00:00:00.0,,SER,,Aucune (Président du Sénat),Ariège,Président du Sénat,bel1.jean-pierre@wanadoo.fr,Autres personnes sans activité professionnelle,Professions libérales (Publicistes),Juriste
+98006P,M.,Bel,Jean-Pierre,ANCIEN,1951-12-30 00:00:00.0,,SER,,Aucune,Ariège,Président du Sénat,bel1.jean-pierre@wanadoo.fr,Autres personnes sans activité professionnelle,Professions libérales (Publicistes),Juriste
 000091,M.,Belabed,Mohamed,ANCIEN,1903-11-10 00:00:00.0,1983-05-25 00:00:00.0,NI,,commission de la culture,Oran-Tlemcen,,,Commercants et assimilés,Commerce et industrie (Négociants),Négociant
 80007A,M.,Belcour,Henri,ANCIEN,1926-09-11 00:00:00.0,2003-11-19 00:00:00.0,RPR,,commission des affaires sociales,Corrèze,,,Medecins libéraux généralistes,Professions médicales (Médecins),Médecin
 000013,M.,Belhabich,Sliman,ANCIEN,1900-05-15 00:00:00.0,1977-08-14 00:00:00.0,U.N.R.,,commission des affaires sociales,Oran-Tlemcen,,,Policiers et militaires,Fonctionnaires (Militaires),Militaire (Lieutenant-colonel)
@@ -202,7 +202,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 92011K,M.,Blanc,Paul,ANCIEN,1937-01-29 00:00:00.0,,Les Républicains,,commission des affaires sociales,Pyrénées-Orientales,,senateur.paul.blanc@wanadoo.fr,Medecins libéraux généralistes,Professions médicales (Médecins),Médecin
 57426F,M.,Blanchet,Jean-Pierre,ANCIEN,1914-02-28 00:00:00.0,2000-07-29 00:00:00.0,NI,,commission des affaires sociales,Loire,Secrétaire du Sénat,,Chirurgiens-dentistes (libéraux ou salariés),Professions médicales (Dentistes),Chirurgien-dentiste
 01044R,Mme,Blandin,Marie-Christine,ANCIEN,1952-09-22 00:00:00.0,,NI,,commission de la culture,Nord,,mc.blandin@senat.fr,Autres personnes sans activité professionnelle,Enseignement secondaire,Professeur de biologie
-20176K,Mme,Blandin,Valérie,ANCIEN,1980-11-26 00:00:00.0,,NI,,Aucune (Président du Sénat),Manche,,,Autres personnes sans activité professionnelle,Sans profession déclarée,
+20176K,Mme,Blandin,Valérie,ANCIEN,1980-11-26 00:00:00.0,,NI,,Aucune,Manche,,,Autres personnes sans activité professionnelle,Sans profession déclarée,
 20094J,Mme,Blatrix Contat,Florence,ACTIF,1966-03-30 00:00:00.0,,SER,,commission des finances,Ain,,f.blatrix-contat@senat.fr,"Professeurs, professions scientifiques",Enseignement supérieur (sauf Professeurs de médecine),Professeur agrégé
 21050A,M.,Bleunven,Yves,ACTIF,1963-02-02 00:00:00.0,,UC,,commission des affaires économiques,Morbihan,,y.bleunven@senat.fr,Chefs d'entreprise de 10 salaries ou plus,Commerce et industrie (Chefs d'entreprises),Chef d'entreprise de 10 salariés ou plus
 71003U,M.,Blin,Maurice,ANCIEN,1922-08-28 00:00:00.0,2016-06-16 00:00:00.0,UC,,commission des finances,Ardennes,,m.blin@senat.fr,"Professeurs, professions scientifiques",Enseignement supérieur (sauf Professeurs de médecine),Universitaire
@@ -223,7 +223,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 58921V,M.,Bonifay,Charles,ANCIEN,1919-07-19 00:00:00.0,2017-01-28 00:00:00.0,SER,,commission des affaires sociales,Bouches-du-Rhône,Secrétaire du Sénat,,Anciens cadres et professions liberales,Salariés (Retraités),Directeur Honoraire de l'URSSAF des Bouches-du-Rhône
 19415P,M.,Bonne,Bernard,ANCIEN,1948-09-18 00:00:00.0,,Les Républicains,,commission des affaires sociales,Loire,,b.bonne@senat.fr,Medecins libéraux généralistes,Professions médicales (Médecins),Médecin
 20042V,M.,Bonneau,François,ACTIF,1958-02-08 00:00:00.0,,UC,Apparenté,commission des affaires étrangères,Charente,,f.bonneau@senat.fr,Professions libérales,Professions judiciaires et libérales (Divers),Docteur en pharmacie
-14089Y,M.,Bonnecarrère,Philippe,ANCIEN,1955-07-12 00:00:00.0,,UC,,Aucune (Président du Sénat),Tarn,,p.bonnecarrere@senat.fr,Professions libérales,Professions judiciaires et libérales (Divers),Avocat
+14089Y,M.,Bonnecarrère,Philippe,ANCIEN,1955-07-12 00:00:00.0,,UC,,Aucune,Tarn,,p.bonnecarrere@senat.fr,Professions libérales,Professions judiciaires et libérales (Divers),Avocat
 58619S,M.,Bonnefous,Edouard,ANCIEN,1907-08-24 00:00:00.0,2007-02-24 00:00:00.0,G.D.,,commission des finances,Yvelines,,,"Professeurs, professions scientifiques",Enseignement supérieur (sauf Professeurs de médecine),Professeur à l'Institut des hautes études internationales
 000696,M.,Bonnefous,Raymond,ANCIEN,1893-05-08 00:00:00.0,1979-07-05 00:00:00.0,RI,,commission des lois,Aveyron,,,Medecins libéraux généralistes,Professions médicales (Chirurgiens),Chirurgien
 08060W,Mme,Bonnefoy,Nicole,ACTIF,1958-08-11 00:00:00.0,,SER,,commission de l'aménagement du territoire et du développement durable,Charente,Secrétaire du Sénat,n.bonnefoy@senat.fr,Personnes diverses sans activité professionnelle de 60 ans et plus (sauf retraités),Sans profession déclarée,Attachée parlementaire
@@ -334,7 +334,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 83020K,M.,Cabanel,Guy-Pierre,ANCIEN,1927-04-07 00:00:00.0,2016-03-15 00:00:00.0,RDSE,,commission des lois,Isère,,Non public,Médecins hospitaliers (sans activité libérale),Professions médicales (Professeurs),Professeur d'Université
 14207L,M.,Cabanel,Henri,ACTIF,1959-03-09 00:00:00.0,,RDSE,,commission des affaires économiques,Hérault,,h.cabanel@senat.fr,Agriculteurs sur moyenne exploitation,Professions agricoles,Viticulteur
 19926J,Mme,Cabaret,Muriel,ANCIEN,1955-03-09 00:00:00.0,,SER,,commission des affaires sociales,Sarthe,,,Retraités,Fonctionnaires (Retraités),Retraitée de la fonction publique territoriale
-58366Q,M.,Cabocel,Rémi,ANCIEN,1926-09-13 00:00:00.0,2009-10-22 00:00:00.0,NI,,Aucune (Président du Sénat),Moselle,,,Agriculteurs exploitants,Professions agricoles,Agriculteur
+58366Q,M.,Cabocel,Rémi,ANCIEN,1926-09-13 00:00:00.0,2009-10-22 00:00:00.0,NI,,Aucune,Moselle,,,Agriculteurs exploitants,Professions agricoles,Agriculteur
 20104S,M.,Cadec,Alain,ACTIF,1953-06-21 00:00:00.0,,Les Républicains,Apparenté,commission des affaires économiques,Côtes-d'Armor,,a.cadec@senat.fr,Anciens cadres,Salariés (Retraités),Retraité
 14255U,M.,Cadic,Olivier,ACTIF,1962-04-22 00:00:00.0,,UC,,commission des affaires étrangères,Français établis hors de France,,o.cadic@senat.fr,Chefs d'entreprise de 10 salaries ou plus,Commerce et industrie (Chefs d'entreprises),Chef d'entreprise
 04066L,M.,Caffet,Jean-Pierre,ANCIEN,1951-11-08 00:00:00.0,,RDPI,,commission des affaires sociales,Paris,Vice-président du Sénat,jp.caffet@senat.fr,Cadres de la fonction publique,Fonctionnaires (Hauts Fonctionnaires),Fonctionnaire
@@ -412,7 +412,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 08057C,M.,Chastan,Yves,ANCIEN,1948-04-20 00:00:00.0,,SER,,commission de l'aménagement du territoire et du développement durable,Ardèche,,y.chastan@senat.fr,Professions intermédiaires administratives de la fonction publique,Fonctionnaires (Cadres moyens),Cadre territorial
 000439,M.,Chatelain,Fernand,ANCIEN,1920-01-31 00:00:00.0,1979-06-11 00:00:00.0,C,,commission de l'économie,Val-d'Oise,,,"Professeurs des écoles, instituteurs et assimilés",Enseignement primaire,Instituteur
 08028W,M.,Chatillon,Alain,ACTIF,1943-03-15 00:00:00.0,,Les Républicains,,commission des affaires économiques,Haute-Garonne,,a.chatillon@senat.fr,Anciens cadres,Salariés (Retraités),Chef d'entreprise
-19920C,M.,Chaudun,Christophe,ANCIEN,1969-11-20 00:00:00.0,,NI,,Aucune (Président du Sénat),Sarthe,,,Autres personnes sans activité professionnelle,Sans profession déclarée,
+19920C,M.,Chaudun,Christophe,ANCIEN,1969-11-20 00:00:00.0,,NI,,Aucune,Sarthe,,,Autres personnes sans activité professionnelle,Sans profession déclarée,
 77012W,M.,Chaumont,Jacques,ANCIEN,1934-11-17 00:00:00.0,,Les Républicains,,commission des finances,Sarthe,,,Anciens cadres,Fonctionnaires (Retraités),Secrétaire des Affaires étrangères (honoraire)
 59221C,M.,Chauty,Michel,ANCIEN,1924-02-11 00:00:00.0,2007-08-16 00:00:00.0,RPR,,commission des affaires étrangères,Loire-Atlantique,,,Commercants et assimilés,Commerce et industrie (Négociants),Représentant de tissages
 04099V,M.,Chauveau,Jean-Pierre,ANCIEN,1942-11-08 00:00:00.0,,Les Républicains,,commission de la culture,Sarthe,,jp.chauveau@senat.fr,Cadres d'entreprise,Salariés (Cadres divers),Cadre de l'industrie
@@ -458,7 +458,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 59223E,M.,Collette,Henri,ANCIEN,1922-05-30 00:00:00.0,1998-12-12 00:00:00.0,RPR,,commission de l'économie,Pas-de-Calais,,,"Huissiers de justice, officiers ministériels et professions libérales divers",Professions judiciaires et libérales (Officiers ministériels),Notaire
 88008L,M.,Collin,Yvon,ANCIEN,1944-04-10 00:00:00.0,,RDSE,,commission des finances,Tarn-et-Garonne,,y.collin@senat.fr,Personnels de direction de la fonction publique,Fonctionnaires (Retraités),Directeur de Cabinet
 59528U,M.,Collomb,Francisque,ANCIEN,1910-12-19 00:00:00.0,2009-07-24 00:00:00.0,UC,Rattaché,commission de l'économie,Rhône,,,Chefs d'entreprise de 10 salaries ou plus,Commerce et industrie (Chefs d'entreprises),Industriel
-99002P,M.,Collomb,Gérard,ANCIEN,1947-06-20 00:00:00.0,2023-11-25 00:00:00.0,NI,,Aucune (Président du Sénat),Rhône,,g.collomb@senat.fr,"Professeurs, professions scientifiques",Enseignement secondaire,Professeur agrégé de lettres classiques
+99002P,M.,Collomb,Gérard,ANCIEN,1947-06-20 00:00:00.0,2023-11-25 00:00:00.0,NI,,Aucune,Rhône,,g.collomb@senat.fr,"Professeurs, professions scientifiques",Enseignement secondaire,Professeur agrégé de lettres classiques
 04038G,M.,Collombat,Pierre-Yves,ANCIEN,1945-07-18 00:00:00.0,,CRCE,Rattaché,commission des lois,Var,,py.collombat@senat.fr,"Professeurs, professions scientifiques",Enseignement (Retraités),Professeur agrégé de philosophie
 14209N,M.,Commeinhes,François,ANCIEN,1949-11-10 00:00:00.0,,Les Républicains,,commission de la culture,Hérault,,f.commeinhes@senat.fr,Médecins hospitaliers (sans activité libérale),Professions médicales (Chirurgiens),Médecin gynécologue
 19295A,Mme,Conconne,Catherine,ACTIF,1963-05-18 00:00:00.0,,SER,,commission des affaires sociales,Martinique,Secrétaire du Sénat,c.conconne@senat.fr,Autres personnes sans activité professionnelle,Autres professions,
@@ -572,7 +572,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 83050R,M.,de Rohan,Josselin,ANCIEN,1938-06-05 00:00:00.0,,Les Républicains,,commission des affaires étrangères,Morbihan,,j.de-rohan@senat.fr,Personnels de direction de la fonction publique,Fonctionnaires (Hauts Fonctionnaires),"Administrateur civil "
 14363X,Mme,de Rose,Marie-France,ANCIEN,1943-04-25 00:00:00.0,,Les Républicains,,commission de la culture,Hauts-de-Seine,,mf.de-rose@senat.fr,Autres personnes sans activité professionnelle,Sans profession déclarée,
 000268,M.,de Tinguy du Pouet,Lionel,ANCIEN,1911-04-06 00:00:00.0,1981-09-09 00:00:00.0,U.C.D.P.,,commission des lois,Vendée,,,Personnels de direction de la fonction publique,Fonctionnaires (Hauts Fonctionnaires),Conseiller d'Etat
-000668,M.,de Villeneuve Bargemont,Augustin,ANCIEN,1909-07-16 00:00:00.0,1989-07-25 00:00:00.0,NI,,Aucune (Président du Sénat),Somme,,,Agriculteurs exploitants,Professions agricoles,Agriculteur
+000668,M.,de Villeneuve Bargemont,Augustin,ANCIEN,1909-07-16 00:00:00.0,1989-07-25 00:00:00.0,NI,,Aucune,Somme,,,Agriculteurs exploitants,Professions agricoles,Agriculteur
 86050E,M.,de Villepin,Xavier,ANCIEN,1926-03-14 00:00:00.0,2014-10-29 00:00:00.0,Les Républicains,,commission des affaires étrangères,Français établis hors de France,,Non public,Chefs d'entreprise de 10 salaries ou plus,Commerce et industrie (Chefs d'entreprises),Industriel
 000669,M.,de Villoutreys de Brignac,Pierre,ANCIEN,1897-04-29 00:00:00.0,1972-03-31 00:00:00.0,RI,,commission de l'économie,Maine-et-Loire,,,Chefs d'entreprise de 10 salaries ou plus,Commerce et industrie (Chefs d'entreprises),Industriel
 000239,M.,de Wazieres,Raymond,ANCIEN,1910-03-25 00:00:00.0,1984-05-29 00:00:00.0,G.D.,,commission des affaires sociales,Somme,,,Agriculteurs exploitants,Professions agricoles,Agriculteur
@@ -624,7 +624,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 08022Q,Mme,Des Esgaulx,Marie-Hélène,ANCIEN,1950-05-26 00:00:00.0,,Les Républicains,,commission des finances,Gironde,,mh.des-esgaulx@senat.fr,Avocats,Professions judiciaires et libérales (Retraités),Avocat à la Cour
 000728,M.,Desache,Marc,ANCIEN,1892-10-15 00:00:00.0,1982-01-15 00:00:00.0,U.N.R.,,commission des finances,Indre-et-Loire,,,Anciens cadres,Professions judiciaires et libérales (Retraités),Agent de change honoraire
 58670V,M.,Desbriere,Bernard,ANCIEN,1935-05-10 00:00:00.0,,SER,,commission de l'économie,Saône-et-Loire,,,Agriculteurs exploitants,Professions agricoles,Viticulteur
-07028S,Mme,Descamps,Béatrice,ANCIEN,1951-06-22 00:00:00.0,,NI,,Aucune (Président du Sénat),Nord,,b.descamps@senat.fr,"Professeurs, professions scientifiques",Enseignement secondaire,Professeur
+07028S,Mme,Descamps,Béatrice,ANCIEN,1951-06-22 00:00:00.0,,NI,,Aucune,Nord,,b.descamps@senat.fr,"Professeurs, professions scientifiques",Enseignement secondaire,Professeur
 83028T,M.,Descours,Charles,ANCIEN,1937-12-31 00:00:00.0,,RPR,,commission des affaires sociales,Isère,,Non public,Medecins libéraux généralistes,Professions médicales (Chirurgiens),Chirurgien
 000331,M.,Descours Desacres,Jacques,ANCIEN,1914-01-21 00:00:00.0,1993-10-31 00:00:00.0,U.R.E.I.,,commission des finances,Calvados,,,Agriculteurs exploitants,Professions agricoles,Agriculteur
 04067M,M.,Desessard,Jean,ANCIEN,1952-09-06 00:00:00.0,,NI,,commission des affaires sociales,Paris,,j.desessard@senat.fr,Cadres d'entreprise,Salariés (Cadres divers),Directeur de centre socio-culturel
@@ -824,7 +824,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 20286Q,Mme,Gacquerre,Amel,ACTIF,1976-12-20 00:00:00.0,,UC,,commission des affaires économiques,Pas-de-Calais,,a.gacquerre@senat.fr,Professions libérales,Autres professions,Consultante
 000675,M.,Gadoin,Jacques,ANCIEN,1892-12-01 00:00:00.0,1974-04-19 00:00:00.0,G.D.,,commission de l'économie,Nièvre,Questeur du Sénat,,Chefs d'entreprise de 10 salaries ou plus,Commerce et industrie (Chefs d'entreprises),Banquier
 94003T,M.,Gaillard,Yann,ANCIEN,1936-10-09 00:00:00.0,2022-11-06 00:00:00.0,Les Républicains,,commission des finances,Aube,,y.gaillard@senat.fr,Personnels de direction de la fonction publique,Fonctionnaires (Hauts Fonctionnaires),Inspecteur général des Finances
-08001K,M.,Gallard,Maurice,ANCIEN,1891-03-17 00:00:00.0,1969-08-12 00:00:00.0,NI,,Aucune (Président du Sénat),Loiret,,,Policiers et militaires,Fonctionnaires (Militaires),Lieutenant Colonel en retraite
+08001K,M.,Gallard,Maurice,ANCIEN,1891-03-17 00:00:00.0,1969-08-12 00:00:00.0,NI,,Aucune,Loiret,,,Policiers et militaires,Fonctionnaires (Militaires),Lieutenant Colonel en retraite
 59229L,M.,Gallet,Henri,ANCIEN,1921-12-23 00:00:00.0,2009-05-18 00:00:00.0,SER,,commission des lois,Pas-de-Calais,,,Agriculteurs exploitants,Professions agricoles,Agriculteur retraité
 000455,M.,Galley,Robert,ANCIEN,1921-01-11 00:00:00.0,2012-06-08 00:00:00.0,RPR,,commission des affaires sociales,Aube,,,Ingenieurs et cadres techniques d'entreprise,Salariés (Ingénieurs),Ingénieur
 58668C,M.,Gamboa,Pierre,ANCIEN,1933-02-01 00:00:00.0,2014-11-19 00:00:00.0,C,,commission des finances,Essonne,,,"Journalistes, secrétaires de rédaction",Professions libérales (Journalistes),Journaliste
@@ -942,8 +942,8 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 21092L,Mme,Guhl,Antoinette,ACTIF,1970-06-10 00:00:00.0,,GEST,,commission des affaires économiques,Paris,,Non public,Cadres de la publicité; cadres des relations publiques,Professions libérales (Publicistes),Cadre administratif et commercial d'entreprise
 01002F,M.,Guichard,Pierre,ANCIEN,1948-05-01 00:00:00.0,,RDSE,,commission de la culture,Jura,,,Cadres administratifs et commerciaux d'entreprise,Commerce et industrie (Chefs d'entreprises),Gérant de société
 19691J,Mme,Guidez,Jocelyne,ACTIF,1956-09-26 00:00:00.0,,UC,,commission des affaires sociales,Essonne,,j.guidez@senat.fr,Professions de l'information des arts et spectacles,Autres professions,Artiste
-58332E,M.,Guillard,Paul,ANCIEN,1910-11-17 00:00:00.0,2008-11-19 00:00:00.0,U.R.E.I.,,Aucune (Président du Sénat),Loire-Atlantique,Questeur du Sénat,,Agriculteurs exploitants,Professions agricoles,Maraîcher
-08016S,M.,Guillaume,Didier,ANCIEN,1959-05-11 00:00:00.0,,NI,,Aucune (Président du Sénat),Drôme,,d.guillaume@senat.fr,Professions intermédiaires administratives de la fonction publique,Autres professions,Agent du Trésor public
+58332E,M.,Guillard,Paul,ANCIEN,1910-11-17 00:00:00.0,2008-11-19 00:00:00.0,U.R.E.I.,,Aucune,Loire-Atlantique,Questeur du Sénat,,Agriculteurs exploitants,Professions agricoles,Maraîcher
+08016S,M.,Guillaume,Didier,ANCIEN,1959-05-11 00:00:00.0,,NI,,Aucune,Drôme,,d.guillaume@senat.fr,Professions intermédiaires administratives de la fonction publique,Autres professions,Agent du Trésor public
 59233G,M.,Guillaume,Robert,ANCIEN,1922-04-25 00:00:00.0,2004-04-07 00:00:00.0,SER,,commission de la culture,Nièvre,,,Anciens cadres,Fonctionnaires (Retraités),Retraité de l'éducation nationale
 58625Q,M.,Guillaumot,Paul,ANCIEN,1913-07-08 00:00:00.0,2011-11-11 00:00:00.0,U.R.E.I.,,commission de l'économie,Yonne,,,Agriculteurs exploitants,Professions agricoles,Agriculteur
 000216,M.,Guille,Georges,ANCIEN,1909-07-20 00:00:00.0,1985-11-17 00:00:00.0,SER,,commission des affaires étrangères,Aude,,,"Professeurs des écoles, instituteurs et assimilés",Enseignement primaire,Instituteur
@@ -1122,7 +1122,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 21078N,M.,Laouedj,Ahmed,ACTIF,1968-08-21 00:00:00.0,,RDSE,,commission de la culture,Seine-Saint-Denis,,a.laouedj@senat.fr,Magistrats,Professions judiciaires (Magistrats),Cadre de la fonction publique
 000219,M.,Laplace,Adrien,ANCIEN,1909-09-18 00:00:00.0,1992-06-05 00:00:00.0,G.D.,,commission de la culture,Tarn-et-Garonne,,,Agriculteurs exploitants,Professions agricoles,Agriculteur
 77033C,M.,Larché,Jacques,ANCIEN,1920-02-04 00:00:00.0,2014-08-13 00:00:00.0,Les Républicains,,commission des lois,Seine-et-Marne,,,Avocats,Professions judiciaires et libérales (Avocats),Avocat
-86034E,M.,Larcher,Gérard,ACTIF,1949-09-14 00:00:00.0,,Les Républicains,,Aucune (Président du Sénat),Yvelines,Président du Sénat,g.larcher@senat.fr,Vétérinaires (libéraux ou salariés),Professions médicales (Vétérinaires),Docteur vétérinaire
+86034E,M.,Larcher,Gérard,ACTIF,1949-09-14 00:00:00.0,,Les Républicains,,Aucune,Yvelines,Président du Sénat,g.larcher@senat.fr,Vétérinaires (libéraux ou salariés),Professions médicales (Vétérinaires),Docteur vétérinaire
 04094Q,M.,Larcher,Serge,ANCIEN,1945-10-17 00:00:00.0,,SER,,commission des affaires économiques,Martinique,Secrétaire du Sénat,s.larcher@senat.fr,"Professeurs, professions scientifiques",Enseignement secondaire,Professeur de lettres
 01018P,M.,Lardeux,André,ANCIEN,1946-08-22 00:00:00.0,,Les Républicains,,commission des affaires sociales,Maine-et-Loire,,a.lardeux@senat.fr,Autres personnes sans activité professionnelle,Enseignement secondaire,Professeur agrégé d'histoire
 95043G,M.,Larifla,Dominique,ANCIEN,1936-07-06 00:00:00.0,,RDSE,,commission des affaires sociales,Guadeloupe,,Non public,Medecins libéraux généralistes,Fonctionnaires (Divers),Cardiologue (médecin des hôpitaux)
@@ -1220,7 +1220,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 11077T,Mme,Lienemann,Marie-Noëlle,ANCIEN,1951-07-12 00:00:00.0,,CRCE,,commission des affaires économiques,Paris,,mn.lienemann@senat.fr,Autres personnes sans activité professionnelle,Enseignement (Retraités),Professeur de l'Education nationale
 18207D,Mme,Linkenheld,Audrey,ACTIF,1973-10-11 00:00:00.0,,SER,,commission des lois,Nord,,a.linkenheld@senat.fr,Cadres de la publicité; cadres des relations publiques,Professions libérales (Publicistes),Cadre du secteur privé
 000200,M.,Liot,Robert,ANCIEN,1908-09-18 00:00:00.0,1982-05-27 00:00:00.0,U.N.R.,,commission des affaires sociales,Nord,,,Professions intermédiaires administratives de la fonction publique,Fonctionnaires (Cadres moyens),Inspecteur central des contributions
-12035A,Mme,Lipietz,Hélène,ANCIEN,1958-05-07 00:00:00.0,,NI,,Aucune (Président du Sénat),Seine-et-Marne,,h.lipietz@senat.fr,Artisans,Commerce et industrie (Artisans),Restauratrice-bouquiniste
+12035A,Mme,Lipietz,Hélène,ANCIEN,1958-05-07 00:00:00.0,,NI,,Aucune,Seine-et-Marne,,h.lipietz@senat.fr,Artisans,Commerce et industrie (Artisans),Restauratrice-bouquiniste
 95044H,M.,Lise,Claude,ANCIEN,1941-01-31 00:00:00.0,,SER,Apparenté,commission de l'économie,Martinique,,c.lise@senat.fr,Medecins libéraux généralistes,Professions médicales (Médecins),Médecin
 59546W,M.,Lise,Roger,ANCIEN,1927-07-26 00:00:00.0,2023-04-26 00:00:00.0,UC,,commission des affaires sociales,Martinique,,,Cadres d'entreprise,Salariés (Cadres divers),Capitaine au long cours
 14205J,Mme,Loisier,Anne-Catherine,ACTIF,1969-03-13 00:00:00.0,,UC,Rattaché,commission des affaires économiques,Côte-d'Or,,ac.loisier@senat.fr,Cadres administratifs et commerciaux d'entreprise,Salariés (Cadres divers),Gestionnaire de forêts
@@ -1289,7 +1289,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 92035T,M.,Marini,Philippe,ANCIEN,1950-01-28 00:00:00.0,,Les Républicains,,commission de la culture,Oise,,p.marini@senat.fr,Avocats,Professions judiciaires et libérales (Avocats),"Inspecteur des finances, avocat à la Cour"
 000746,M.,Maroselli,André,ANCIEN,1893-02-22 00:00:00.0,1970-04-07 00:00:00.0,G.D.,,commission des finances,Haute-Saône,,,Professions libérales,Professions judiciaires et libérales (Divers),Administrateur de sociétés
 92036U,M.,Marquès,René,ANCIEN,1923-01-17 00:00:00.0,2013-08-01 00:00:00.0,UC,,commission des affaires étrangères,Pyrénées-Orientales,,,Medecins libéraux généralistes,Professions médicales (Médecins),Médecin
-000738,M.,Marrane,Georges,ANCIEN,1888-01-20 00:00:00.0,1976-08-27 00:00:00.0,C,,Aucune (Président du Sénat),Seine,,,Ouvriers,Salariés (Ouvriers),Mécanicien
+000738,M.,Marrane,Georges,ANCIEN,1888-01-20 00:00:00.0,1976-08-27 00:00:00.0,C,,Aucune,Seine,,,Ouvriers,Salariés (Ouvriers),Mécanicien
 000227,M.,Marre,Louis,ANCIEN,1909-11-06 00:00:00.0,1992-12-12 00:00:00.0,RI,,commission de l'économie,Savoie,,,Commercants et assimilés,Professions judiciaires et libérales (Divers),Hôtelier
 11085T,M.,Marseille,Hervé,ACTIF,1954-08-20 00:00:00.0,,UC,,commission des lois,Hauts-de-Seine,,h.marseille@senat.fr,Autres personnes sans activité professionnelle,Autres professions,Cadre
 04096S,M.,Marsin,Daniel,ANCIEN,1951-11-13 00:00:00.0,,RDSE,,commission de l'économie,Guadeloupe,,d.marsin@senat.fr,Autres personnes sans activité professionnelle,Salariés (Cadres divers),Cadre supérieur de banque
@@ -1329,9 +1329,9 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 12039E,M.,Mazars,Stéphane,ANCIEN,1969-03-25 00:00:00.0,,RDSE,,commission de l'aménagement du territoire et du développement durable,Aveyron,,s.mazars@senat.fr,Avocats,Professions judiciaires et libérales (Avocats),
 08053X,M.,Mazuir,Rachel,ANCIEN,1940-02-12 00:00:00.0,,SER,,commission des affaires étrangères,Ain,,r.mazuir@senat.fr,Anciens professions intermédiaires,Enseignement (Retraités),Professeur d'éducation physique et sportive
 14221J,M.,Médevielle,Pierre,ACTIF,1960-04-17 00:00:00.0,,Les Indépendants,,commission des affaires économiques,Haute-Garonne,,p.medevielle@senat.fr,Professions libérales,Professions judiciaires et libérales (Divers),Pharmacien
-05015D,M.,Megdoud,Mohamed,ANCIEN,1908-01-16 00:00:00.0,1997-06-16 00:00:00.0,U.N.R.,,Aucune (Président du Sénat),Tizi-Ouzou,,,"Anciens artisans, commercants, chefs d'entreprise",Commerce et industrie (Commercants),Commercant
+05015D,M.,Megdoud,Mohamed,ANCIEN,1908-01-16 00:00:00.0,1997-06-16 00:00:00.0,U.N.R.,,Aucune,Tizi-Ouzou,,,"Anciens artisans, commercants, chefs d'entreprise",Commerce et industrie (Commercants),Commercant
 20252E,M.,Meignen,Thierry,ACTIF,1957-05-17 00:00:00.0,,Les Républicains,,commission des affaires étrangères,Seine-Saint-Denis,,Non public,Professions libérales,Professions judiciaires et libérales (Divers),Chef d'entreprise
-86039K,M.,Mélenchon,Jean-Luc,ANCIEN,1951-08-19 00:00:00.0,,CRCE,,Aucune (Président du Sénat),Essonne,,bureau.melenchon@lepartidegauche.fr,Cadres de la fonction publique,Fonctionnaires (Divers),Cadre administratif
+86039K,M.,Mélenchon,Jean-Luc,ANCIEN,1951-08-19 00:00:00.0,,CRCE,,Aucune,Essonne,,bureau.melenchon@lepartidegauche.fr,Cadres de la fonction publique,Fonctionnaires (Divers),Cadre administratif
 21073H,M.,Mellouli,Akli,ACTIF,1959-12-02 00:00:00.0,,GEST,,commission des affaires étrangères,Val-de-Marne,,a.mellouli@senat.fr,Professions libérales,Sans profession déclarée,Profession libérale
 04057K,Mme,Mélot,Colette,ANCIEN,1947-04-20 00:00:00.0,,Les Indépendants,,commission des affaires sociales,Seine-et-Marne,,c.melot@senat.fr,"Professeurs, professions scientifiques",Enseignement (Retraités),Professeur d'anglais
 000355,M.,Menard,Jacques,ANCIEN,1914-12-31 00:00:00.0,1988-11-18 00:00:00.0,U.R.E.I.,,commission des affaires étrangères,Deux-Sèvres,Questeur du Sénat,,Vétérinaires (libéraux ou salariés),Professions médicales (Vétérinaires),Vétérinaire
@@ -1371,7 +1371,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 000065,M.,Minard,François,ANCIEN,1902-05-05 00:00:00.0,1974-06-22 00:00:00.0,SER,,commission de la culture,Allier,,,Agriculteurs exploitants,Professions agricoles,Agriculteur
 78010Y,M.,Minetti,Louis,ANCIEN,1925-09-01 00:00:00.0,2024-03-14 00:00:00.0,CRCE,,commission de l'économie,Bouches-du-Rhône,,,Agriculteurs exploitants,Professions agricoles,Agriculteur
 000671,M.,Minot,Paul,ANCIEN,1899-02-01 00:00:00.0,1980-03-03 00:00:00.0,RPR,,commission de la culture,Paris,,,Chefs d'entreprise de 10 salaries ou plus,Commerce et industrie (Chefs d'entreprises),Industriel
-000070,M.,Minvielle,Gérard,ANCIEN,1902-10-25 00:00:00.0,1990-07-26 00:00:00.0,SER,,Aucune (Président du Sénat),Landes,Questeur du Sénat,,Cadres de la fonction publique,Fonctionnaires (Hauts Fonctionnaires),Inspecteur des contributions
+000070,M.,Minvielle,Gérard,ANCIEN,1902-10-25 00:00:00.0,1990-07-26 00:00:00.0,SER,,Aucune,Landes,Questeur du Sénat,,Cadres de la fonction publique,Fonctionnaires (Hauts Fonctionnaires),Inspecteur des contributions
 92039X,M.,Miquel,Gérard,ANCIEN,1946-06-17 00:00:00.0,,RDPI,,commission de l'aménagement du territoire et du développement durable,Lot,,g.miquel@senat.fr,Agriculteurs exploitants,Professions agricoles,Agriculteur
 08033T,M.,Mirassou,Jean-Jacques,ANCIEN,1952-11-01 00:00:00.0,,SER,,commission des affaires économiques,Haute-Garonne,,jj.mirassou@senat.fr,Chirurgiens-dentistes (libéraux ou salariés),Professions médicales (Dentistes),Chirurgien-dentiste
 98013N,M.,Miraux,Jean-Luc,ANCIEN,1953-04-17 00:00:00.0,,Les Républicains,,commission de la culture,Eure,,jl.miraux@senat.fr,Autres personnes sans activité professionnelle,Enseignement secondaire,Professeur de lettres
@@ -1497,7 +1497,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 01009N,Mme,Payet,Anne-Marie,ANCIEN,1949-08-01 00:00:00.0,,UC,,commission des affaires sociales,La Réunion,Secrétaire du Sénat,am.payet@senat.fr,Autres personnes sans activité professionnelle,Enseignement primaire,Directrice d'école
 98002K,M.,Payet,Lylian,ANCIEN,1945-06-03 00:00:00.0,,RDSE,,commission des affaires sociales,La Réunion,,Non public,"Professeurs, professions scientifiques",Enseignement (Divers),Conseiller pédagogique
 95053J,M.,Pelchat,Michel,ANCIEN,1935-07-08 00:00:00.0,2004-02-12 00:00:00.0,Les Républicains,,commission des affaires étrangères,Essonne,,Non public,Ingenieurs et cadres techniques d'entreprise,Fonctionnaires (Divers),Ingénieur CEA
-14365A,M.,Pélieu,Michel,ANCIEN,1946-06-26 00:00:00.0,,RDSE,,Aucune (Président du Sénat),Hautes-Pyrénées,,,Autres personnes sans activité professionnelle,Sans profession déclarée,
+14365A,M.,Pélieu,Michel,ANCIEN,1946-06-26 00:00:00.0,,RDSE,,Aucune,Hautes-Pyrénées,,,Autres personnes sans activité professionnelle,Sans profession déclarée,
 59553V,M.,Pellarin,Bernard,ANCIEN,1928-09-18 00:00:00.0,2007-05-17 00:00:00.0,R.D.E.,Rattaché,commission des lois,Haute-Savoie,,,Cadres d'entreprise,Salariés (Cadres divers),Cadre
 000734,M.,Pellenc,Marcel,ANCIEN,1897-03-18 00:00:00.0,1972-10-19 00:00:00.0,G.D.,,commission des finances,Vaucluse,,,Professions intermédiaires administratives de la fonction publique,Fonctionnaires (Cadres moyens),Inspecteur Général
 000714,M.,Pelleray,Paul,ANCIEN,1895-07-12 00:00:00.0,1980-05-13 00:00:00.0,RI,,commission de l'économie,Orne,,,Agriculteurs exploitants,Professions agricoles,Eleveur
@@ -1578,7 +1578,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 000476,M.,Pontillon,Robert,ANCIEN,1921-12-04 00:00:00.0,1992-03-20 00:00:00.0,SER,,commission des affaires étrangères,Hauts-de-Seine,,,"Journalistes, secrétaires de rédaction",Professions libérales (Journalistes),Journaliste
 000141,M.,Poroi,Alfred,ANCIEN,1906-03-03 00:00:00.0,1994-08-27 00:00:00.0,U.N.R.,Apparenté,commission des affaires sociales,Polynésie française,,,Commercants et assimilés,Commerce et industrie (Chefs d'entreprises),Propriétaire d'agence commerciale
 04074L,M.,Portelli,Hugues,ANCIEN,1947-12-22 00:00:00.0,,Les Républicains,,commission des lois,Val-d'Oise,,h.portelli@senat.fr,"Professeurs, professions scientifiques",Enseignement supérieur (sauf Professeurs de médecine),Professeur des universités
-000156,M.,Porteu De La Morandiere,Paul,ANCIEN,1906-10-13 00:00:00.0,1993-01-21 00:00:00.0,RI,,Aucune (Président du Sénat),Ille-et-Vilaine,,,Chefs d'entreprise de 10 salaries ou plus,Commerce et industrie (Chefs d'entreprises),Directeur de banque
+000156,M.,Porteu De La Morandiere,Paul,ANCIEN,1906-10-13 00:00:00.0,1993-01-21 00:00:00.0,RI,,Aucune,Ille-et-Vilaine,,,Chefs d'entreprise de 10 salaries ou plus,Commerce et industrie (Chefs d'entreprises),Directeur de banque
 58917A,M.,Portier,Henri,ANCIEN,1921-06-05 00:00:00.0,2009-06-12 00:00:00.0,RPR,,commission des affaires sociales,Aube,,,Agriculteurs exploitants,Professions agricoles,Agriculteur
 000672,M.,Portmann,Georges,ANCIEN,1890-07-01 00:00:00.0,1985-02-24 00:00:00.0,RI,,commission des finances,Gironde,,,"Professeurs, professions scientifiques",Enseignement supérieur (sauf Professeurs de médecine),Doyen de la Faculté de Médecine et de Pharmacie
 59242H,M.,Poudonson,Roger,ANCIEN,1922-12-14 00:00:00.0,2000-12-27 00:00:00.0,UC,,commission des affaires étrangères,Pas-de-Calais,,,Cadres de la publicité; cadres des relations publiques,Professions libérales (Publicistes),Publiciste
@@ -1680,7 +1680,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 000537,M.,Roge,Léon,ANCIEN,1924-07-09 00:00:00.0,1969-09-12 00:00:00.0,C,,commission de la culture,Seine-Maritime,,,"Professeurs des écoles, instituteurs et assimilés",Enseignement secondaire,Professeur d'Education Physique
 11054L,M.,Roger,Gilbert,ANCIEN,1953-11-09 00:00:00.0,,SER,,commission des affaires étrangères,Seine-Saint-Denis,,g.roger@senat.fr,Autres personnes sans activité professionnelle,Salariés (Retraités),Maître-nageur sauveteur
 59558B,M.,Roger,Jean,ANCIEN,1923-09-30 00:00:00.0,2011-06-18 00:00:00.0,R.D.E.,,commission de l'économie,Tarn-et-Garonne,,,Vétérinaires (libéraux ou salariés),Professions médicales (Vétérinaires),Vétérinaire
-07002G,Mme,Roger-Coupin,Maryse,ANCIEN,1949-07-12 00:00:00.0,,NI,,Aucune (Président du Sénat),Pas-de-Calais,,,Professions intermédiaires administratives de la fonction publique,Fonctionnaires (Cadres moyens),Documentaliste
+07002G,Mme,Roger-Coupin,Maryse,ANCIEN,1949-07-12 00:00:00.0,,NI,,Aucune,Pas-de-Calais,,,Professions intermédiaires administratives de la fonction publique,Fonctionnaires (Cadres moyens),Documentaliste
 20150Y,M.,Rohfritsch,Teva,ACTIF,1975-02-03 00:00:00.0,,RDPI,,commission des lois,Polynésie française,,t.rohfritsch@senat.fr,Chefs d'entreprise de 10 salaries ou plus,Commerce et industrie (Chefs d'entreprises),"Fondé de pouvoir - secteur bancaire "
 21056G,M.,Roiron,Pierre-Alain,ACTIF,1967-10-18 00:00:00.0,,SER,,commission des lois,Indre-et-Loire,,pa.roiron@senat.fr,Magistrats,Professions judiciaires (Magistrats),Cadre de la fonction publique
 20020P,M.,Rojouan,Bruno,ACTIF,1957-03-06 00:00:00.0,,Les Républicains,Rattaché,commission de l'aménagement du territoire et du développement durable,Allier,,b.rojouan@senat.fr,Anciens cadres,Salariés (Retraités),Retraité
@@ -1700,7 +1700,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 80039J,M.,Roujas,Gérard,ANCIEN,1943-09-08 00:00:00.0,,SER,,commission des affaires étrangères,Haute-Garonne,,,Employés administratifs d'entreprise,Salariés (Employés),Agent technique
 000443,M.,Roujon,Jules,ANCIEN,1920-03-18 00:00:00.0,1985-05-26 00:00:00.0,U.R.E.I.,,commission de l'économie,Lozère,,,Professions libérales,Professions judiciaires et libérales (Divers),Profession libérale
 95065N,M.,Rouquet,René,ANCIEN,1946-02-15 00:00:00.0,,SER,,commission de la culture,Val-de-Marne,,,Ouvriers,Salariés (Ouvriers),Electromécanicien
-16431B,M.,Roustan,Max,ANCIEN,1944-09-29 00:00:00.0,,NI,,Aucune (Président du Sénat),Gard,,,Autres personnes sans activité professionnelle,Sans profession déclarée,
+16431B,M.,Roustan,Max,ANCIEN,1944-09-29 00:00:00.0,,NI,,Aucune,Gard,,,Autres personnes sans activité professionnelle,Sans profession déclarée,
 80040B,M.,Rouvière,André,ANCIEN,1936-04-29 00:00:00.0,2015-11-02 00:00:00.0,SER,,commission des affaires étrangères,Gard,,permanence.rouviere@wanadoo.fr,Anciens cadres,Enseignement (Retraités),Enseignant retraité
 14107H,M.,Roux,Jean-Yves,ACTIF,1970-01-18 00:00:00.0,,RDSE,,commission de l'aménagement du territoire et du développement durable,Alpes de Haute-Provence,,jy.roux@senat.fr,Anciens employés,Salariés (Retraités),
 000214,M.,Roux,Olivier,ANCIEN,1909-07-10 00:00:00.0,1995-10-14 00:00:00.0,UC,,commission des affaires sociales,Français établis hors de France,,,Anciens cadres et professions liberales,Salariés (Retraités),Directeur de Banque Honoraire
@@ -1752,8 +1752,8 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 000440,M.,Seramy,Paul,ANCIEN,1920-02-04 00:00:00.0,1992-02-23 00:00:00.0,UC,,commission de la culture,Seine-et-Marne,,,"Professeurs, professions scientifiques",Enseignement (Retraités),Professeur de lycée
 92043T,M.,Sergent,Michel,ANCIEN,1943-12-27 00:00:00.0,,SER,,commission des finances,Pas-de-Calais,,sergent.michel@wanadoo.fr,"Professeurs des écoles, instituteurs et assimilés",Enseignement primaire,Instituteur
 77066M,M.,Sérusclat,Franck,ANCIEN,1921-07-07 00:00:00.0,2006-07-02 00:00:00.0,SER,,commission de la culture,Rhône,,Non public,Pharmaciens libéraux,Professions médicales (Pharmaciens),Pharmacien
-000168,M.,Servat,André,ANCIEN,1907-08-24 00:00:00.0,1990-02-03 00:00:00.0,NI,,Aucune (Président du Sénat),Haute-Garonne,,,Pharmaciens libéraux,Professions médicales (Pharmaciens),"Pharmacien "
-20178M,M.,Sévêque,Alain,ANCIEN,1950-10-27 00:00:00.0,,NI,,Aucune (Président du Sénat),Manche,,,Autres personnes sans activité professionnelle,Sans profession déclarée,
+000168,M.,Servat,André,ANCIEN,1907-08-24 00:00:00.0,1990-02-03 00:00:00.0,NI,,Aucune,Haute-Garonne,,,Pharmaciens libéraux,Professions médicales (Pharmaciens),"Pharmacien "
+20178M,M.,Sévêque,Alain,ANCIEN,1950-10-27 00:00:00.0,,NI,,Aucune,Manche,,,Autres personnes sans activité professionnelle,Sans profession déclarée,
 000101,M.,Sibor,Henri,ANCIEN,1904-05-16 00:00:00.0,1985-11-20 00:00:00.0,U.C.D.P.,,commission de la culture,Pyrénées-Atlantiques,,,Anciens cadres,Fonctionnaires (Retraités),Retraité des Caisses d'épargne
 000369,M.,Sicard,Pierre,ANCIEN,1915-10-21 00:00:00.0,1989-12-13 00:00:00.0,UC,,commission de la culture,Cher,,,Agriculteurs exploitants,Professions agricoles,Agriculteur
 01058X,M.,Sido,Bruno,ACTIF,1951-02-19 00:00:00.0,,Les Républicains,,commission des affaires étrangères,Haute-Marne,,b.sido@senat.fr,"Professeurs, professions scientifiques",Professions agricoles,Ingénieur agronome
@@ -1841,7 +1841,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 000094,M.,Tron,Ludovic,ANCIEN,1904-01-03 00:00:00.0,1968-10-24 00:00:00.0,SER,Apparenté,commission des finances,Hautes-Alpes,,,Personnels de direction de la fonction publique,Fonctionnaires (Hauts Fonctionnaires),Inspecteur Général des Finances
 06004E,M.,Tropeano,Robert,ANCIEN,1939-04-20 00:00:00.0,,RDSE,,commission des affaires économiques,Hérault,,robert.tropeano@orange.fr,Anciens cadres,Fonctionnaires (Hauts Fonctionnaires),Inspecteur central des Postes
 86049M,M.,Trucy,François,ANCIEN,1931-06-09 00:00:00.0,,Les Républicains,,commission des finances,Var,,f.trucy@senat.fr,Medecins libéraux généralistes,Professions médicales (Médecins),Médecin biologiste
-20014R,Mme,Tubiana,Danièle,ANCIEN,1950-05-02 00:00:00.0,,NI,,Aucune (Président du Sénat),Alpes-Maritimes,,,Autres personnes sans activité professionnelle,Sans profession déclarée,
+20014R,Mme,Tubiana,Danièle,ANCIEN,1950-05-02 00:00:00.0,,NI,,Aucune,Alpes-Maritimes,,,Autres personnes sans activité professionnelle,Sans profession déclarée,
 08071A,M.,Tuheiava,Richard,ANCIEN,1974-02-28 00:00:00.0,,SER,Apparenté,commission des affaires étrangères,Polynésie française,,r.tuheiava@senat.fr,Avocats,Professions judiciaires et libérales (Avocats),Avocat
 98004M,M.,Tui,Basile,ANCIEN,1942-05-03 00:00:00.0,,UC,,commission des affaires sociales,Iles Wallis et Futuna,,,Anciens cadres,Fonctionnaires (Retraités),Fonctionnaire retraité
 92044U,M.,Türk,Alex,ANCIEN,1950-01-25 00:00:00.0,,NI,,commission des affaires étrangères,Nord,,Alex.turk@wanadoo.fr,"Professeurs, professions scientifiques",Enseignement supérieur (sauf Professeurs de médecine),Maître de conférences à l'université
@@ -1851,7 +1851,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 000190,M.,Vadepied,Raoul,ANCIEN,1908-07-07 00:00:00.0,1995-03-29 00:00:00.0,U.C.D.P.,,commission de l'économie,Mayenne,Secrétaire du Sénat,,Agriculteurs exploitants,Professions agricoles,Agriculteur
 12038D,M.,Vairetto,André,ANCIEN,1960-01-20 00:00:00.0,,SER,,commission de l'aménagement du territoire et du développement durable,Savoie,,,Professions intermédiaires administratives de la fonction publique,Salariés (Permanents politiques),Attaché parlementaire
 80046H,M.,Valade,Jacques,ANCIEN,1930-05-04 00:00:00.0,2023-10-03 00:00:00.0,Les Républicains,,commission de la culture,Gironde,,j.valade@senat.fr,"Professeurs, professions scientifiques",Enseignement supérieur (sauf Professeurs de médecine),Professeur d'université
-000311,M.,Valcin,Edmond,ANCIEN,1913-03-10 00:00:00.0,1997-09-06 00:00:00.0,RPR,,Aucune (Président du Sénat),Martinique,Questeur du Sénat,,Avocats,Professions judiciaires et libérales (Avocats),Avocat
+000311,M.,Valcin,Edmond,ANCIEN,1913-03-10 00:00:00.0,1997-09-06 00:00:00.0,RPR,,Aucune,Martinique,Questeur du Sénat,,Avocats,Professions judiciaires et libérales (Avocats),Avocat
 000684,M.,Valeau,Amédée,ANCIEN,1897-04-05 00:00:00.0,1980-08-10 00:00:00.0,RPR,,commission de la culture,Guadeloupe,,,Agriculteurs exploitants,Professions agricoles,Agriculteur
 21061D,Mme,Valente Le Hir,Sylvie,ACTIF,1965-01-17 00:00:00.0,,Les Républicains,Apparenté,commission de l'aménagement du territoire et du développement durable,Oise,,Non public,Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités),Autres professions,Sans profession
 08049C,M.,Vall,Raymond,ANCIEN,1942-01-13 00:00:00.0,,RDSE,,commission des affaires étrangères,Gers,,r.vall@senat.fr,Cadres administratifs et commerciaux d'entreprise,Salariés (Cadres divers),"Directeur commercial "
@@ -1916,7 +1916,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 04082L,Mme,Voynet,Dominique,ANCIEN,1958-11-04 00:00:00.0,,SER,Rattaché,commission des affaires étrangères,Seine-Saint-Denis,,d.voynet@senat.fr,Medecins libéraux généralistes,Professions médicales (Médecins),Consultante
 19737F,Mme,Vullien,Michèle,ANCIEN,1944-01-18 00:00:00.0,,UC,Apparenté,commission de l'aménagement du territoire et du développement durable,Rhône,,m.vullien@senat.fr,Autres personnes sans activité professionnelle,Sans profession déclarée,
 000148,M.,Wach,Paul,ANCIEN,1906-08-10 00:00:00.0,1974-05-01 00:00:00.0,RPCD,,commission des affaires étrangères,Bas-Rhin,,,Chirurgiens-dentistes (libéraux ou salariés),Professions médicales (Dentistes),Dentiste
-59308J,M.,Wacheux,Marcel,ANCIEN,1930-05-28 00:00:00.0,2008-09-19 00:00:00.0,SER,,Aucune (Président du Sénat),Pas-de-Calais,,,Professions intermédiaires administratives de la fonction publique,Enseignement secondaire,Professeur de collège
+59308J,M.,Wacheux,Marcel,ANCIEN,1930-05-28 00:00:00.0,2008-09-19 00:00:00.0,SER,,Aucune,Pas-de-Calais,,,Professions intermédiaires administratives de la fonction publique,Enseignement secondaire,Professeur de collège
 000740,M.,Walker,Maurice,ANCIEN,1897-05-20 00:00:00.0,1959-04-29 00:00:00.0,MRP,,commission des finances,Nord,,,Chefs d'entreprise de 10 salaries ou plus,Commerce et industrie (Chefs d'entreprises),Industriel
 11063M,M.,Watrin,Dominique,ANCIEN,1953-06-14 00:00:00.0,,CRCE,,commission des affaires sociales,Pas-de-Calais,,d.watrin@senat.fr,Autres personnes sans activité professionnelle,Salariés (Retraités),
 19585H,M.,Wattebled,Dany,ACTIF,1951-11-22 00:00:00.0,,Les Indépendants,,commission des lois,Nord,,d.wattebled@senat.fr,Retraités,Commerce et industrie (Retraités),Ancien chef d'entreprise
