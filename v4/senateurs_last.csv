@@ -1,501 +1,501 @@
-prenom_collab,nom_collab,prenom_senateur,nom_senateur,groupe,commission,departement,region,serie
-Louis-Victor,AIRONI,Vincent,CAPO-CANELLAS,UC,FIN,Seine-Saint-Denis,Ile-de-France,série 1
-Karine,ALICOT,Jean-Marc,VAYSSOUZE-FAURE,SER,AF/ETR/DEF,Lot,Occitanie,série 1
-Lydie,ARTIGA,Sylvie,VERMEILLET,UC,FIN,Jura,Bourgogne-Franche-Comté,série 1
-Manon,BACHMANN,Jean-François,HUSSON,Les Républicains,FIN,Meurthe-et-Moselle,Grand Est,série 1
-Jessica,BALSAMELLO,Jocelyne,ANTOINE,UC,DEV/DUR,Meuse,Grand Est,série 1
-Stéphanie,BASTIDE,Marion,CANALÈS,SER,AF/SOC,Puy-de-Dôme,Auvergne-Rhône-Alpes,série 1
-Lili,BEHIELS,Guillaume,GONTARD,GEST,AF/ETR/DEF,Isère,Auvergne-Rhône-Alpes,série 1
-Alice,BENARD,Vincent,LOUAULT,Les Indépendants,AF/ETR/DEF,Indre-et-Loire,Centre-Val de Loire,série 1
-Laura,BEROT,Patrice,JOLY,SER,AF/ETR/DEF,Nièvre,Bourgogne-Franche-Comté,série 1
-Juliette,BLANCHOT,Marion,CANALÈS,SER,AF/SOC,Puy-de-Dôme,Auvergne-Rhône-Alpes,série 1
-Caroline,BOICHOT,Christian,CAMBON,Les Républicains,AF/SOC,Val-de-Marne,Ile-de-France,série 1
-Jean-Marc,BOYER,Olivier,CIGOLOTTI,UC,AF/ETR/DEF,Haute-Loire,Auvergne-Rhône-Alpes,série 1
-Adrien,CAILLE,Philippe,GROSVALET,RDSE,AF/ECO,Loire-Atlantique,Pays de la Loire,série 1
-Damien,CHARBONNEL,Jean-Luc,BRAULT,Les Indépendants,AF/ECO,Loir-et-Cher,Centre-Val de Loire,série 1
-Marie Mathilde,CLOTILDE,Dominique,THÉOPHILE,RDPI,AF/SOC,Guadeloupe,Guadeloupe,série 1
-Sandrine,COULANJON,Éric,GOLD,RDSE,DEV/DUR,Puy-de-Dôme,Auvergne-Rhône-Alpes,série 1
-Sandrine,DANIEL,Jean-Raymond,HUGONET,Les Républicains,DEV/DUR,Essonne,Ile-de-France,série 1
-Nessa,DAVRAIN,Frédéric,BUVAL,RDPI,AF/ECO,Martinique,Martinique,série 1
-Marielle,DEHEZ,Monique,LUBIN,SER,AF/SOC,Landes,Nouvelle Aquitaine,série 1
-Hélène,DEVILLIERS,Cédric,CHEVALIER,Les Indépendants,AF/SOC,Marne,Grand Est,série 1
-Smaïl,DJEBARA,Vincent,ÉBLÉ,SER,FIN,Seine-et-Marne,Ile-de-France,série 1
-Sylvie,DUMAINE,Marie-Claude,LERMYTTE,Les Indépendants,FIN,Nord,Hauts-de-France,série 1
-Karine,DUNEAU,Laurence,GARNIER,Les Républicains,FIN,Loire-Atlantique,Pays de la Loire,série 1
-Fabienne,DURAISIN,Michelle,GRÉAUME,CRCE-K,AF/ETR/DEF,Nord,Hauts-de-France,série 1
-Laurence,EVAIN,Jean-François,HUSSON,Les Républicains,AF/ETR/DEF,Meurthe-et-Moselle,Grand Est,série 1
-Amandine,FAURE,Pierre Jean,ROCHETTE,Les Indépendants,AF/ETR/DEF,Loire,Auvergne-Rhône-Alpes,série 1
-Thibault,FLINE,Anne,CHAIN-LARCHÉ,Les Républicains,AF/ETR/DEF,Seine-et-Marne,Ile-de-France,série 1
-Nikita,FRISON-BRUNO,Vincent,CAPO-CANELLAS,UC,FIN,Seine-Saint-Denis,Ile-de-France,série 1
-Lucille,GADLER,de Marie-Pierre,LA GONTRIE,SER,LOIS,Paris,Ile-de-France,série 1
-Julien,GARCIA,Jocelyne,GUIDEZ,UC,AF/SOC,Essonne,Ile-de-France,série 1
-Théophile,GAYRARD,Hugues,SAURY,Les Républicains,AF/SOC,Loiret,Centre-Val de Loire,série 1
-Annick de,GONZAGUE,Frédéric,BUVAL,RDPI,AF/ECO,Martinique,Martinique,série 1
-Apolline,HALBECQ,Hugues,SAURY,Les Républicains,AF/ECO,Loiret,Centre-Val de Loire,série 1
-Ruben,HECHLER,Véronique,GUILLOTIN,RDSE,AF/SOC,Meurthe-et-Moselle,Grand Est,série 1
-Philippe,HOUBRON,Christine,BONFANTI-DOSSAT,Les Républicains,AF/SOC,Lot-et-Garonne,Nouvelle Aquitaine,série 1
-Philippe,HOUBRON,Daniel,GUERET,Les Républicains,AF/SOC,Eure-et-Loir,Centre-Val de Loire,série 2
-Aymeric,JAILLAIS,Max,BRISSON,Les Républicains,AF/SOC,Pyrénées-Atlantiques,Nouvelle Aquitaine,série 1
-Aymeric,JAILLAIS,Jean-Gérard,PAUMIER,Les Républicains,AF/SOC,Indre-et-Loire,Centre-Val de Loire,série 1
-Nathalie,JOLIVET-MIELCZAREK,Christophe-André,FRASSA,Les Républicains,AF/SOC,Français établis hors de France (Série 2),Sénateurs représentant les Français établis hors de France,série 2
-Nathalie,JOLIVET-MIELCZAREK,Ronan,LE GLEUT,Les Républicains,AF/SOC,Français établis hors de France (Série 1),Sénateurs représentant les Français établis hors de France,série 1
-Sylvie,JUPITER,Frédéric,BUVAL,RDPI,AF/ECO,Martinique,Martinique,série 1
-Sabah,KHENNOUF,Cécile,CUKIERMAN,CRCE-K,LOIS,Loire,Auvergne-Rhône-Alpes,série 1
-Kévin,LANDRY,Amel,GACQUERRE,UC,AF/ECO,Pas-de-Calais,Hauts-de-France,série 1
-Laura,LAURENS,Frédérique,PUISSAT,Les Républicains,AF/ECO,Isère,Auvergne-Rhône-Alpes,série 1
-Amaury,LEBRETON,Cathy,APOURCEAU-POLY,CRCE-K,AF/SOC,Pas-de-Calais,Hauts-de-France,série 1
-Aymerik,LEMAIRE,Jérôme,DARRAS,SER,AF/ETR/DEF,Pas-de-Calais,Hauts-de-France,série 1
-Jocelyn,LINISE,Frédéric,BUVAL,RDPI,AF/ECO,Martinique,Martinique,série 1
-Adrien,MADEC,Alexandre,OUIZILLE,SER,DEV/DUR,Oise,Hauts-de-France,série 1
-Alexandra,MAILLY,Jean-Pierre,CORBISEZ,CRCE-K,DEV/DUR,Pas-de-Calais,Hauts-de-France,série 1
-Jean-Baptiste,MARCHIONI,Rémi,FÉRAUD,SER,FIN,Paris,Ile-de-France,série 1
-Daïana,MARY MONTOUT,Victorin,LUREL,SER,FIN,Guadeloupe,Guadeloupe,série 1
-Loick,MBOUNGOU NIANGUI,Dominique,THÉOPHILE,RDPI,AF/SOC,Guadeloupe,Guadeloupe,série 1
-Jean-Michel,MICHALAK,Guislain,CAMBIER,UC,AF/ECO,Nord,Hauts-de-France,série 1
-Lucas,MINHAVA,Damien,MICHALLET,Les Républicains,AF/ECO,Isère,Auvergne-Rhône-Alpes,série 1
-Théo,MONTAL,Jean-Marc,VAYSSOUZE-FAURE,SER,AF/ETR/DEF,Lot,Occitanie,série 1
-Valentin,NEE,Olivier,BITZ,UC,LOIS,Orne,Normandie,série 1
-Sophie,NORMAND COUDER,Philippe,GROSVALET,RDSE,AF/ECO,Loire-Atlantique,Pays de la Loire,série 1
-Fabienne,PAGES,Anne,CHAIN-LARCHÉ,Les Républicains,AF/ECO,Seine-et-Marne,Ile-de-France,série 1
-Fabienne,PAGES,Pierre,CUYPERS,Les Républicains,AF/ECO,Seine-et-Marne,Ile-de-France,série 1
-Marie-Françoise,PELLISSIER DE FELIGONDE,Dominique,THÉOPHILE,RDPI,AF/SOC,Guadeloupe,Guadeloupe,série 1
-Florent,PEREZ,Louis,VOGEL,Les Indépendants,AF/SOC,Seine-et-Marne,Ile-de-France,série 1
-Ornella,PETRIDES,Sébastien,FAGNEN,SER,DEV/DUR,Manche,Normandie,série 1
-Patricia,PUGET,Patrice,JOLY,SER,AF/ETR/DEF,Nièvre,Bourgogne-Franche-Comté,série 1
-Caroline,RACINE,Michaël,WEBER,SER,DEV/DUR,Moselle,Grand Est,série 1
-Esther,REINETTE,Stéphane,FOUASSIN,RDPI,FIN,La Réunion,La Réunion,série 1
-Jonathan,RODRIGUES,Anne-Sophie,ROMAGNY,UC,AF/SOC,Marne,Grand Est,série 1
-Noé,ROYER,Anne,SOUYRIS,GEST,AF/SOC,Paris,Ile-de-France,série 1
-Nadir,SAIFI,Isabelle,FLORENNES,UC,LOIS,Hauts-de-Seine,Ile-de-France,série 1
-Safaa,SARI,Rachid,TEMAL,SER,AF/ETR/DEF,Val-d'Oise,Ile-de-France,série 1
-Sandy,TALARICO,Ian,BROSSAT,CRCE-K,LOIS,Paris,Ile-de-France,série 1
-Hadrien,THERASSE,Simon,UZENAT,SER,DEV/DUR,Morbihan,Bretagne,série 1
-Maxime,THURIOT,Bernard,BUIS,RDPI,AF/ECO,Drôme,Auvergne-Rhône-Alpes,série 2
-Maxime,THURIOT,Didier,RAMBAUD,RDPI,FIN,Isère,Auvergne-Rhône-Alpes,série 1
-Marie-Alix,TOURNADE,Laurence,GARNIER,Les Républicains,FIN,Loire-Atlantique,Pays de la Loire,série 1
-Stéphane,TRINCHERO,Didier,RAMBAUD,RDPI,FIN,Isère,Auvergne-Rhône-Alpes,série 1
-Gilles,VERRON,Bernard,JOMIER,SER,AF/SOC,Paris,Ile-de-France,série 1
-Louis,VITAL DURAND,Denise,SAINT-PÉ,UC,DEV/DUR,Pyrénées-Atlantiques,Nouvelle Aquitaine,série 1
-Alan,VOLANT,Colombe,BROSSEL,SER,CULT,Paris,Ile-de-France,série 1
-Rayane,ZRIBI,Éric,DUMOULIN,Les Républicains,CULT,Yvelines,Ile-de-France,série 1
-Yassin,AIT KASSI,Sébastien,FAGNEN,SER,DEV/DUR,Manche,Normandie,série 1
-Virginie,ALLAROUSSE,Damien,MICHALLET,Les Républicains,DEV/DUR,Isère,Auvergne-Rhône-Alpes,série 1
-Sarah,ASTIER,Éric,GOLD,RDSE,DEV/DUR,Puy-de-Dôme,Auvergne-Rhône-Alpes,série 1
-Anne-Sophie,BACH-TOUSSAINT,Christian,BRUYEN,Les Républicains,DEV/DUR,Marne,Grand Est,série 1
-Marie-Claude,BARLET,Olivier,CIGOLOTTI,UC,AF/ETR/DEF,Haute-Loire,Auvergne-Rhône-Alpes,série 1
-Mathieu,BEAUFRERE,Laurent,LAFON,UC,CULT,Val-de-Marne,Ile-de-France,série 1
-Titouan,BEL ANGE,Laure,DARCOS,Les Indépendants,CULT,Essonne,Ile-de-France,série 1
-Catherine,BENOIT,Jean-Claude,TISSOT,SER,AF/ECO,Loire,Auvergne-Rhône-Alpes,série 1
-Samuel,BESNARD,Grégory,BLANC,GEST,FIN,Maine-et-Loire,Pays de la Loire,série 1
-Christine,BLIN,Emmanuel,CAPUS,Les Indépendants,FIN,Maine-et-Loire,Pays de la Loire,série 1
-Eric,BOUCHER,Michelle,GRÉAUME,CRCE-K,AF/ETR/DEF,Nord,Hauts-de-France,série 1
-Astrid,BRIANT,Martin,LÉVRIER,RDPI,CULT,Yvelines,Ile-de-France,série 1
-Grégory,CARUANA,Jean-Gérard,PAUMIER,Les Républicains,CULT,Indre-et-Loire,Centre-Val de Loire,série 1
-Inès,CHARLES-LAVAUZELLE,Christine,LAVARDE,Les Républicains,CULT,Hauts-de-Seine,Ile-de-France,série 1
-Inès,CHARLES-LAVAUZELLE,Jean-François,RAPIN,Les Républicains,CULT,Pas-de-Calais,Hauts-de-France,série 1
-Claude-Léa,COHEN,Hélène,CONWAY-MOURET,SER,AF/ETR/DEF,Français établis hors de France (Série 1),Sénateurs représentant les Français établis hors de France,série 1
-Paul,COUTARD,Michaël,WEBER,SER,DEV/DUR,Moselle,Grand Est,série 1
-Nicolas,D'ASTA,Xavier,IACOVELLI,RDPI,AF/SOC,Hauts-de-Seine,Ile-de-France,série 1
-Marie-Noëlle,DEBAINS,Muriel,JOURDA,Les Républicains,AF/SOC,Morbihan,Bretagne,série 1
-Pierre,DELZENNE,Olivier,HENNO,UC,AF/SOC,Nord,Hauts-de-France,série 1
-Marie,D'HEROUVILLE-LE TANNEUR,Guislain,CAMBIER,UC,AF/ECO,Nord,Hauts-de-France,série 1
-Charles-Edouard,DOUBLET,Catherine,DUMAS,Les Républicains,AF/ECO,Paris,Ile-de-France,série 1
-Isabelle,DUMESTRE,Jean-Claude,TISSOT,SER,AF/ECO,Loire,Auvergne-Rhône-Alpes,série 1
-Bénédicte,DUPONT,Alexandre,BASQUIN,CRCE-K,DEV/DUR,Nord,Hauts-de-France,série 1
-Bénédicte,DUPONT,Michelle,GRÉAUME,CRCE-K,AF/ETR/DEF,Nord,Hauts-de-France,série 1
-Yohan,EL MANOGUY,Patrick,KANNER,SER,CULT,Nord,Hauts-de-France,série 1
-Esteban,EVRARD,Cathy,APOURCEAU-POLY,CRCE-K,AF/SOC,Pas-de-Calais,Hauts-de-France,série 1
-Sophie,FILIPPI-PAOLI,Alexandre,BASQUIN,CRCE-K,DEV/DUR,Nord,Hauts-de-France,série 1
-Louis,FOND,Jean-Claude,TISSOT,SER,AF/ECO,Loire,Auvergne-Rhône-Alpes,série 1
-Frédéric,FROMENT,Frédérique,PUISSAT,Les Républicains,AF/ECO,Isère,Auvergne-Rhône-Alpes,série 1
-Hubert,GAGE,Sylvie,VALENTE LE HIR,Les Républicains,AF/ECO,Oise,Hauts-de-France,série 1
-Tugdual,GAUTER,Simon,UZENAT,SER,DEV/DUR,Morbihan,Bretagne,série 1
-Jean-Jacques,GIANNESINI,Marie-Claire,CARRÈRE-GÉE,Les Républicains,DEV/DUR,Paris,Ile-de-France,série 1
-Hélène,GOSSELIN,Jean-François,RAPIN,Les Républicains,DEV/DUR,Pas-de-Calais,Hauts-de-France,série 1
-Tania,HAMMOUCHE,Vincent,DELAHAYE,UC,FIN,Essonne,Ile-de-France,série 1
-Charlotte,HEMERY,Olivia,RICHARD,UC,LOIS,Français établis hors de France (Série 1),Sénateurs représentant les Français établis hors de France,série 1
-Martine,HUBERTY,Édouard,COURTIAL,UC,AF/ETR/DEF,Oise,Hauts-de-France,série 1
-Julia,JAKUBOWICZ,Évelyne,RENAUD-GARABEDIAN,Les Républicains,AF/ETR/DEF,Français établis hors de France (Série 1),Sénateurs représentant les Français établis hors de France,série 1
-Valérie,JOURNET,Alexandre,BASQUIN,CRCE-K,DEV/DUR,Nord,Hauts-de-France,série 1
-Fayçal,KADDOUR,Akli,MELLOULI,GEST,AF/ETR/DEF,Val-de-Marne,Ile-de-France,série 1
-Sandra,KWIATKOWSKI,Raphaël,DAUBET,RDSE,FIN,Lot,Occitanie,série 1
-Hélèna,LAOUISSET ROYER,Pascal,SAVOLDELLI,CRCE-K,FIN,Val-de-Marne,Ile-de-France,série 1
-Gaston,LAVAL,Olivier,JACQUIN,SER,DEV/DUR,Meurthe-et-Moselle,Grand Est,série 1
-Yannick,LE DORZE,Michel,LAUGIER,UC,CULT,Yvelines,Ile-de-France,série 1
-Antonin,LESIEUR,Patrick,KANNER,SER,CULT,Nord,Hauts-de-France,série 1
-Pierre-Yves,LOISEAU,Michel,SAVIN,Les Républicains,CULT,Isère,Auvergne-Rhône-Alpes,série 1
-Aodren,MAGNARD,Patrice,JOLY,SER,AF/ETR/DEF,Nièvre,Bourgogne-Franche-Comté,série 1
-Sonia,MAINGAULT,Jean-Gérard,PAUMIER,Les Républicains,AF/ETR/DEF,Indre-et-Loire,Centre-Val de Loire,série 1
-Catherine,MARTIN,Olivier,PACCAUD,Les Républicains,AF/ETR/DEF,Oise,Hauts-de-France,série 1
-Alain,MATHIOUDAKIS,Isabelle,FLORENNES,UC,LOIS,Hauts-de-Seine,Ile-de-France,série 1
-Baptiste,MENARD,Rachid,TEMAL,SER,AF/ETR/DEF,Val-d'Oise,Ile-de-France,série 1
-Christelle,MICHEL,Laurent,DUPLOMB,Les Républicains,AF/ETR/DEF,Haute-Loire,Auvergne-Rhône-Alpes,série 1
-Clément,MOISON,Vincent,DELAHAYE,UC,FIN,Essonne,Ile-de-France,série 1
-Clément,MOISON,Jocelyne,GUIDEZ,UC,AF/SOC,Essonne,Ile-de-France,série 1
-Fabien,MONTRICHARD,Jocelyne,GUIDEZ,UC,AF/SOC,Essonne,Ile-de-France,série 1
-Anthony,NICOUD,Cécile,CUKIERMAN,CRCE-K,LOIS,Loire,Auvergne-Rhône-Alpes,série 1
-Corinne,NUQUES,Denise,SAINT-PÉ,UC,DEV/DUR,Pyrénées-Atlantiques,Nouvelle Aquitaine,série 1
-Laurent,PAYET,Viviane,MALET,Les Républicains,DEV/DUR,La Réunion,La Réunion,série 1
-Florine,PENOT,Michel,SAVIN,Les Républicains,DEV/DUR,Isère,Auvergne-Rhône-Alpes,série 1
-Marie,PERRIN,Damien,MICHALLET,Les Républicains,DEV/DUR,Isère,Auvergne-Rhône-Alpes,série 1
-Agathe,PICHOL,Bernard,PILLEFER,UC,DEV/DUR,Loir-et-Cher,Centre-Val de Loire,série 1
-Théo,QUIERS,Hélène,CONWAY-MOURET,SER,AF/ETR/DEF,Français établis hors de France (Série 1),Sénateurs représentant les Français établis hors de France,série 1
-Tiana,RAMES,Georges,NATUREL,Les Républicains,AF/ETR/DEF,Nouvelle-Calédonie,Nouvelle-Calédonie,série 1
-Christiane,ROBART,Jérôme,DARRAS,SER,AF/ETR/DEF,Pas-de-Calais,Hauts-de-France,série 1
-Adeline,ROLDAO-MARTINS,Daniel,FARGEOT,UC,AF/ECO,Val-d'Oise,Ile-de-France,série 1
-Paul,RUER,Sylvie,VERMEILLET,UC,FIN,Jura,Bourgogne-Franche-Comté,série 1
-Arthur,SAILLOUR,Louis,VOGEL,Les Indépendants,FIN,Seine-et-Marne,Ile-de-France,série 1
-Bénédicte,SESMAT,Hervé,REYNAUD,Les Républicains,FIN,Loire,Auvergne-Rhône-Alpes,série 1
-Emmeline,TANGUY,Éric,GOLD,RDSE,DEV/DUR,Puy-de-Dôme,Auvergne-Rhône-Alpes,série 1
-Mathias,THIBAUDAT,Pierre-Alain,ROIRON,SER,LOIS,Indre-et-Loire,Centre-Val de Loire,série 1
-Charlotte,TISSUT,Yves,BLEUNVEN,UC,AF/ECO,Morbihan,Bretagne,série 1
-Stéphanie,TOUSSAINT,Evelyne,CORBIÈRE NAMINZO,CRCE-K,CULT,La Réunion,La Réunion,série 1
-Philippine,VAN DER MEULEN,Catherine,DI FOLCO,Les Républicains,CULT,Rhône,Auvergne-Rhône-Alpes,série 2
-Philippine,VAN DER MEULEN,Jean-François,RAPIN,Les Républicains,CULT,Pas-de-Calais,Hauts-de-France,série 1
-Cyrille,VIGORIE,Jean,SOL,Les Républicains,CULT,Pyrénées-Orientales,Occitanie,série 1
-Sophie-Charlotte,VITO,Christine,HERZOG,UC,DEV/DUR,Moselle,Grand Est,série 1
-Clément,VUILLEMENOT,Catherine,CONCONNE,SER,AF/SOC,Martinique,Martinique,série 1
-Stéphanie,ALCAIDE-ROEYGENS,Didier,RAMBAUD,RDPI,FIN,Isère,Auvergne-Rhône-Alpes,série 1
-Valentin,ARTAL,Guylène,PANTEL,RDSE,AF/SOC,Lozère,Occitanie,série 1
-Nicolas,AUBERT,Édouard,COURTIAL,UC,AF/ETR/DEF,Oise,Hauts-de-France,série 1
-Thierry,BALLARIN,Maryse,CARRÈRE,RDSE,AF/SOC,Hautes-Pyrénées,Occitanie,série 1
-Virginie,BASSAISTEGUY,Hugues,SAURY,Les Républicains,AF/SOC,Loiret,Centre-Val de Loire,série 1
-Julien,BEGUE,Maryse,CARRÈRE,RDSE,AF/SOC,Hautes-Pyrénées,Occitanie,série 1
-Marie,BELLAN,Bernard,PILLEFER,UC,DEV/DUR,Loir-et-Cher,Centre-Val de Loire,série 1
-Maxance,BERNARD,Franck,MENONVILLE,UC,AF/ECO,Meuse,Grand Est,série 1
-Frédéric,BESSET,Alexandre,OUIZILLE,SER,DEV/DUR,Oise,Hauts-de-France,série 1
-Coline,BLOUIN,Corinne,BOURCIER,Les Indépendants,DEV/DUR,Maine-et-Loire,Pays de la Loire,série 1
-Coline,BLOUIN,Emmanuel,CAPUS,Les Indépendants,DEV/DUR,Maine-et-Loire,Pays de la Loire,série 1
-Marion,BOULAY,Corinne,NARASSIGUIN,SER,LOIS,Seine-Saint-Denis,Ile-de-France,série 1
-Mariam,BUCH,Annick,BILLON,UC,CULT,Vendée,Pays de la Loire,série 2
-Mariam,BUCH,Bernard,PILLEFER,UC,DEV/DUR,Loir-et-Cher,Centre-Val de Loire,série 1
-Benjamin,CHANTECLERC,Jean-François,HUSSON,Les Républicains,DEV/DUR,Meurthe-et-Moselle,Grand Est,série 1
-Steve,CICCOTTI,Roger,KAROUTCHI,Les Républicains,DEV/DUR,Hauts-de-Seine,Ile-de-France,série 1
-Laurence,COLISSON,Amel,GACQUERRE,UC,AF/ECO,Pas-de-Calais,Hauts-de-France,série 1
-Karine,CRESPEAU,Corinne,BOURCIER,Les Indépendants,AF/ECO,Maine-et-Loire,Pays de la Loire,série 1
-Thierry,DAVID,Laure,DARCOS,Les Indépendants,AF/ECO,Essonne,Ile-de-France,série 1
-Stéphanie,DEFAUX,Pierre,BARROS,CRCE-K,FIN,Val-d'Oise,Ile-de-France,série 1
-Luca,DEREEP,Ian,BROSSAT,CRCE-K,LOIS,Paris,Ile-de-France,série 1
-Gabriel,DIJOUX,Evelyne,CORBIÈRE NAMINZO,CRCE-K,CULT,La Réunion,La Réunion,série 1
-Armand,DOUIN,Jean-Raymond,HUGONET,Les Républicains,CULT,Essonne,Ile-de-France,série 1
-Axel,DUMONT,Yannick,JADOT,GEST,AF/ECO,Paris,Ile-de-France,série 1
-Fabien,DUQUESNE,Guillaume,GONTARD,GEST,AF/ETR/DEF,Isère,Auvergne-Rhône-Alpes,série 1
-Audrey,ESSOLA,Simon,UZENAT,SER,DEV/DUR,Morbihan,Bretagne,série 1
-Céline,FARGUES,Jean-Marc,VAYSSOUZE-FAURE,SER,AF/ETR/DEF,Lot,Occitanie,série 1
-Mael,FLECHER,Marie-Claire,CARRÈRE-GÉE,Les Républicains,AF/ETR/DEF,Paris,Ile-de-France,série 1
-Jérôme,FRIART,Laurence,GARNIER,Les Républicains,AF/ETR/DEF,Loire-Atlantique,Pays de la Loire,série 1
-Arthur,GADENNE,Olivia,RICHARD,UC,LOIS,Français établis hors de France (Série 1),Sénateurs représentant les Français établis hors de France,série 1
-Eva,GAILLAT,Éric,KERROUCHE,SER,LOIS,Landes,Nouvelle Aquitaine,série 1
-Anne-Laure,GAYAUD FRENOY,Philippe,GROSVALET,RDSE,AF/ECO,Loire-Atlantique,Pays de la Loire,série 1
-Véronique,GLOVER,Laurent,LAFON,UC,CULT,Val-de-Marne,Ile-de-France,série 1
-Laetitia,GUERIN,Christian,CAMBON,Les Républicains,CULT,Val-de-Marne,Ile-de-France,série 1
-Laetitia,GUERIN,Marie-Carole,CIUNTU,Les Républicains,CULT,Val-de-Marne,Ile-de-France,série 1
-Amély,HEBEL,Patrick,KANNER,SER,CULT,Nord,Hauts-de-France,série 1
-Pédro,HIPPON,Dominique,THÉOPHILE,RDPI,AF/SOC,Guadeloupe,Guadeloupe,série 1
-Emma,HUGUES,Raphaël,DAUBET,RDSE,FIN,Lot,Occitanie,série 1
-Julie,JEROME,Élisabeth,DOINEAU,UC,AF/SOC,Mayenne,Pays de la Loire,série 1
-Philomène,JUILLET,Rémi,FÉRAUD,SER,FIN,Paris,Ile-de-France,série 1
-Mathieu,KERBOUCHE,Antoinette,GUHL,GEST,AF/ECO,Paris,Ile-de-France,série 1
-Marie-Chantal,LAGLER,Anne-Marie,NÉDÉLEC,Les Républicains,AF/ECO,Haute-Marne,Grand Est,série 1
-Victor,LATRU,Adel,ZIANE,SER,CULT,Seine-Saint-Denis,Ile-de-France,série 1
-Sébastien,LEBLANC,Marc-Philippe,DAUBRESSE,Les Républicains,CULT,Nord,Hauts-de-France,série 1
-Nathalie,LEGRAND,Sylvie,VALENTE LE HIR,Les Républicains,CULT,Oise,Hauts-de-France,série 1
-Elodie,LEYGNAT-PAUTY,Franck,MENONVILLE,UC,AF/ECO,Meuse,Grand Est,série 1
-Claire-Marie,LUCAS,Martin,LÉVRIER,RDPI,CULT,Yvelines,Ile-de-France,série 1
-Benjamin,MAILLARD,David,MARGUERITTE,Les Républicains,CULT,Manche,Normandie,série 1
-Fabien,MAITRE,Bruno,SIDO,Les Républicains,CULT,Haute-Marne,Grand Est,série 1
-Christine,MARTINEZ,Jean-Marie,VANLERENBERGHE,UC,AF/SOC,Pas-de-Calais,Hauts-de-France,série 1
-Ségolène de,MAUPEOU,Simon,UZENAT,SER,DEV/DUR,Morbihan,Bretagne,série 1
-Soazic,METAYER,Yves,BLEUNVEN,UC,AF/ECO,Morbihan,Bretagne,série 1
-Romain,MIDA DELAYEN,Alexandre,OUIZILLE,SER,DEV/DUR,Oise,Hauts-de-France,série 1
-Ariane,MONNIER,Pierre,OUZOULIAS,CRCE-K,CULT,Hauts-de-Seine,Ile-de-France,série 1
-Virginie,MUNERET,Jacqueline,EUSTACHE-BRINIO,Les Républicains,CULT,Val-d'Oise,Ile-de-France,série 1
-Flavie,NOEL,Sébastien,FAGNEN,SER,DEV/DUR,Manche,Normandie,série 1
-Alex,OLIVIER,Ian,BROSSAT,CRCE-K,LOIS,Paris,Ile-de-France,série 1
-Sandra,PEIFER,Michaël,WEBER,SER,DEV/DUR,Moselle,Grand Est,série 1
-Charles-Henri,PERDEREAU,Olivier,PACCAUD,Les Républicains,DEV/DUR,Oise,Hauts-de-France,série 1
-Morand,PERRIN,Silvana,SILVANI,CRCE-K,AF/SOC,Meurthe-et-Moselle,Grand Est,série 1
-Christophe,PITEUX,Jean-Pierre,CORBISEZ,CRCE-K,DEV/DUR,Pas-de-Calais,Hauts-de-France,série 1
-Jacques,RACHET,Anne-Marie,NÉDÉLEC,Les Républicains,DEV/DUR,Haute-Marne,Grand Est,série 1
-Emmanuelle,RAMOND,Karine,DANIEL,SER,CULT,Loire-Atlantique,Pays de la Loire,série 1
-Teddy,ROBIN,Aymeric,DUROX,NI,CULT,Seine-et-Marne,Ile-de-France,série 1
-Lisa,ROY,Jocelyne,ANTOINE,UC,DEV/DUR,Meuse,Grand Est,série 1
-Saliha,SAHRAOUI,Silvana,SILVANI,CRCE-K,AF/SOC,Meurthe-et-Moselle,Grand Est,série 1
-Arthur,SALVIAC,Grégory,BLANC,GEST,FIN,Maine-et-Loire,Pays de la Loire,série 1
-Alban,SMITH,Pauline,MARTIN,Les Républicains,FIN,Loiret,Centre-Val de Loire,série 1
-Gwendoline,TARQUIS,Georges,NATUREL,Les Républicains,FIN,Nouvelle-Calédonie,Nouvelle-Calédonie,série 1
-Gwendoline,TARQUIS,Kristina,PLUCHET,Les Républicains,FIN,Eure,Normandie,série 2
-Nicolas,THIBAULT,Arnaud,BAZIN,Les Républicains,FIN,Val-d'Oise,Ile-de-France,série 1
-Emmanuelle,TOUCOURT,Pierre-Alain,ROIRON,SER,LOIS,Indre-et-Loire,Centre-Val de Loire,série 1
-Barbara,TREUTENAERE,Jean-Marc,BOYER,Les Républicains,LOIS,Puy-de-Dôme,Auvergne-Rhône-Alpes,série 1
-Barbara,TREUTENAERE,Laurent,DUPLOMB,Les Républicains,LOIS,Haute-Loire,Auvergne-Rhône-Alpes,série 1
-Kévin,VERONESE,Véronique,GUILLOTIN,RDSE,AF/SOC,Meurthe-et-Moselle,Grand Est,série 1
-Patricia,VILIJN,Max,BRISSON,Les Républicains,AF/SOC,Pyrénées-Atlantiques,Nouvelle Aquitaine,série 1
-Anaïs,VIVION,Karine,DANIEL,SER,CULT,Loire-Atlantique,Pays de la Loire,série 1
-Juliette,WAQUET,Cathy,APOURCEAU-POLY,CRCE-K,AF/SOC,Pas-de-Calais,Hauts-de-France,série 1
-Yasmine,ABDERRAHIM,Samantha,CAZEBONNE,RDPI,CULT,Français établis hors de France (Série 2),Sénateurs représentant les Français établis hors de France,série 2
-Thomas,ALARD,Florence,LASSARADE,Les Républicains,CULT,Gironde,Nouvelle Aquitaine,série 2
-Sylvie,ALLIEY,Jean-Jacques,MICHAU,SER,AF/ECO,Ariège,Occitanie,série 2
-Mathilde,ARCHAMBAULT,Samantha,CAZEBONNE,RDPI,CULT,Français établis hors de France (Série 2),Sénateurs représentant les Français établis hors de France,série 2
-Michaël,AURORA,Franck,MONTAUGÉ,SER,AF/ECO,Gers,Occitanie,série 2
-Julien,BAYER,Fabien,GENET,Les Républicains,AF/ECO,Saône-et-Loire,Bourgogne-Franche-Comté,série 2
-Théophile,BEGIN,Jean-François,LONGEOT,UC,DEV/DUR,Doubs,Bourgogne-Franche-Comté,série 2
-Camille,BENOIT,Denis,BOUAD,SER,AF/ECO,Gard,Occitanie,série 2
-Rémy,BESNIER,Daniel,CHASSEING,Les Indépendants,AF/ECO,Corrèze,Nouvelle Aquitaine,série 2
-Claudie,BILLON,Nadège,HAVET,RDPI,DEV/DUR,Finistère,Bretagne,série 2
-Hélène,BONZE,Stéphane,DEMILLY,UC,DEV/DUR,Somme,Hauts-de-France,série 2
-Charlotte,BRAUD,Cédric,PERRIN,Les Républicains,DEV/DUR,Territoire de Belfort,Bourgogne-Franche-Comté,série 2
-Charlotte,BRAUD,Olivier,RIETMANN,Les Républicains,DEV/DUR,Haute-Saône,Bourgogne-Franche-Comté,série 2
-Mariam,BUCH,Annick,BILLON,UC,CULT,Vendée,Pays de la Loire,série 2
-Mariam,BUCH,Bernard,PILLEFER,UC,DEV/DUR,Loir-et-Cher,Centre-Val de Loire,série 1
-Céline,CARCY-MATHIEU,Claude,RAYNAL,SER,FIN,Haute-Garonne,Occitanie,série 2
-Marie-Claire,CARLOTTI,Valérie,BOYER,Les Républicains,FIN,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,série 2
-Marlène,CEUGNIEZ,Alain,CHATILLON,Les Républicains,FIN,Haute-Garonne,Occitanie,série 2
-Aurélien,CHEVALLIER,Sebastien,PLA,SER,AF/ECO,Aude,Occitanie,série 2
-Annie,COUDERC MONERON,Christian,BILHAC,RDSE,FIN,Hérault,Occitanie,série 2
-Michèle,CUBAYNES,François,BONHOMME,Les Républicains,FIN,Tarn-et-Garonne,Occitanie,série 2
-Aurore,DEFOIX,Pierre-Jean,VERZELEN,Les Indépendants,FIN,Aisne,Hauts-de-France,série 2
-Laurent,DESHAIES,Guy,BENARROCHE,GEST,LOIS,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,série 2
-Anne-Camille,DIOT,Nadine,BELLUROT,Les Républicains,LOIS,Indre,Centre-Val de Loire,série 2
-Romain,DOSTES,de Monique,MARCO,GEST,CULT,Gironde,Nouvelle Aquitaine,série 2
-Yann,DUBREUIL,Franck,MONTAUGÉ,SER,AF/ECO,Gers,Occitanie,série 2
-Nathalie,DUMAS,Étienne,BLANC,Les Républicains,AF/ECO,Rhône,Auvergne-Rhône-Alpes,série 2
-Jules,DURIBREU,Dominique,VÉRIEN,UC,LOIS,Yonne,Bourgogne-Franche-Comté,série 2
-Françoise,ESTABLIE,Brigitte,MICOULEAU,Les Républicains,LOIS,Haute-Garonne,Occitanie,série 2
-Maximilien,FAUGERAS,Bruno,ROJOUAN,Les Républicains,LOIS,Allier,Auvergne-Rhône-Alpes,série 2
-Alexandra,FISSEAU,de Louis-Jean,NICOLAY,Les Républicains,LOIS,Sarthe,Pays de la Loire,série 2
-Rémi,FORTANE,Thierry,COZIC,SER,FIN,Sarthe,Pays de la Loire,série 2
-Claire,FRANCOIS,Catherine,MORIN-DESAILLY,UC,CULT,Seine-Maritime,Normandie,série 2
-Isabelle,GARDIEN,Bruno,ROJOUAN,Les Républicains,CULT,Allier,Auvergne-Rhône-Alpes,série 2
-François,GHEYSENS,Olivier,CADIC,UC,AF/ETR/DEF,Français établis hors de France (Série 2),Sénateurs représentant les Français établis hors de France,série 2
-Emilie,GRAND,Denis,BOUAD,SER,AF/ECO,Gard,Occitanie,série 2
-Loïc,GRENARD,Alexandra,BORCHIO FONTIMP,Les Républicains,AF/ECO,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,série 2
-Edwige,GUEGAN,Anne-Catherine,LOISIER,UC,AF/ECO,Côte-d'Or,Bourgogne-Franche-Comté,série 2
-Clara,HASCOET,Alexandra,BORCHIO FONTIMP,Les Républicains,AF/ECO,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,série 2
-Mathieu,HENRY,Alain,MARC,Les Indépendants,AF/ECO,Aveyron,Occitanie,série 2
-Philippe,HOUBRON,Christine,BONFANTI-DOSSAT,Les Républicains,AF/ECO,Lot-et-Garonne,Nouvelle Aquitaine,série 1
-Philippe,HOUBRON,Daniel,GUERET,Les Républicains,AF/ECO,Eure-et-Loir,Centre-Val de Loire,série 2
-Marion,HUGUET,Corinne,FÉRET,SER,AF/SOC,Calvados,Normandie,série 2
-Pauline,JACQUES,Gérard,LAHELLEC,CRCE-K,AF/ECO,Côtes-d'Armor,Bretagne,série 2
-Nathalie,JOLIVET-MIELCZAREK,Christophe-André,FRASSA,Les Républicains,AF/ECO,Français établis hors de France (Série 2),Sénateurs représentant les Français établis hors de France,série 2
-Nathalie,JOLIVET-MIELCZAREK,Ronan,LE GLEUT,Les Républicains,AF/ECO,Français établis hors de France (Série 1),Sénateurs représentant les Français établis hors de France,série 1
-Anne-Gabrielle,JOUFFREY-MATHIEU,Sylviane,NOËL,Les Républicains,AF/ECO,Haute-Savoie,Auvergne-Rhône-Alpes,série 2
-Grégoire,KINOSSIAN,Hervé,MAUREY,UC,FIN,Eure,Normandie,série 2
-Rayan,LALLALI,Jean-Baptiste,LEMOYNE,RDPI,AF/ETR/DEF,Yonne,Bourgogne-Franche-Comté,série 2
-Erwan,LE BIHAN,Gisèle,JOURDA,SER,AF/ETR/DEF,Aude,Occitanie,série 2
-Franck,LECHIEN-GIROUARD,Daniel,GUERET,Les Républicains,AF/ETR/DEF,Eure-et-Loir,Centre-Val de Loire,série 2
-Ghislaine,LEFLAEC,Laurence,MULLER-BRONN,Les Républicains,AF/ETR/DEF,Bas-Rhin,Grand Est,série 2
-Jean-François,LE GOFF,Michel,CANÉVET,UC,FIN,Finistère,Bretagne,série 2
-Laddi,LENGUEMA,Bernard,FIALAIRE,RDSE,CULT,Rhône,Auvergne-Rhône-Alpes,série 2
-Raphaël,LICHTEN,Sophie,BRIANTE GUILLEMONT,RDSE,LOIS,Français établis hors de France (Série 2),Sénateurs représentant les Français établis hors de France,série 2
-Eric,MADELON-MARIE,Dominique,VÉRIEN,UC,LOIS,Yonne,Bourgogne-Franche-Comté,série 2
-Christine,MARCHAND,Jean Pierre,VOGEL,Les Républicains,LOIS,Sarthe,Pays de la Loire,série 2
-Daët,MARION,Bernard,BUIS,RDPI,AF/ECO,Drôme,Auvergne-Rhône-Alpes,série 2
-Auberie,MARTIN,Céline,BRULIN,CRCE-K,AF/SOC,Seine-Maritime,Normandie,série 2
-Irène,MARTIN-HOULGATTE,Laurent,BURGOA,Les Républicains,AF/SOC,Gard,Occitanie,série 2
-Ismaël,M'BAYE,Georges,PATIENT,RDPI,FIN,Guyane,Guyane,série 2
-Louise,MENTREL,Daniel,GREMILLET,Les Républicains,FIN,Vosges,Grand Est,série 2
-Anaïs,MONNIER,Cédric,PERRIN,Les Républicains,FIN,Territoire de Belfort,Bourgogne-Franche-Comté,série 2
-Yolande,MOTILVA,Brigitte,MICOULEAU,Les Républicains,FIN,Haute-Garonne,Occitanie,série 2
-Paul-Bernard,MUNCH,Christian,KLINGER,Les Républicains,FIN,Haut-Rhin,Grand Est,série 2
-Peggy,NICOLAS,Sabine,DREXLER,Les Républicains,FIN,Haut-Rhin,Grand Est,série 2
-Edouard,PACK,Teva,ROHFRITSCH,RDPI,LOIS,Polynésie française,Polynésie française,série 2
-Chryst,PASSARD,Marie-Laure,PHINERA-HORTH,RDPI,DEV/DUR,Guyane,Guyane,série 2
-Pierre,PAVY,Marie-Lise,HOUSSEAU,UC,AF/ECO,Tarn,Occitanie,série 2
-Tumata,PERRY,Lana,TETUANUI,UC,LOIS,Polynésie française,Polynésie française,série 2
-Mireille,PIERRE-LOUIS,Georges,PATIENT,RDPI,FIN,Guyane,Guyane,série 2
-Clémence,PRECETTI,Anne-Catherine,LOISIER,UC,AF/ECO,Côte-d'Or,Bourgogne-Franche-Comté,série 2
-Samir,RHIMINI,Rémy,POINTEREAU,Les Républicains,AF/ECO,Cher,Centre-Val de Loire,série 2
-Jules,ROBIN,Gilbert,FAVREAU,Les Républicains,AF/ECO,Deux-Sèvres,Nouvelle Aquitaine,série 2
-Théo,SAINT-JALM,Mélanie,VOGEL,GEST,LOIS,Français établis hors de France (Série 2),Sénateurs représentant les Français établis hors de France,série 2
-Mélissa,SAVALLI SARROLA,Paul Toussaint,PARIGI,UC,LOIS,Haute-Corse,Corse,série 2
-Loïc,SCHUBNEL,Ludovic,HAYE,UC,AF/ETR/DEF,Haut-Rhin,Grand Est,série 2
-Simon,SIDOBRE,Isabelle,BRIQUET,SER,FIN,Haute-Vienne,Nouvelle Aquitaine,série 2
-Alexandra,SORE,Claude,KERN,UC,CULT,Bas-Rhin,Grand Est,série 2
-Alexandra,SORE,de Louis-Jean,NICOLAY,Les Républicains,CULT,Sarthe,Pays de la Loire,série 2
-Dylan,SUAUD,Marie-Jeanne,BELLAMY,Les Républicains,CULT,Vienne,Nouvelle Aquitaine,série 2
-Céline,TAURINES,Émilienne,POUMIROL,SER,AF/SOC,Haute-Garonne,Occitanie,série 2
-Maxime,THURIOT,Bernard,BUIS,RDPI,AF/ECO,Drôme,Auvergne-Rhône-Alpes,série 2
-Maxime,THURIOT,Didier,RAMBAUD,RDPI,FIN,Isère,Auvergne-Rhône-Alpes,série 1
-Anne-Sophie,VANCINA,Vivette,LOPEZ,Les Républicains,FIN,Gard,Occitanie,série 2
-Chantal,VANNSON,Loïc,HERVÉ,UC,AF/ETR/DEF,Haute-Savoie,Auvergne-Rhône-Alpes,série 2
-Pierre,VATTARD,Sylviane,NOËL,Les Républicains,AF/ETR/DEF,Haute-Savoie,Auvergne-Rhône-Alpes,série 2
-Emmanuelle,VIQUESNEL,Hervé,MAUREY,UC,FIN,Eure,Normandie,série 2
-Ludine,WAGNER,Elsa,SCHALCK,Les Républicains,FIN,Bas-Rhin,Grand Est,série 2
-Véronique,ZUNDEL,Sabine,DREXLER,Les Républicains,FIN,Haut-Rhin,Grand Est,série 2
-Laurence,ACHIN-CHARBONNEL,Gilbert,BOUCHET,Les Républicains,FIN,Drôme,Auvergne-Rhône-Alpes,série 2
-Kerwin,ALCIDE,Marie-Laure,PHINERA-HORTH,RDPI,DEV/DUR,Guyane,Guyane,série 2
-Valéry,ALPHONSE,Georges,PATIENT,RDPI,FIN,Guyane,Guyane,série 2
-Stéphanie,ARNOUX DAUMAS,Loïc,HERVÉ,UC,AF/ETR/DEF,Haute-Savoie,Auvergne-Rhône-Alpes,série 2
-Marc-Antoine,AUTHIER,Vanina,PAOLI-GAGIN,Les Indépendants,AF/ETR/DEF,Aube,Grand Est,série 2
-Philippe,BAYOL,Éric,JEANSANNETAS,SER,FIN,Creuse,Nouvelle Aquitaine,série 2
-Aurore,BELAIDI,Stéphane,SAUTAREL,Les Républicains,FIN,Cantal,Auvergne-Rhône-Alpes,série 2
-Nina,BENZAKINE,Martine,BERTHET,Les Républicains,FIN,Savoie,Auvergne-Rhône-Alpes,série 2
-Géraldine,BESSON,Cédric,VIAL,Les Républicains,FIN,Savoie,Auvergne-Rhône-Alpes,série 2
-Lucien,BILLY,Olivier,RIETMANN,Les Républicains,FIN,Haute-Saône,Bourgogne-Franche-Comté,série 2
-Chloé,BOUSSER,de Sonia,LA PROVÔTÉ,UC,CULT,Calvados,Normandie,série 2
-Hélène,BRESSON,Loïc,HERVÉ,UC,AF/ETR/DEF,Haute-Savoie,Auvergne-Rhône-Alpes,série 2
-Fanny,CAILLE,Olivier,RIETMANN,Les Républicains,AF/ETR/DEF,Haute-Saône,Bourgogne-Franche-Comté,série 2
-Emilie,CARDOT,Alain,JOYANDET,Les Républicains,AF/ETR/DEF,Haute-Saône,Bourgogne-Franche-Comté,série 2
-Gabriel,CAZAUBON,Jean-Jacques,LOZACH,SER,CULT,Creuse,Nouvelle Aquitaine,série 2
-Sylvain,CHARBONNIER,Rémi,CARDON,SER,AF/ECO,Somme,Hauts-de-France,série 2
-Flavie,COMTET,Patrick,CHAIZE,Les Républicains,AF/ECO,Ain,Auvergne-Rhône-Alpes,série 2
-Léo,COURVASIER,Vanina,PAOLI-GAGIN,Les Indépendants,AF/ECO,Aube,Grand Est,série 2
-Catherine,CUNY,Elsa,SCHALCK,Les Républicains,AF/ECO,Bas-Rhin,Grand Est,série 2
-Marion,DEJOUANNET,Christian,REDON-SARRAZY,SER,AF/ECO,Haute-Vienne,Nouvelle Aquitaine,série 2
-Beriwan,DIESSLER,Stéphane,SAUTAREL,Les Républicains,AF/ECO,Cantal,Auvergne-Rhône-Alpes,série 2
-Beriwan,DIESSLER,Anne,VENTALON,Les Républicains,AF/ECO,Ardèche,Auvergne-Rhône-Alpes,série 2
-Léa,DIVO,Catherine,MORIN-DESAILLY,UC,CULT,Seine-Maritime,Normandie,série 2
-Alexandra,DOUSSAUD,Claude,NOUGEIN,Les Républicains,CULT,Corrèze,Nouvelle Aquitaine,série 2
-Elisa,DUFOSSE,Kristina,PLUCHET,Les Républicains,CULT,Eure,Normandie,série 2
-Tatiana,DUPONT,Thierry,COZIC,SER,FIN,Sarthe,Pays de la Loire,série 2
-Sophie,EISINGER,Guy,BENARROCHE,GEST,LOIS,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,série 2
-Frédérique,FABRE,Alain,CAZABONNE,UC,AF/ETR/DEF,Gironde,Nouvelle Aquitaine,série 2
-Florence,FAYE,Christian,BILHAC,RDSE,FIN,Hérault,Occitanie,série 2
-Aurianne,FLERET,Michel,CANÉVET,UC,FIN,Finistère,Bretagne,série 2
-Marie-Aude,FOUGERAY,Frédérique,GERBAUD,Les Républicains,FIN,Indre,Centre-Val de Loire,série 2
-Mélanie,FUND,Elsa,SCHALCK,Les Républicains,FIN,Bas-Rhin,Grand Est,série 2
-Jean-Luc,GAUCHER,Mathieu,DARNAUD,Les Républicains,FIN,Ardèche,Auvergne-Rhône-Alpes,série 2
-Jean-Luc,GAUCHER,Anne,VENTALON,Les Républicains,FIN,Ardèche,Auvergne-Rhône-Alpes,série 2
-Alain,GNOCCHI-ESPERINAS,Hussein,BOURGI,SER,LOIS,Hérault,Occitanie,série 2
-Antoine,GREINER,Hussein,BOURGI,SER,LOIS,Hérault,Occitanie,série 2
-Albert,GROSPERRIN,Jacques,GROSPERRIN,Les Républicains,LOIS,Doubs,Bourgogne-Franche-Comté,série 2
-Marc,GUILLAUME,Alain,CADEC,Les Républicains,LOIS,Côtes-d'Armor,Bretagne,série 2
-Laurence,HEISBOURG,Françoise,DUMONT,Les Républicains,LOIS,Var,Provence-Alpes-Côte d'Azur,série 2
-Valérie,HERISSON,Cyril,PELLEVAT,Les Indépendants,LOIS,Haute-Savoie,Auvergne-Rhône-Alpes,série 2
-Matthieu,HOUSSIN,Sebastien,PLA,SER,AF/ECO,Aude,Occitanie,série 2
-Thérèse,HURTER,Daniel,GREMILLET,Les Républicains,AF/ECO,Vosges,Grand Est,série 2
-Dominique,JAOUEN,Annick,BILLON,UC,CULT,Vendée,Pays de la Loire,série 2
-Virginie,JOLY,Patrick,CHAIZE,Les Républicains,CULT,Ain,Auvergne-Rhône-Alpes,série 2
-Maxence,JOUVE,Valérie,BOYER,Les Républicains,CULT,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,série 2
-Athenais,KOUIDRI,Marie-Pierre,MONIER,SER,CULT,Drôme,Auvergne-Rhône-Alpes,série 2
-Fatima,LARIGAUDERIE,Jean-Jacques,LOZACH,SER,CULT,Creuse,Nouvelle Aquitaine,série 2
-Anne,LEBURGUE-KARABABA,Patricia,SCHILLINGER,RDPI,LOIS,Haut-Rhin,Grand Est,série 2
-Christelle,LECOMTE,Corinne,IMBERT,Les Républicains,LOIS,Charente-Maritime,Nouvelle Aquitaine,série 2
-Magali,LE FRANCOIS,Mireille,JOUVE,RDSE,AF/ETR/DEF,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,série 2
-Dominique,LE HEN,Jean-Luc,FICHET,SER,AF/SOC,Finistère,Bretagne,série 2
-Emilie,LE PETIT,Rémy,POINTEREAU,Les Républicains,AF/SOC,Cher,Centre-Val de Loire,série 2
-Lisa-Marie,LONGEOT,Annick,JACQUEMET,UC,AF/ECO,Doubs,Bourgogne-Franche-Comté,série 2
-Clarisse,MAHOUDEAU,Corinne,IMBERT,Les Républicains,AF/ECO,Charente-Maritime,Nouvelle Aquitaine,série 2
-Kevin,MARCK,Patricia,SCHILLINGER,RDPI,LOIS,Haut-Rhin,Grand Est,série 2
-Benjamin,MARTELLI,Dominique,ESTROSI SASSONE,Les Républicains,LOIS,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,série 2
-Laure,MARTIN,Rémy,POINTEREAU,Les Républicains,LOIS,Cher,Centre-Val de Loire,série 2
-Valérie,MARTINON PIGEAT,Jean-Jacques,LOZACH,SER,CULT,Creuse,Nouvelle Aquitaine,série 2
-Augustin de,MEAUX,Jean-Baptiste,BLANC,Les Républicains,CULT,Vaucluse,Provence-Alpes-Côte d'Azur,série 2
-Christine,MESSIAS RODRIGUES,Françoise,DUMONT,Les Républicains,CULT,Var,Provence-Alpes-Côte d'Azur,série 2
-Lucile de,MONSPEY,Kristina,PLUCHET,Les Républicains,CULT,Eure,Normandie,série 2
-Pascale,MOURRUT,Vivette,LOPEZ,Les Républicains,CULT,Gard,Occitanie,série 2
-Estelle,NAUD,Marie-Pierre,MONIER,SER,CULT,Drôme,Auvergne-Rhône-Alpes,série 2
-Géraud,OGIER D IVRY,Brigitte,HYBERT,Les Républicains,CULT,Vendée,Pays de la Loire,série 2
-Géraud,OGIER D IVRY,Vivette,LOPEZ,Les Républicains,CULT,Gard,Occitanie,série 2
-Nicolas,PALMARO,André,GUIOL,RDSE,AF/ETR/DEF,Var,Provence-Alpes-Côte d'Azur,série 2
-Vincent,PATTIER,Christophe-André,FRASSA,Les Républicains,AF/ETR/DEF,Français établis hors de France (Série 2),Sénateurs représentant les Français établis hors de France,série 2
-Anne-Lise,PELLETIER,Jérôme,DURAIN,SER,LOIS,Saône-et-Loire,Bourgogne-Franche-Comté,série 2
-Marielle,PETTINATO,Lana,TETUANUI,UC,LOIS,Polynésie française,Polynésie française,série 2
-Dylan,PIRAS,Olivier,CADIC,UC,AF/ETR/DEF,Français établis hors de France (Série 2),Sénateurs représentant les Français établis hors de France,série 2
-Morgane,RECLUS,Alexandra,BORCHIO FONTIMP,Les Républicains,AF/ETR/DEF,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,série 2
-Jean-Marc,RIGAUDIERE,Frédérique,GERBAUD,Les Républicains,AF/ETR/DEF,Indre,Centre-Val de Loire,série 2
-Isabelle-Martine,ROGUET,Sylviane,NOËL,Les Républicains,AF/ETR/DEF,Haute-Savoie,Auvergne-Rhône-Alpes,série 2
-Marguerite,SALLES,Jean-Claude,ANGLARS,Les Républicains,AF/ETR/DEF,Aveyron,Occitanie,série 2
-Pierre,SAVREUX,Pascale,GRUNY,Les Républicains,AF/ETR/DEF,Aisne,Hauts-de-France,série 2
-Ghislaine,SEGUINOT,Hussein,BOURGI,SER,LOIS,Hérault,Occitanie,série 2
-Bruno,SIMON,Nicole,DURANTON,RDPI,AF/ETR/DEF,Eure,Normandie,série 2
-Marie,SOULEAU-JOFFRE,Jean-Marc,DELIA,Les Républicains,AF/ETR/DEF,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,série 2
-Marie,SOULEAU-JOFFRE,Paul,VIDAL,Les Républicains,AF/ETR/DEF,Rhône,Auvergne-Rhône-Alpes,série 2
-Emilie,SUBRA,Pierre,MÉDEVIELLE,Les Indépendants,AF/ETR/DEF,Haute-Garonne,Occitanie,série 2
-Léon,THEBAULT,de Monique,MARCO,GEST,CULT,Gironde,Nouvelle Aquitaine,série 2
-Alice de,TURCKHEIM,André,REICHARDT,Les Républicains,CULT,Bas-Rhin,Grand Est,série 2
-Philippine,VAN DER MEULEN,Catherine,DI FOLCO,Les Républicains,CULT,Rhône,Auvergne-Rhône-Alpes,série 2
-Philippine,VAN DER MEULEN,Jean-François,RAPIN,Les Républicains,CULT,Pas-de-Calais,Hauts-de-France,série 1
-Eric,VAN ROY,Jean-Luc,FICHET,SER,AF/SOC,Finistère,Bretagne,série 2
-Eric,VAN ROY,Jean-Jacques,MICHAU,SER,AF/ECO,Ariège,Occitanie,série 2
-Pierre-Jean,VEYRET,Bernard,BUIS,RDPI,AF/ECO,Drôme,Auvergne-Rhône-Alpes,série 2
-Matteo,VITALI,Jacques,GROSPERRIN,Les Républicains,AF/ECO,Doubs,Bourgogne-Franche-Comté,série 2
-Julie,ZECH,Christian,KLINGER,Les Républicains,AF/ECO,Haut-Rhin,Grand Est,série 2
-Jean-Michel,ADELAIDE,Vanina,PAOLI-GAGIN,Les Indépendants,AF/ECO,Aube,Grand Est,série 2
-Marie,ALLEGRINI,Marie-Arlette,CARLOTTI,SER,AF/ETR/DEF,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,série 2
-Gabrielle,ANTIER,Mickaël,VALLET,SER,AF/ETR/DEF,Charente-Maritime,Nouvelle Aquitaine,série 2
-Maryse,AUGER,Claude,RAYNAL,SER,FIN,Haute-Garonne,Occitanie,série 2
-Anne,BARBOLOSI,Paul Toussaint,PARIGI,UC,LOIS,Haute-Corse,Corse,série 2
-Emilie,BEAUJOT,Else,JOSEPH,Les Républicains,LOIS,Ardennes,Grand Est,série 2
-Paola,BENHAIM,Jacques,FERNIQUE,GEST,DEV/DUR,Bas-Rhin,Grand Est,série 2
-Sandrine,BERTRAND,Patrick,CHAIZE,Les Républicains,DEV/DUR,Ain,Auvergne-Rhône-Alpes,série 2
-Catherine,BILIEC,Michel,CANÉVET,UC,FIN,Finistère,Bretagne,série 2
-Christa,BLAIN,Annick,BILLON,UC,CULT,Vendée,Pays de la Loire,série 2
-Bénédicte,BRAIT,Marie-Claude,VARAILLAS,CRCE-K,DEV/DUR,Dordogne,Nouvelle Aquitaine,série 2
-Nathalie,BROCHAND,Sylvie,GOY-CHAVENT,Les Républicains,DEV/DUR,Ain,Auvergne-Rhône-Alpes,série 2
-Jérôme,CALMELS,Jean-Luc,FICHET,SER,AF/SOC,Finistère,Bretagne,série 2
-Guillaume,CARISTAN,Fabien,GENET,Les Républicains,AF/SOC,Saône-et-Loire,Bourgogne-Franche-Comté,série 2
-Guillaume,CARISTAN,Bruno,ROJOUAN,Les Républicains,AF/SOC,Allier,Auvergne-Rhône-Alpes,série 2
-Clémence,CELERIER,Marie-Claude,VARAILLAS,CRCE-K,DEV/DUR,Dordogne,Nouvelle Aquitaine,série 2
-Thomas,CHEVALERIAS,François,BONNEAU,UC,AF/ETR/DEF,Charente,Nouvelle Aquitaine,série 2
-Alexandre,COPIN,Cédric,VIAL,Les Républicains,AF/ETR/DEF,Savoie,Auvergne-Rhône-Alpes,série 2
-Maryline,CROYET,Lucien,STANZIONE,SER,AF/ECO,Vaucluse,Provence-Alpes-Côte d'Azur,série 2
-Myriam,DEAU,Didier,MANDELLI,Les Républicains,AF/ECO,Vendée,Pays de la Loire,série 2
-Thomas,DENIEAULT,de Albéric,MONTGOLFIER,Les Républicains,AF/ECO,Eure-et-Loir,Centre-Val de Loire,série 2
-Yoan,DIETSCHE,Jean-Michel,ARNAUD,UC,LOIS,Hautes-Alpes,Provence-Alpes-Côte d'Azur,série 2
-Raphaël,DONAY,Yan,CHANTREL,SER,CULT,Français établis hors de France (Série 2),Sénateurs représentant les Français établis hors de France,série 2
-Dimitri,DOUSSOT,Alain,JOYANDET,Les Républicains,CULT,Haute-Saône,Bourgogne-Franche-Comté,série 2
-Catherine,DUJARDIN,Pierre-Jean,VERZELEN,Les Indépendants,CULT,Aisne,Hauts-de-France,série 2
-Gaëlle,DUPRE,Évelyne,PERROT,UC,AF/ETR/DEF,Aube,Grand Est,série 2
-Pascal,ELLUL,Pierre-Antoine,LEVI,UC,CULT,Tarn-et-Garonne,Occitanie,série 2
-Nastasia,FARINOTTI,Martine,BERTHET,Les Républicains,CULT,Savoie,Auvergne-Rhône-Alpes,série 2
-Jules,FERON,Sabine,DREXLER,Les Républicains,CULT,Haut-Rhin,Grand Est,série 2
-Romane,FLOURIOT,Annie,LE HOUEROU,SER,AF/SOC,Côtes-d'Armor,Bretagne,série 2
-Pierre-Henri,FOURGOUS,François,BONHOMME,Les Républicains,AF/SOC,Tarn-et-Garonne,Occitanie,série 2
-Caroline,GAILLARD,Marie-Jeanne,BELLAMY,Les Républicains,AF/SOC,Vienne,Nouvelle Aquitaine,série 2
-Caroline,GAILLARD,Didier,MANDELLI,Les Républicains,AF/SOC,Vendée,Pays de la Loire,série 2
-Marine,GAUDRIER,Gilbert,BOUCHET,Les Républicains,AF/SOC,Drôme,Auvergne-Rhône-Alpes,série 2
-Martine,GONDRAN,Valérie,BOYER,Les Républicains,AF/SOC,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,série 2
-Caroline,GRELET JOLY,Alain,MILON,Les Républicains,AF/SOC,Vaucluse,Provence-Alpes-Côte d'Azur,série 2
-Brigitte,GRUDLER,Jean Pierre,VOGEL,Les Républicains,AF/SOC,Sarthe,Pays de la Loire,série 2
-Cédric,GUYON,Fabien,GENET,Les Républicains,AF/SOC,Saône-et-Loire,Bourgogne-Franche-Comté,série 2
-Baptiste,HENNERESSE,Anne-Catherine,LOISIER,UC,AF/ECO,Côte-d'Or,Bourgogne-Franche-Comté,série 2
-Marianne,HORNY-GONIER,Claude,KERN,UC,CULT,Bas-Rhin,Grand Est,série 2
-Gaëlle,HUGUENIN-ROBINOT,Daniel,GREMILLET,Les Républicains,CULT,Vosges,Grand Est,série 2
-Biliana,ILIC,Jean-Baptiste,LEMOYNE,RDPI,AF/ETR/DEF,Yonne,Bourgogne-Franche-Comté,série 2
-Charles,JEAN-LOUIS,Étienne,BLANC,Les Républicains,AF/ETR/DEF,Rhône,Auvergne-Rhône-Alpes,série 2
-Marie-Joseph de,JORNA DELOCHE,Marie-Pierre,RICHER,Les Républicains,AF/ETR/DEF,Cher,Centre-Val de Loire,série 2
-Léa,KAUFFMANN,Jacques,FERNIQUE,GEST,DEV/DUR,Bas-Rhin,Grand Est,série 2
-Mélanie,LAFORET,Claude,KERN,UC,CULT,Bas-Rhin,Grand Est,série 2
-Julien,LAY,Florence,BLATRIX CONTAT,SER,FIN,Ain,Auvergne-Rhône-Alpes,série 2
-Géraldine de,LE CHAUFF KERGUENEC,Jean Pierre,VOGEL,Les Républicains,FIN,Sarthe,Pays de la Loire,série 2
-Marine,LEFEVRE,Pascale,GRUNY,Les Républicains,FIN,Aisne,Hauts-de-France,série 2
-Rémy,LEGER,Didier,MARIE,SER,AF/ETR/DEF,Seine-Maritime,Normandie,série 2
-Colette,LE MERRER,Annie,LE HOUEROU,SER,AF/SOC,Côtes-d'Armor,Bretagne,série 2
-Lucas,LE ROUX,Annick,JACQUEMET,UC,AF/ECO,Doubs,Bourgogne-Franche-Comté,série 2
-Pierre,LOPEZ LANDIER,Gilbert-Luc,DEVINAZ,SER,DEV/DUR,Rhône,Auvergne-Rhône-Alpes,série 2
-Jean-Charles,MARASSE,Évelyne,PERROT,UC,AF/ETR/DEF,Aube,Grand Est,série 2
-Lou-Ana,MARIJON,Sophie,BRIANTE GUILLEMONT,RDSE,LOIS,Français établis hors de France (Série 2),Sénateurs représentant les Français établis hors de France,série 2
-Dominique,MARTI,Gisèle,JOURDA,SER,AF/ETR/DEF,Aude,Occitanie,série 2
-Cristina,MARTINEAU,Gilbert-Luc,DEVINAZ,SER,DEV/DUR,Rhône,Auvergne-Rhône-Alpes,série 2
-Paul-Eliott,MASSOT,Serge,MÉRILLOU,SER,AF/ECO,Dordogne,Nouvelle Aquitaine,série 2
-Paul-Eliott,MASSOT,Franck,MONTAUGÉ,SER,AF/ECO,Gers,Occitanie,série 2
-Besma,MEDINI,Yan,CHANTREL,SER,CULT,Français établis hors de France (Série 2),Sénateurs représentant les Français établis hors de France,série 2
-Jean-Michel,MONIER,Michel,BONNUS,Les Républicains,CULT,Var,Provence-Alpes-Côte d'Azur,série 2
-Tino,MORGANTI-MALET,Brigitte,DEVÉSA,UC,AF/SOC,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,série 2
-Maylis,MOUTON,Vanina,PAOLI-GAGIN,Les Indépendants,AF/SOC,Aube,Grand Est,série 2
-Marion,NICAISE,Patricia,DEMAS,Les Républicains,AF/SOC,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,série 2
-Béatrice,OLIVIER,Pascal,ALLIZARD,Les Républicains,AF/SOC,Calvados,Normandie,série 2
-Stéphanie,PARRY,Jean-Baptiste,BLANC,Les Républicains,AF/SOC,Vaucluse,Provence-Alpes-Côte d'Azur,série 2
-Nicolas,PAULIN-HIPPOLYTE,Nadine,BELLUROT,Les Républicains,AF/SOC,Indre,Centre-Val de Loire,série 2
-Emilio,PERRAULT,Patricia,DEMAS,Les Républicains,AF/SOC,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,série 2
-Mickaël,PHILIPPE,Pascal,MARTIN,UC,DEV/DUR,Seine-Maritime,Normandie,série 2
-Antonin,PORCU,Christian,KLINGER,Les Républicains,DEV/DUR,Haut-Rhin,Grand Est,série 2
-Mary-Anna,REIATUA,Teva,ROHFRITSCH,RDPI,LOIS,Polynésie française,Polynésie française,série 2
-Alexis,ROBIN,de Albéric,MONTGOLFIER,Les Républicains,LOIS,Eure-et-Loir,Centre-Val de Loire,série 2
-Béatrice,SABY,Lucien,STANZIONE,SER,AF/ECO,Vaucluse,Provence-Alpes-Côte d'Azur,série 2
-Marie,SAMMARCELLI,Alain,CAZABONNE,UC,AF/ETR/DEF,Gironde,Nouvelle Aquitaine,série 2
-Arthur,SCETBON,Céline,BRULIN,CRCE-K,AF/SOC,Seine-Maritime,Normandie,série 2
-Julien,SEYSSEL,Évelyne,PERROT,UC,AF/ETR/DEF,Aube,Grand Est,série 2
-Marie-Pierre,SOLY,Marc,LAMÉNIE,Les Indépendants,AF/ETR/DEF,Ardennes,Grand Est,série 2
-Sonia,SOURICE,Bruno,BELIN,Les Républicains,AF/ETR/DEF,Vienne,Nouvelle Aquitaine,série 2
-Gwendoline,TARQUIS,Georges,NATUREL,Les Républicains,AF/ETR/DEF,Nouvelle-Calédonie,Nouvelle-Calédonie,série 1
-Gwendoline,TARQUIS,Kristina,PLUCHET,Les Républicains,AF/ETR/DEF,Eure,Normandie,série 2
-Marianne,THEOLEYRE,Gilbert-Luc,DEVINAZ,SER,DEV/DUR,Rhône,Auvergne-Rhône-Alpes,série 2
-Sandrine,UGATAI,Mikaele,KULIMOETOKE,RDPI,CULT,Iles Wallis et Futuna,Iles Wallis et Futuna,série 2
-Pauline,VAN DEUREN,Cyril,PELLEVAT,Les Indépendants,CULT,Haute-Savoie,Auvergne-Rhône-Alpes,série 2
-Monika,VASSILEV,Alain,JOYANDET,Les Républicains,CULT,Haute-Saône,Bourgogne-Franche-Comté,série 2
-Alexia,VIGNOUD,Martine,BERTHET,Les Républicains,CULT,Savoie,Auvergne-Rhône-Alpes,série 2
-Grégoire,VIVET,Antoine,LEFÈVRE,Les Républicains,CULT,Aisne,Hauts-de-France,série 2
-Sarah,ZEKRI,Nicole,DURANTON,RDPI,AF/ETR/DEF,Eure,Normandie,série 2
+nom_collab,prenom_collab,nom_parlementaire,prenom_parlementaire,groupe,commission,departement,region,serie,id_parlementaire,id_collab,id_parl_et_collab
+Louis-Victor,AIRONI,Vincent,CAPO-CANELLAS,UC,FIN,Seine-Saint-Denis,Ile-de-France,série 1,CAPOCANELLASVINCENT,AIRONILOUISVICTOR,CAPOCANELLASVINCENTAIRONILOUISVICTOR
+Karine,ALICOT,Jean-Marc,VAYSSOUZE-FAURE,SER,AF/ETR/DEF,Lot,Occitanie,série 1,VAYSSOUZEFAUREJEANMARC,ALICOTKARINE,VAYSSOUZEFAUREJEANMARCALICOTKARINE
+Lydie,ARTIGA,Sylvie,VERMEILLET,UC,FIN,Jura,Bourgogne-Franche-Comté,série 1,VERMEILLETSYLVIE,ARTIGALYDIE,VERMEILLETSYLVIEARTIGALYDIE
+Manon,BACHMANN,Jean-François,HUSSON,Les Républicains,FIN,Meurthe-et-Moselle,Grand Est,série 1,HUSSONJEANFRANCOIS,BACHMANNMANON,HUSSONJEANFRANCOISBACHMANNMANON
+Jessica,BALSAMELLO,Jocelyne,ANTOINE,UC,DEV/DUR,Meuse,Grand Est,série 1,ANTOINEJOCELYNE,BALSAMELLOJESSICA,ANTOINEJOCELYNEBALSAMELLOJESSICA
+Stéphanie,BASTIDE,Marion,CANALÈS,SER,AF/SOC,Puy-de-Dôme,Auvergne-Rhône-Alpes,série 1,CANALESMARION,BASTIDESTEPHANIE,CANALESMARIONBASTIDESTEPHANIE
+Lili,BEHIELS,Guillaume,GONTARD,GEST,AF/ETR/DEF,Isère,Auvergne-Rhône-Alpes,série 1,GONTARDGUILLAUME,BEHIELSLILI,GONTARDGUILLAUMEBEHIELSLILI
+Alice,BENARD,Vincent,LOUAULT,Les Indépendants,AF/ETR/DEF,Indre-et-Loire,Centre-Val de Loire,série 1,LOUAULTVINCENT,BENARDALICE,LOUAULTVINCENTBENARDALICE
+Laura,BEROT,Patrice,JOLY,SER,AF/ETR/DEF,Nièvre,Bourgogne-Franche-Comté,série 1,JOLYPATRICE,BEROTLAURA,JOLYPATRICEBEROTLAURA
+Juliette,BLANCHOT,Marion,CANALÈS,SER,AF/SOC,Puy-de-Dôme,Auvergne-Rhône-Alpes,série 1,CANALESMARION,BLANCHOTJULIETTE,CANALESMARIONBLANCHOTJULIETTE
+Caroline,BOICHOT,Christian,CAMBON,Les Républicains,AF/SOC,Val-de-Marne,Ile-de-France,série 1,CAMBONCHRISTIAN,BOICHOTCAROLINE,CAMBONCHRISTIANBOICHOTCAROLINE
+Jean-Marc,BOYER,Olivier,CIGOLOTTI,UC,AF/ETR/DEF,Haute-Loire,Auvergne-Rhône-Alpes,série 1,CIGOLOTTIOLIVIER,BOYERJEANMARC,CIGOLOTTIOLIVIERBOYERJEANMARC
+Adrien,CAILLE,Philippe,GROSVALET,RDSE,AF/ECO,Loire-Atlantique,Pays de la Loire,série 1,GROSVALETPHILIPPE,CAILLEADRIEN,GROSVALETPHILIPPECAILLEADRIEN
+Damien,CHARBONNEL,Jean-Luc,BRAULT,Les Indépendants,AF/ECO,Loir-et-Cher,Centre-Val de Loire,série 1,BRAULTJEANLUC,CHARBONNELDAMIEN,BRAULTJEANLUCCHARBONNELDAMIEN
+Marie Mathilde,CLOTILDE,Dominique,THÉOPHILE,RDPI,AF/SOC,Guadeloupe,Guadeloupe,série 1,THEOPHILEDOMINIQUE,CLOTILDEMARIEMATHILDE,THEOPHILEDOMINIQUECLOTILDEMARIEMATHILDE
+Sandrine,COULANJON,Éric,GOLD,RDSE,DEV/DUR,Puy-de-Dôme,Auvergne-Rhône-Alpes,série 1,GOLDERIC,COULANJONSANDRINE,GOLDERICCOULANJONSANDRINE
+Sandrine,DANIEL,Jean-Raymond,HUGONET,Les Républicains,DEV/DUR,Essonne,Ile-de-France,série 1,HUGONETJEANRAYMOND,DANIELSANDRINE,HUGONETJEANRAYMONDDANIELSANDRINE
+Nessa,DAVRAIN,Frédéric,BUVAL,RDPI,AF/ECO,Martinique,Martinique,série 1,BUVALFREDERIC,DAVRAINNESSA,BUVALFREDERICDAVRAINNESSA
+Marielle,DEHEZ,Monique,LUBIN,SER,AF/SOC,Landes,Nouvelle Aquitaine,série 1,LUBINMONIQUE,DEHEZMARIELLE,LUBINMONIQUEDEHEZMARIELLE
+Hélène,DEVILLIERS,Cédric,CHEVALIER,Les Indépendants,AF/SOC,Marne,Grand Est,série 1,CHEVALIERCEDRIC,DEVILLIERSHELENE,CHEVALIERCEDRICDEVILLIERSHELENE
+Smaïl,DJEBARA,Vincent,ÉBLÉ,SER,FIN,Seine-et-Marne,Ile-de-France,série 1,EBLEVINCENT,DJEBARASMAIL,EBLEVINCENTDJEBARASMAIL
+Sylvie,DUMAINE,Marie-Claude,LERMYTTE,Les Indépendants,FIN,Nord,Hauts-de-France,série 1,LERMYTTEMARIECLAUDE,DUMAINESYLVIE,LERMYTTEMARIECLAUDEDUMAINESYLVIE
+Karine,DUNEAU,Laurence,GARNIER,Les Républicains,FIN,Loire-Atlantique,Pays de la Loire,série 1,GARNIERLAURENCE,DUNEAUKARINE,GARNIERLAURENCEDUNEAUKARINE
+Fabienne,DURAISIN,Michelle,GRÉAUME,CRCE-K,AF/ETR/DEF,Nord,Hauts-de-France,série 1,GREAUMEMICHELLE,DURAISINFABIENNE,GREAUMEMICHELLEDURAISINFABIENNE
+Laurence,EVAIN,Jean-François,HUSSON,Les Républicains,AF/ETR/DEF,Meurthe-et-Moselle,Grand Est,série 1,HUSSONJEANFRANCOIS,EVAINLAURENCE,HUSSONJEANFRANCOISEVAINLAURENCE
+Amandine,FAURE,Pierre Jean,ROCHETTE,Les Indépendants,AF/ETR/DEF,Loire,Auvergne-Rhône-Alpes,série 1,ROCHETTEPIERREJEAN,FAUREAMANDINE,ROCHETTEPIERREJEANFAUREAMANDINE
+Thibault,FLINE,Anne,CHAIN-LARCHÉ,Les Républicains,AF/ETR/DEF,Seine-et-Marne,Ile-de-France,série 1,CHAINLARCHEANNE,FLINETHIBAULT,CHAINLARCHEANNEFLINETHIBAULT
+Nikita,FRISON-BRUNO,Vincent,CAPO-CANELLAS,UC,FIN,Seine-Saint-Denis,Ile-de-France,série 1,CAPOCANELLASVINCENT,FRISONBRUNONIKITA,CAPOCANELLASVINCENTFRISONBRUNONIKITA
+Lucille,GADLER,de Marie-Pierre,LA GONTRIE,SER,LOIS,Paris,Ile-de-France,série 1,LAGONTRIEDEMARIEPIERRE,GADLERLUCILLE,LAGONTRIEDEMARIEPIERREGADLERLUCILLE
+Julien,GARCIA,Jocelyne,GUIDEZ,UC,AF/SOC,Essonne,Ile-de-France,série 1,GUIDEZJOCELYNE,GARCIAJULIEN,GUIDEZJOCELYNEGARCIAJULIEN
+Théophile,GAYRARD,Hugues,SAURY,Les Républicains,AF/SOC,Loiret,Centre-Val de Loire,série 1,SAURYHUGUES,GAYRARDTHEOPHILE,SAURYHUGUESGAYRARDTHEOPHILE
+Annick de,GONZAGUE,Frédéric,BUVAL,RDPI,AF/ECO,Martinique,Martinique,série 1,BUVALFREDERIC,GONZAGUEANNICKDE,BUVALFREDERICGONZAGUEANNICKDE
+Apolline,HALBECQ,Hugues,SAURY,Les Républicains,AF/ECO,Loiret,Centre-Val de Loire,série 1,SAURYHUGUES,HALBECQAPOLLINE,SAURYHUGUESHALBECQAPOLLINE
+Ruben,HECHLER,Véronique,GUILLOTIN,RDSE,AF/SOC,Meurthe-et-Moselle,Grand Est,série 1,GUILLOTINVERONIQUE,HECHLERRUBEN,GUILLOTINVERONIQUEHECHLERRUBEN
+Philippe,HOUBRON,Christine,BONFANTI-DOSSAT,Les Républicains,AF/SOC,Lot-et-Garonne,Nouvelle Aquitaine,série 1,BONFANTIDOSSATCHRISTINE,HOUBRONPHILIPPE,BONFANTIDOSSATCHRISTINEHOUBRONPHILIPPE
+Philippe,HOUBRON,Daniel,GUERET,Les Républicains,AF/SOC,Eure-et-Loir,Centre-Val de Loire,série 2,GUERETDANIEL,HOUBRONPHILIPPE,GUERETDANIELHOUBRONPHILIPPE
+Aymeric,JAILLAIS,Max,BRISSON,Les Républicains,AF/SOC,Pyrénées-Atlantiques,Nouvelle Aquitaine,série 1,BRISSONMAX,JAILLAISAYMERIC,BRISSONMAXJAILLAISAYMERIC
+Aymeric,JAILLAIS,Jean-Gérard,PAUMIER,Les Républicains,AF/SOC,Indre-et-Loire,Centre-Val de Loire,série 1,PAUMIERJEANGERARD,JAILLAISAYMERIC,PAUMIERJEANGERARDJAILLAISAYMERIC
+Nathalie,JOLIVET-MIELCZAREK,Christophe-André,FRASSA,Les Républicains,AF/SOC,Français établis hors de France (Série 2),Sénateurs représentant les Français établis hors de France,série 2,FRASSACHRISTOPHEANDRE,JOLIVETMIELCZAREKNATHALIE,FRASSACHRISTOPHEANDREJOLIVETMIELCZAREKNATHALIE
+Nathalie,JOLIVET-MIELCZAREK,Ronan,LE GLEUT,Les Républicains,AF/SOC,Français établis hors de France (Série 1),Sénateurs représentant les Français établis hors de France,série 1,LEGLEUTRONAN,JOLIVETMIELCZAREKNATHALIE,LEGLEUTRONANJOLIVETMIELCZAREKNATHALIE
+Sylvie,JUPITER,Frédéric,BUVAL,RDPI,AF/ECO,Martinique,Martinique,série 1,BUVALFREDERIC,JUPITERSYLVIE,BUVALFREDERICJUPITERSYLVIE
+Sabah,KHENNOUF,Cécile,CUKIERMAN,CRCE-K,LOIS,Loire,Auvergne-Rhône-Alpes,série 1,CUKIERMANCECILE,KHENNOUFSABAH,CUKIERMANCECILEKHENNOUFSABAH
+Kévin,LANDRY,Amel,GACQUERRE,UC,AF/ECO,Pas-de-Calais,Hauts-de-France,série 1,GACQUERREAMEL,LANDRYKEVIN,GACQUERREAMELLANDRYKEVIN
+Laura,LAURENS,Frédérique,PUISSAT,Les Républicains,AF/ECO,Isère,Auvergne-Rhône-Alpes,série 1,PUISSATFREDERIQUE,LAURENSLAURA,PUISSATFREDERIQUELAURENSLAURA
+Amaury,LEBRETON,Cathy,APOURCEAU-POLY,CRCE-K,AF/SOC,Pas-de-Calais,Hauts-de-France,série 1,APOURCEAUPOLYCATHY,LEBRETONAMAURY,APOURCEAUPOLYCATHYLEBRETONAMAURY
+Aymerik,LEMAIRE,Jérôme,DARRAS,SER,AF/ETR/DEF,Pas-de-Calais,Hauts-de-France,série 1,DARRASJEROME,LEMAIREAYMERIK,DARRASJEROMELEMAIREAYMERIK
+Jocelyn,LINISE,Frédéric,BUVAL,RDPI,AF/ECO,Martinique,Martinique,série 1,BUVALFREDERIC,LINISEJOCELYN,BUVALFREDERICLINISEJOCELYN
+Adrien,MADEC,Alexandre,OUIZILLE,SER,DEV/DUR,Oise,Hauts-de-France,série 1,OUIZILLEALEXANDRE,MADECADRIEN,OUIZILLEALEXANDREMADECADRIEN
+Alexandra,MAILLY,Jean-Pierre,CORBISEZ,CRCE-K,DEV/DUR,Pas-de-Calais,Hauts-de-France,série 1,CORBISEZJEANPIERRE,MAILLYALEXANDRA,CORBISEZJEANPIERREMAILLYALEXANDRA
+Jean-Baptiste,MARCHIONI,Rémi,FÉRAUD,SER,FIN,Paris,Ile-de-France,série 1,FERAUDREMI,MARCHIONIJEANBAPTISTE,FERAUDREMIMARCHIONIJEANBAPTISTE
+Daïana,MARY MONTOUT,Victorin,LUREL,SER,FIN,Guadeloupe,Guadeloupe,série 1,LURELVICTORIN,MARYMONTOUTDAIANA,LURELVICTORINMARYMONTOUTDAIANA
+Loick,MBOUNGOU NIANGUI,Dominique,THÉOPHILE,RDPI,AF/SOC,Guadeloupe,Guadeloupe,série 1,THEOPHILEDOMINIQUE,MBOUNGOUNIANGUILOICK,THEOPHILEDOMINIQUEMBOUNGOUNIANGUILOICK
+Jean-Michel,MICHALAK,Guislain,CAMBIER,UC,AF/ECO,Nord,Hauts-de-France,série 1,CAMBIERGUISLAIN,MICHALAKJEANMICHEL,CAMBIERGUISLAINMICHALAKJEANMICHEL
+Lucas,MINHAVA,Damien,MICHALLET,Les Républicains,AF/ECO,Isère,Auvergne-Rhône-Alpes,série 1,MICHALLETDAMIEN,MINHAVALUCAS,MICHALLETDAMIENMINHAVALUCAS
+Théo,MONTAL,Jean-Marc,VAYSSOUZE-FAURE,SER,AF/ETR/DEF,Lot,Occitanie,série 1,VAYSSOUZEFAUREJEANMARC,MONTALTHEO,VAYSSOUZEFAUREJEANMARCMONTALTHEO
+Valentin,NEE,Olivier,BITZ,UC,LOIS,Orne,Normandie,série 1,BITZOLIVIER,NEEVALENTIN,BITZOLIVIERNEEVALENTIN
+Sophie,NORMAND COUDER,Philippe,GROSVALET,RDSE,AF/ECO,Loire-Atlantique,Pays de la Loire,série 1,GROSVALETPHILIPPE,NORMANDCOUDERSOPHIE,GROSVALETPHILIPPENORMANDCOUDERSOPHIE
+Fabienne,PAGES,Anne,CHAIN-LARCHÉ,Les Républicains,AF/ECO,Seine-et-Marne,Ile-de-France,série 1,CHAINLARCHEANNE,PAGESFABIENNE,CHAINLARCHEANNEPAGESFABIENNE
+Fabienne,PAGES,Pierre,CUYPERS,Les Républicains,AF/ECO,Seine-et-Marne,Ile-de-France,série 1,CUYPERSPIERRE,PAGESFABIENNE,CUYPERSPIERREPAGESFABIENNE
+Marie-Françoise,PELLISSIER DE FELIGONDE,Dominique,THÉOPHILE,RDPI,AF/SOC,Guadeloupe,Guadeloupe,série 1,THEOPHILEDOMINIQUE,PELLISSIERDEFELIGONDEMARIEFRANCOISE,THEOPHILEDOMINIQUEPELLISSIERDEFELIGONDEMARIEFRANCOISE
+Florent,PEREZ,Louis,VOGEL,Les Indépendants,AF/SOC,Seine-et-Marne,Ile-de-France,série 1,VOGELLOUIS,PEREZFLORENT,VOGELLOUISPEREZFLORENT
+Ornella,PETRIDES,Sébastien,FAGNEN,SER,DEV/DUR,Manche,Normandie,série 1,FAGNENSEBASTIEN,PETRIDESORNELLA,FAGNENSEBASTIENPETRIDESORNELLA
+Patricia,PUGET,Patrice,JOLY,SER,AF/ETR/DEF,Nièvre,Bourgogne-Franche-Comté,série 1,JOLYPATRICE,PUGETPATRICIA,JOLYPATRICEPUGETPATRICIA
+Caroline,RACINE,Michaël,WEBER,SER,DEV/DUR,Moselle,Grand Est,série 1,WEBERMICHAEL,RACINECAROLINE,WEBERMICHAELRACINECAROLINE
+Esther,REINETTE,Stéphane,FOUASSIN,RDPI,FIN,La Réunion,La Réunion,série 1,FOUASSINSTEPHANE,REINETTEESTHER,FOUASSINSTEPHANEREINETTEESTHER
+Jonathan,RODRIGUES,Anne-Sophie,ROMAGNY,UC,AF/SOC,Marne,Grand Est,série 1,ROMAGNYANNESOPHIE,RODRIGUESJONATHAN,ROMAGNYANNESOPHIERODRIGUESJONATHAN
+Noé,ROYER,Anne,SOUYRIS,GEST,AF/SOC,Paris,Ile-de-France,série 1,SOUYRISANNE,ROYERNOE,SOUYRISANNEROYERNOE
+Nadir,SAIFI,Isabelle,FLORENNES,UC,LOIS,Hauts-de-Seine,Ile-de-France,série 1,FLORENNESISABELLE,SAIFINADIR,FLORENNESISABELLESAIFINADIR
+Safaa,SARI,Rachid,TEMAL,SER,AF/ETR/DEF,Val-d'Oise,Ile-de-France,série 1,TEMALRACHID,SARISAFAA,TEMALRACHIDSARISAFAA
+Sandy,TALARICO,Ian,BROSSAT,CRCE-K,LOIS,Paris,Ile-de-France,série 1,BROSSATIAN,TALARICOSANDY,BROSSATIANTALARICOSANDY
+Hadrien,THERASSE,Simon,UZENAT,SER,DEV/DUR,Morbihan,Bretagne,série 1,UZENATSIMON,THERASSEHADRIEN,UZENATSIMONTHERASSEHADRIEN
+Maxime,THURIOT,Bernard,BUIS,RDPI,AF/ECO,Drôme,Auvergne-Rhône-Alpes,série 2,BUISBERNARD,THURIOTMAXIME,BUISBERNARDTHURIOTMAXIME
+Maxime,THURIOT,Didier,RAMBAUD,RDPI,FIN,Isère,Auvergne-Rhône-Alpes,série 1,RAMBAUDDIDIER,THURIOTMAXIME,RAMBAUDDIDIERTHURIOTMAXIME
+Marie-Alix,TOURNADE,Laurence,GARNIER,Les Républicains,FIN,Loire-Atlantique,Pays de la Loire,série 1,GARNIERLAURENCE,TOURNADEMARIEALIX,GARNIERLAURENCETOURNADEMARIEALIX
+Stéphane,TRINCHERO,Didier,RAMBAUD,RDPI,FIN,Isère,Auvergne-Rhône-Alpes,série 1,RAMBAUDDIDIER,TRINCHEROSTEPHANE,RAMBAUDDIDIERTRINCHEROSTEPHANE
+Gilles,VERRON,Bernard,JOMIER,SER,AF/SOC,Paris,Ile-de-France,série 1,JOMIERBERNARD,VERRONGILLES,JOMIERBERNARDVERRONGILLES
+Louis,VITAL DURAND,Denise,SAINT-PÉ,UC,DEV/DUR,Pyrénées-Atlantiques,Nouvelle Aquitaine,série 1,SAINTPEDENISE,VITALDURANDLOUIS,SAINTPEDENISEVITALDURANDLOUIS
+Alan,VOLANT,Colombe,BROSSEL,SER,CULT,Paris,Ile-de-France,série 1,BROSSELCOLOMBE,VOLANTALAN,BROSSELCOLOMBEVOLANTALAN
+Rayane,ZRIBI,Éric,DUMOULIN,Les Républicains,CULT,Yvelines,Ile-de-France,série 1,DUMOULINERIC,ZRIBIRAYANE,DUMOULINERICZRIBIRAYANE
+Yassin,AIT KASSI,Sébastien,FAGNEN,SER,DEV/DUR,Manche,Normandie,série 1,FAGNENSEBASTIEN,AITKASSIYASSIN,FAGNENSEBASTIENAITKASSIYASSIN
+Virginie,ALLAROUSSE,Damien,MICHALLET,Les Républicains,DEV/DUR,Isère,Auvergne-Rhône-Alpes,série 1,MICHALLETDAMIEN,ALLAROUSSEVIRGINIE,MICHALLETDAMIENALLAROUSSEVIRGINIE
+Sarah,ASTIER,Éric,GOLD,RDSE,DEV/DUR,Puy-de-Dôme,Auvergne-Rhône-Alpes,série 1,GOLDERIC,ASTIERSARAH,GOLDERICASTIERSARAH
+Anne-Sophie,BACH-TOUSSAINT,Christian,BRUYEN,Les Républicains,DEV/DUR,Marne,Grand Est,série 1,BRUYENCHRISTIAN,BACHTOUSSAINTANNESOPHIE,BRUYENCHRISTIANBACHTOUSSAINTANNESOPHIE
+Marie-Claude,BARLET,Olivier,CIGOLOTTI,UC,AF/ETR/DEF,Haute-Loire,Auvergne-Rhône-Alpes,série 1,CIGOLOTTIOLIVIER,BARLETMARIECLAUDE,CIGOLOTTIOLIVIERBARLETMARIECLAUDE
+Mathieu,BEAUFRERE,Laurent,LAFON,UC,CULT,Val-de-Marne,Ile-de-France,série 1,LAFONLAURENT,BEAUFREREMATHIEU,LAFONLAURENTBEAUFREREMATHIEU
+Titouan,BEL ANGE,Laure,DARCOS,Les Indépendants,CULT,Essonne,Ile-de-France,série 1,DARCOSLAURE,BELANGETITOUAN,DARCOSLAUREBELANGETITOUAN
+Catherine,BENOIT,Jean-Claude,TISSOT,SER,AF/ECO,Loire,Auvergne-Rhône-Alpes,série 1,TISSOTJEANCLAUDE,BENOITCATHERINE,TISSOTJEANCLAUDEBENOITCATHERINE
+Samuel,BESNARD,Grégory,BLANC,GEST,FIN,Maine-et-Loire,Pays de la Loire,série 1,BLANCGREGORY,BESNARDSAMUEL,BLANCGREGORYBESNARDSAMUEL
+Christine,BLIN,Emmanuel,CAPUS,Les Indépendants,FIN,Maine-et-Loire,Pays de la Loire,série 1,CAPUSEMMANUEL,BLINCHRISTINE,CAPUSEMMANUELBLINCHRISTINE
+Eric,BOUCHER,Michelle,GRÉAUME,CRCE-K,AF/ETR/DEF,Nord,Hauts-de-France,série 1,GREAUMEMICHELLE,BOUCHERERIC,GREAUMEMICHELLEBOUCHERERIC
+Astrid,BRIANT,Martin,LÉVRIER,RDPI,CULT,Yvelines,Ile-de-France,série 1,LEVRIERMARTIN,BRIANTASTRID,LEVRIERMARTINBRIANTASTRID
+Grégory,CARUANA,Jean-Gérard,PAUMIER,Les Républicains,CULT,Indre-et-Loire,Centre-Val de Loire,série 1,PAUMIERJEANGERARD,CARUANAGREGORY,PAUMIERJEANGERARDCARUANAGREGORY
+Inès,CHARLES-LAVAUZELLE,Christine,LAVARDE,Les Républicains,CULT,Hauts-de-Seine,Ile-de-France,série 1,LAVARDECHRISTINE,CHARLESLAVAUZELLEINES,LAVARDECHRISTINECHARLESLAVAUZELLEINES
+Inès,CHARLES-LAVAUZELLE,Jean-François,RAPIN,Les Républicains,CULT,Pas-de-Calais,Hauts-de-France,série 1,RAPINJEANFRANCOIS,CHARLESLAVAUZELLEINES,RAPINJEANFRANCOISCHARLESLAVAUZELLEINES
+Claude-Léa,COHEN,Hélène,CONWAY-MOURET,SER,AF/ETR/DEF,Français établis hors de France (Série 1),Sénateurs représentant les Français établis hors de France,série 1,CONWAYMOURETHELENE,COHENCLAUDELEA,CONWAYMOURETHELENECOHENCLAUDELEA
+Paul,COUTARD,Michaël,WEBER,SER,DEV/DUR,Moselle,Grand Est,série 1,WEBERMICHAEL,COUTARDPAUL,WEBERMICHAELCOUTARDPAUL
+Nicolas,D'ASTA,Xavier,IACOVELLI,RDPI,AF/SOC,Hauts-de-Seine,Ile-de-France,série 1,IACOVELLIXAVIER,DASTANICOLAS,IACOVELLIXAVIERDASTANICOLAS
+Marie-Noëlle,DEBAINS,Muriel,JOURDA,Les Républicains,AF/SOC,Morbihan,Bretagne,série 1,JOURDAMURIEL,DEBAINSMARIENOELLE,JOURDAMURIELDEBAINSMARIENOELLE
+Pierre,DELZENNE,Olivier,HENNO,UC,AF/SOC,Nord,Hauts-de-France,série 1,HENNOOLIVIER,DELZENNEPIERRE,HENNOOLIVIERDELZENNEPIERRE
+Marie,D'HEROUVILLE-LE TANNEUR,Guislain,CAMBIER,UC,AF/ECO,Nord,Hauts-de-France,série 1,CAMBIERGUISLAIN,DHEROUVILLELETANNEURMARIE,CAMBIERGUISLAINDHEROUVILLELETANNEURMARIE
+Charles-Edouard,DOUBLET,Catherine,DUMAS,Les Républicains,AF/ECO,Paris,Ile-de-France,série 1,DUMASCATHERINE,DOUBLETCHARLESEDOUARD,DUMASCATHERINEDOUBLETCHARLESEDOUARD
+Isabelle,DUMESTRE,Jean-Claude,TISSOT,SER,AF/ECO,Loire,Auvergne-Rhône-Alpes,série 1,TISSOTJEANCLAUDE,DUMESTREISABELLE,TISSOTJEANCLAUDEDUMESTREISABELLE
+Bénédicte,DUPONT,Alexandre,BASQUIN,CRCE-K,DEV/DUR,Nord,Hauts-de-France,série 1,BASQUINALEXANDRE,DUPONTBENEDICTE,BASQUINALEXANDREDUPONTBENEDICTE
+Bénédicte,DUPONT,Michelle,GRÉAUME,CRCE-K,AF/ETR/DEF,Nord,Hauts-de-France,série 1,GREAUMEMICHELLE,DUPONTBENEDICTE,GREAUMEMICHELLEDUPONTBENEDICTE
+Yohan,EL MANOGUY,Patrick,KANNER,SER,CULT,Nord,Hauts-de-France,série 1,KANNERPATRICK,ELMANOGUYYOHAN,KANNERPATRICKELMANOGUYYOHAN
+Esteban,EVRARD,Cathy,APOURCEAU-POLY,CRCE-K,AF/SOC,Pas-de-Calais,Hauts-de-France,série 1,APOURCEAUPOLYCATHY,EVRARDESTEBAN,APOURCEAUPOLYCATHYEVRARDESTEBAN
+Sophie,FILIPPI-PAOLI,Alexandre,BASQUIN,CRCE-K,DEV/DUR,Nord,Hauts-de-France,série 1,BASQUINALEXANDRE,FILIPPIPAOLISOPHIE,BASQUINALEXANDREFILIPPIPAOLISOPHIE
+Louis,FOND,Jean-Claude,TISSOT,SER,AF/ECO,Loire,Auvergne-Rhône-Alpes,série 1,TISSOTJEANCLAUDE,FONDLOUIS,TISSOTJEANCLAUDEFONDLOUIS
+Frédéric,FROMENT,Frédérique,PUISSAT,Les Républicains,AF/ECO,Isère,Auvergne-Rhône-Alpes,série 1,PUISSATFREDERIQUE,FROMENTFREDERIC,PUISSATFREDERIQUEFROMENTFREDERIC
+Hubert,GAGE,Sylvie,VALENTE LE HIR,Les Républicains,AF/ECO,Oise,Hauts-de-France,série 1,VALENTELEHIRSYLVIE,GAGEHUBERT,VALENTELEHIRSYLVIEGAGEHUBERT
+Tugdual,GAUTER,Simon,UZENAT,SER,DEV/DUR,Morbihan,Bretagne,série 1,UZENATSIMON,GAUTERTUGDUAL,UZENATSIMONGAUTERTUGDUAL
+Jean-Jacques,GIANNESINI,Marie-Claire,CARRÈRE-GÉE,Les Républicains,DEV/DUR,Paris,Ile-de-France,série 1,CARREREGEEMARIECLAIRE,GIANNESINIJEANJACQUES,CARREREGEEMARIECLAIREGIANNESINIJEANJACQUES
+Hélène,GOSSELIN,Jean-François,RAPIN,Les Républicains,DEV/DUR,Pas-de-Calais,Hauts-de-France,série 1,RAPINJEANFRANCOIS,GOSSELINHELENE,RAPINJEANFRANCOISGOSSELINHELENE
+Tania,HAMMOUCHE,Vincent,DELAHAYE,UC,FIN,Essonne,Ile-de-France,série 1,DELAHAYEVINCENT,HAMMOUCHETANIA,DELAHAYEVINCENTHAMMOUCHETANIA
+Charlotte,HEMERY,Olivia,RICHARD,UC,LOIS,Français établis hors de France (Série 1),Sénateurs représentant les Français établis hors de France,série 1,RICHARDOLIVIA,HEMERYCHARLOTTE,RICHARDOLIVIAHEMERYCHARLOTTE
+Martine,HUBERTY,Édouard,COURTIAL,UC,AF/ETR/DEF,Oise,Hauts-de-France,série 1,COURTIALEDOUARD,HUBERTYMARTINE,COURTIALEDOUARDHUBERTYMARTINE
+Julia,JAKUBOWICZ,Évelyne,RENAUD-GARABEDIAN,Les Républicains,AF/ETR/DEF,Français établis hors de France (Série 1),Sénateurs représentant les Français établis hors de France,série 1,RENAUDGARABEDIANEVELYNE,JAKUBOWICZJULIA,RENAUDGARABEDIANEVELYNEJAKUBOWICZJULIA
+Valérie,JOURNET,Alexandre,BASQUIN,CRCE-K,DEV/DUR,Nord,Hauts-de-France,série 1,BASQUINALEXANDRE,JOURNETVALERIE,BASQUINALEXANDREJOURNETVALERIE
+Fayçal,KADDOUR,Akli,MELLOULI,GEST,AF/ETR/DEF,Val-de-Marne,Ile-de-France,série 1,MELLOULIAKLI,KADDOURFAYCAL,MELLOULIAKLIKADDOURFAYCAL
+Sandra,KWIATKOWSKI,Raphaël,DAUBET,RDSE,FIN,Lot,Occitanie,série 1,DAUBETRAPHAEL,KWIATKOWSKISANDRA,DAUBETRAPHAELKWIATKOWSKISANDRA
+Hélèna,LAOUISSET ROYER,Pascal,SAVOLDELLI,CRCE-K,FIN,Val-de-Marne,Ile-de-France,série 1,SAVOLDELLIPASCAL,LAOUISSETROYERHELENA,SAVOLDELLIPASCALLAOUISSETROYERHELENA
+Gaston,LAVAL,Olivier,JACQUIN,SER,DEV/DUR,Meurthe-et-Moselle,Grand Est,série 1,JACQUINOLIVIER,LAVALGASTON,JACQUINOLIVIERLAVALGASTON
+Yannick,LE DORZE,Michel,LAUGIER,UC,CULT,Yvelines,Ile-de-France,série 1,LAUGIERMICHEL,LEDORZEYANNICK,LAUGIERMICHELLEDORZEYANNICK
+Antonin,LESIEUR,Patrick,KANNER,SER,CULT,Nord,Hauts-de-France,série 1,KANNERPATRICK,LESIEURANTONIN,KANNERPATRICKLESIEURANTONIN
+Pierre-Yves,LOISEAU,Michel,SAVIN,Les Républicains,CULT,Isère,Auvergne-Rhône-Alpes,série 1,SAVINMICHEL,LOISEAUPIERREYVES,SAVINMICHELLOISEAUPIERREYVES
+Aodren,MAGNARD,Patrice,JOLY,SER,AF/ETR/DEF,Nièvre,Bourgogne-Franche-Comté,série 1,JOLYPATRICE,MAGNARDAODREN,JOLYPATRICEMAGNARDAODREN
+Sonia,MAINGAULT,Jean-Gérard,PAUMIER,Les Républicains,AF/ETR/DEF,Indre-et-Loire,Centre-Val de Loire,série 1,PAUMIERJEANGERARD,MAINGAULTSONIA,PAUMIERJEANGERARDMAINGAULTSONIA
+Catherine,MARTIN,Olivier,PACCAUD,Les Républicains,AF/ETR/DEF,Oise,Hauts-de-France,série 1,PACCAUDOLIVIER,MARTINCATHERINE,PACCAUDOLIVIERMARTINCATHERINE
+Alain,MATHIOUDAKIS,Isabelle,FLORENNES,UC,LOIS,Hauts-de-Seine,Ile-de-France,série 1,FLORENNESISABELLE,MATHIOUDAKISALAIN,FLORENNESISABELLEMATHIOUDAKISALAIN
+Baptiste,MENARD,Rachid,TEMAL,SER,AF/ETR/DEF,Val-d'Oise,Ile-de-France,série 1,TEMALRACHID,MENARDBAPTISTE,TEMALRACHIDMENARDBAPTISTE
+Christelle,MICHEL,Laurent,DUPLOMB,Les Républicains,AF/ETR/DEF,Haute-Loire,Auvergne-Rhône-Alpes,série 1,DUPLOMBLAURENT,MICHELCHRISTELLE,DUPLOMBLAURENTMICHELCHRISTELLE
+Clément,MOISON,Vincent,DELAHAYE,UC,FIN,Essonne,Ile-de-France,série 1,DELAHAYEVINCENT,MOISONCLEMENT,DELAHAYEVINCENTMOISONCLEMENT
+Clément,MOISON,Jocelyne,GUIDEZ,UC,AF/SOC,Essonne,Ile-de-France,série 1,GUIDEZJOCELYNE,MOISONCLEMENT,GUIDEZJOCELYNEMOISONCLEMENT
+Fabien,MONTRICHARD,Jocelyne,GUIDEZ,UC,AF/SOC,Essonne,Ile-de-France,série 1,GUIDEZJOCELYNE,MONTRICHARDFABIEN,GUIDEZJOCELYNEMONTRICHARDFABIEN
+Anthony,NICOUD,Cécile,CUKIERMAN,CRCE-K,LOIS,Loire,Auvergne-Rhône-Alpes,série 1,CUKIERMANCECILE,NICOUDANTHONY,CUKIERMANCECILENICOUDANTHONY
+Corinne,NUQUES,Denise,SAINT-PÉ,UC,DEV/DUR,Pyrénées-Atlantiques,Nouvelle Aquitaine,série 1,SAINTPEDENISE,NUQUESCORINNE,SAINTPEDENISENUQUESCORINNE
+Laurent,PAYET,Viviane,MALET,Les Républicains,DEV/DUR,La Réunion,La Réunion,série 1,MALETVIVIANE,PAYETLAURENT,MALETVIVIANEPAYETLAURENT
+Florine,PENOT,Michel,SAVIN,Les Républicains,DEV/DUR,Isère,Auvergne-Rhône-Alpes,série 1,SAVINMICHEL,PENOTFLORINE,SAVINMICHELPENOTFLORINE
+Marie,PERRIN,Damien,MICHALLET,Les Républicains,DEV/DUR,Isère,Auvergne-Rhône-Alpes,série 1,MICHALLETDAMIEN,PERRINMARIE,MICHALLETDAMIENPERRINMARIE
+Agathe,PICHOL,Bernard,PILLEFER,UC,DEV/DUR,Loir-et-Cher,Centre-Val de Loire,série 1,PILLEFERBERNARD,PICHOLAGATHE,PILLEFERBERNARDPICHOLAGATHE
+Théo,QUIERS,Hélène,CONWAY-MOURET,SER,AF/ETR/DEF,Français établis hors de France (Série 1),Sénateurs représentant les Français établis hors de France,série 1,CONWAYMOURETHELENE,QUIERSTHEO,CONWAYMOURETHELENEQUIERSTHEO
+Tiana,RAMES,Georges,NATUREL,Les Républicains,AF/ETR/DEF,Nouvelle-Calédonie,Nouvelle-Calédonie,série 1,NATURELGEORGES,RAMESTIANA,NATURELGEORGESRAMESTIANA
+Christiane,ROBART,Jérôme,DARRAS,SER,AF/ETR/DEF,Pas-de-Calais,Hauts-de-France,série 1,DARRASJEROME,ROBARTCHRISTIANE,DARRASJEROMEROBARTCHRISTIANE
+Adeline,ROLDAO-MARTINS,Daniel,FARGEOT,UC,AF/ECO,Val-d'Oise,Ile-de-France,série 1,FARGEOTDANIEL,ROLDAOMARTINSADELINE,FARGEOTDANIELROLDAOMARTINSADELINE
+Paul,RUER,Sylvie,VERMEILLET,UC,FIN,Jura,Bourgogne-Franche-Comté,série 1,VERMEILLETSYLVIE,RUERPAUL,VERMEILLETSYLVIERUERPAUL
+Arthur,SAILLOUR,Louis,VOGEL,Les Indépendants,FIN,Seine-et-Marne,Ile-de-France,série 1,VOGELLOUIS,SAILLOURARTHUR,VOGELLOUISSAILLOURARTHUR
+Bénédicte,SESMAT,Hervé,REYNAUD,Les Républicains,FIN,Loire,Auvergne-Rhône-Alpes,série 1,REYNAUDHERVE,SESMATBENEDICTE,REYNAUDHERVESESMATBENEDICTE
+Emmeline,TANGUY,Éric,GOLD,RDSE,DEV/DUR,Puy-de-Dôme,Auvergne-Rhône-Alpes,série 1,GOLDERIC,TANGUYEMMELINE,GOLDERICTANGUYEMMELINE
+Mathias,THIBAUDAT,Pierre-Alain,ROIRON,SER,LOIS,Indre-et-Loire,Centre-Val de Loire,série 1,ROIRONPIERREALAIN,THIBAUDATMATHIAS,ROIRONPIERREALAINTHIBAUDATMATHIAS
+Charlotte,TISSUT,Yves,BLEUNVEN,UC,AF/ECO,Morbihan,Bretagne,série 1,BLEUNVENYVES,TISSUTCHARLOTTE,BLEUNVENYVESTISSUTCHARLOTTE
+Stéphanie,TOUSSAINT,Evelyne,CORBIÈRE NAMINZO,CRCE-K,CULT,La Réunion,La Réunion,série 1,CORBIERENAMINZOEVELYNE,TOUSSAINTSTEPHANIE,CORBIERENAMINZOEVELYNETOUSSAINTSTEPHANIE
+Philippine,VAN DER MEULEN,Catherine,DI FOLCO,Les Républicains,CULT,Rhône,Auvergne-Rhône-Alpes,série 2,DIFOLCOCATHERINE,VANDERMEULENPHILIPPINE,DIFOLCOCATHERINEVANDERMEULENPHILIPPINE
+Philippine,VAN DER MEULEN,Jean-François,RAPIN,Les Républicains,CULT,Pas-de-Calais,Hauts-de-France,série 1,RAPINJEANFRANCOIS,VANDERMEULENPHILIPPINE,RAPINJEANFRANCOISVANDERMEULENPHILIPPINE
+Cyrille,VIGORIE,Jean,SOL,Les Républicains,CULT,Pyrénées-Orientales,Occitanie,série 1,SOLJEAN,VIGORIECYRILLE,SOLJEANVIGORIECYRILLE
+Sophie-Charlotte,VITO,Christine,HERZOG,UC,DEV/DUR,Moselle,Grand Est,série 1,HERZOGCHRISTINE,VITOSOPHIECHARLOTTE,HERZOGCHRISTINEVITOSOPHIECHARLOTTE
+Clément,VUILLEMENOT,Catherine,CONCONNE,SER,AF/SOC,Martinique,Martinique,série 1,CONCONNECATHERINE,VUILLEMENOTCLEMENT,CONCONNECATHERINEVUILLEMENOTCLEMENT
+Stéphanie,ALCAIDE-ROEYGENS,Didier,RAMBAUD,RDPI,FIN,Isère,Auvergne-Rhône-Alpes,série 1,RAMBAUDDIDIER,ALCAIDEROEYGENSSTEPHANIE,RAMBAUDDIDIERALCAIDEROEYGENSSTEPHANIE
+Valentin,ARTAL,Guylène,PANTEL,RDSE,AF/SOC,Lozère,Occitanie,série 1,PANTELGUYLENE,ARTALVALENTIN,PANTELGUYLENEARTALVALENTIN
+Nicolas,AUBERT,Édouard,COURTIAL,UC,AF/ETR/DEF,Oise,Hauts-de-France,série 1,COURTIALEDOUARD,AUBERTNICOLAS,COURTIALEDOUARDAUBERTNICOLAS
+Thierry,BALLARIN,Maryse,CARRÈRE,RDSE,AF/SOC,Hautes-Pyrénées,Occitanie,série 1,CARREREMARYSE,BALLARINTHIERRY,CARREREMARYSEBALLARINTHIERRY
+Virginie,BASSAISTEGUY,Hugues,SAURY,Les Républicains,AF/SOC,Loiret,Centre-Val de Loire,série 1,SAURYHUGUES,BASSAISTEGUYVIRGINIE,SAURYHUGUESBASSAISTEGUYVIRGINIE
+Julien,BEGUE,Maryse,CARRÈRE,RDSE,AF/SOC,Hautes-Pyrénées,Occitanie,série 1,CARREREMARYSE,BEGUEJULIEN,CARREREMARYSEBEGUEJULIEN
+Marie,BELLAN,Bernard,PILLEFER,UC,DEV/DUR,Loir-et-Cher,Centre-Val de Loire,série 1,PILLEFERBERNARD,BELLANMARIE,PILLEFERBERNARDBELLANMARIE
+Maxance,BERNARD,Franck,MENONVILLE,UC,AF/ECO,Meuse,Grand Est,série 1,MENONVILLEFRANCK,BERNARDMAXANCE,MENONVILLEFRANCKBERNARDMAXANCE
+Frédéric,BESSET,Alexandre,OUIZILLE,SER,DEV/DUR,Oise,Hauts-de-France,série 1,OUIZILLEALEXANDRE,BESSETFREDERIC,OUIZILLEALEXANDREBESSETFREDERIC
+Coline,BLOUIN,Corinne,BOURCIER,Les Indépendants,DEV/DUR,Maine-et-Loire,Pays de la Loire,série 1,BOURCIERCORINNE,BLOUINCOLINE,BOURCIERCORINNEBLOUINCOLINE
+Coline,BLOUIN,Emmanuel,CAPUS,Les Indépendants,DEV/DUR,Maine-et-Loire,Pays de la Loire,série 1,CAPUSEMMANUEL,BLOUINCOLINE,CAPUSEMMANUELBLOUINCOLINE
+Marion,BOULAY,Corinne,NARASSIGUIN,SER,LOIS,Seine-Saint-Denis,Ile-de-France,série 1,NARASSIGUINCORINNE,BOULAYMARION,NARASSIGUINCORINNEBOULAYMARION
+Mariam,BUCH,Annick,BILLON,UC,CULT,Vendée,Pays de la Loire,série 2,BILLONANNICK,BUCHMARIAM,BILLONANNICKBUCHMARIAM
+Mariam,BUCH,Bernard,PILLEFER,UC,DEV/DUR,Loir-et-Cher,Centre-Val de Loire,série 1,PILLEFERBERNARD,BUCHMARIAM,PILLEFERBERNARDBUCHMARIAM
+Benjamin,CHANTECLERC,Jean-François,HUSSON,Les Républicains,DEV/DUR,Meurthe-et-Moselle,Grand Est,série 1,HUSSONJEANFRANCOIS,CHANTECLERCBENJAMIN,HUSSONJEANFRANCOISCHANTECLERCBENJAMIN
+Steve,CICCOTTI,Roger,KAROUTCHI,Les Républicains,DEV/DUR,Hauts-de-Seine,Ile-de-France,série 1,KAROUTCHIROGER,CICCOTTISTEVE,KAROUTCHIROGERCICCOTTISTEVE
+Laurence,COLISSON,Amel,GACQUERRE,UC,AF/ECO,Pas-de-Calais,Hauts-de-France,série 1,GACQUERREAMEL,COLISSONLAURENCE,GACQUERREAMELCOLISSONLAURENCE
+Karine,CRESPEAU,Corinne,BOURCIER,Les Indépendants,AF/ECO,Maine-et-Loire,Pays de la Loire,série 1,BOURCIERCORINNE,CRESPEAUKARINE,BOURCIERCORINNECRESPEAUKARINE
+Thierry,DAVID,Laure,DARCOS,Les Indépendants,AF/ECO,Essonne,Ile-de-France,série 1,DARCOSLAURE,DAVIDTHIERRY,DARCOSLAUREDAVIDTHIERRY
+Stéphanie,DEFAUX,Pierre,BARROS,CRCE-K,FIN,Val-d'Oise,Ile-de-France,série 1,BARROSPIERRE,DEFAUXSTEPHANIE,BARROSPIERREDEFAUXSTEPHANIE
+Luca,DEREEP,Ian,BROSSAT,CRCE-K,LOIS,Paris,Ile-de-France,série 1,BROSSATIAN,DEREEPLUCA,BROSSATIANDEREEPLUCA
+Gabriel,DIJOUX,Evelyne,CORBIÈRE NAMINZO,CRCE-K,CULT,La Réunion,La Réunion,série 1,CORBIERENAMINZOEVELYNE,DIJOUXGABRIEL,CORBIERENAMINZOEVELYNEDIJOUXGABRIEL
+Armand,DOUIN,Jean-Raymond,HUGONET,Les Républicains,CULT,Essonne,Ile-de-France,série 1,HUGONETJEANRAYMOND,DOUINARMAND,HUGONETJEANRAYMONDDOUINARMAND
+Axel,DUMONT,Yannick,JADOT,GEST,AF/ECO,Paris,Ile-de-France,série 1,JADOTYANNICK,DUMONTAXEL,JADOTYANNICKDUMONTAXEL
+Fabien,DUQUESNE,Guillaume,GONTARD,GEST,AF/ETR/DEF,Isère,Auvergne-Rhône-Alpes,série 1,GONTARDGUILLAUME,DUQUESNEFABIEN,GONTARDGUILLAUMEDUQUESNEFABIEN
+Audrey,ESSOLA,Simon,UZENAT,SER,DEV/DUR,Morbihan,Bretagne,série 1,UZENATSIMON,ESSOLAAUDREY,UZENATSIMONESSOLAAUDREY
+Céline,FARGUES,Jean-Marc,VAYSSOUZE-FAURE,SER,AF/ETR/DEF,Lot,Occitanie,série 1,VAYSSOUZEFAUREJEANMARC,FARGUESCELINE,VAYSSOUZEFAUREJEANMARCFARGUESCELINE
+Mael,FLECHER,Marie-Claire,CARRÈRE-GÉE,Les Républicains,AF/ETR/DEF,Paris,Ile-de-France,série 1,CARREREGEEMARIECLAIRE,FLECHERMAEL,CARREREGEEMARIECLAIREFLECHERMAEL
+Jérôme,FRIART,Laurence,GARNIER,Les Républicains,AF/ETR/DEF,Loire-Atlantique,Pays de la Loire,série 1,GARNIERLAURENCE,FRIARTJEROME,GARNIERLAURENCEFRIARTJEROME
+Arthur,GADENNE,Olivia,RICHARD,UC,LOIS,Français établis hors de France (Série 1),Sénateurs représentant les Français établis hors de France,série 1,RICHARDOLIVIA,GADENNEARTHUR,RICHARDOLIVIAGADENNEARTHUR
+Eva,GAILLAT,Éric,KERROUCHE,SER,LOIS,Landes,Nouvelle Aquitaine,série 1,KERROUCHEERIC,GAILLATEVA,KERROUCHEERICGAILLATEVA
+Anne-Laure,GAYAUD FRENOY,Philippe,GROSVALET,RDSE,AF/ECO,Loire-Atlantique,Pays de la Loire,série 1,GROSVALETPHILIPPE,GAYAUDFRENOYANNELAURE,GROSVALETPHILIPPEGAYAUDFRENOYANNELAURE
+Véronique,GLOVER,Laurent,LAFON,UC,CULT,Val-de-Marne,Ile-de-France,série 1,LAFONLAURENT,GLOVERVERONIQUE,LAFONLAURENTGLOVERVERONIQUE
+Laetitia,GUERIN,Christian,CAMBON,Les Républicains,CULT,Val-de-Marne,Ile-de-France,série 1,CAMBONCHRISTIAN,GUERINLAETITIA,CAMBONCHRISTIANGUERINLAETITIA
+Laetitia,GUERIN,Marie-Carole,CIUNTU,Les Républicains,CULT,Val-de-Marne,Ile-de-France,série 1,CIUNTUMARIECAROLE,GUERINLAETITIA,CIUNTUMARIECAROLEGUERINLAETITIA
+Amély,HEBEL,Patrick,KANNER,SER,CULT,Nord,Hauts-de-France,série 1,KANNERPATRICK,HEBELAMELY,KANNERPATRICKHEBELAMELY
+Pédro,HIPPON,Dominique,THÉOPHILE,RDPI,AF/SOC,Guadeloupe,Guadeloupe,série 1,THEOPHILEDOMINIQUE,HIPPONPEDRO,THEOPHILEDOMINIQUEHIPPONPEDRO
+Emma,HUGUES,Raphaël,DAUBET,RDSE,FIN,Lot,Occitanie,série 1,DAUBETRAPHAEL,HUGUESEMMA,DAUBETRAPHAELHUGUESEMMA
+Julie,JEROME,Élisabeth,DOINEAU,UC,AF/SOC,Mayenne,Pays de la Loire,série 1,DOINEAUELISABETH,JEROMEJULIE,DOINEAUELISABETHJEROMEJULIE
+Philomène,JUILLET,Rémi,FÉRAUD,SER,FIN,Paris,Ile-de-France,série 1,FERAUDREMI,JUILLETPHILOMENE,FERAUDREMIJUILLETPHILOMENE
+Mathieu,KERBOUCHE,Antoinette,GUHL,GEST,AF/ECO,Paris,Ile-de-France,série 1,GUHLANTOINETTE,KERBOUCHEMATHIEU,GUHLANTOINETTEKERBOUCHEMATHIEU
+Marie-Chantal,LAGLER,Anne-Marie,NÉDÉLEC,Les Républicains,AF/ECO,Haute-Marne,Grand Est,série 1,NEDELECANNEMARIE,LAGLERMARIECHANTAL,NEDELECANNEMARIELAGLERMARIECHANTAL
+Victor,LATRU,Adel,ZIANE,SER,CULT,Seine-Saint-Denis,Ile-de-France,série 1,ZIANEADEL,LATRUVICTOR,ZIANEADELLATRUVICTOR
+Sébastien,LEBLANC,Marc-Philippe,DAUBRESSE,Les Républicains,CULT,Nord,Hauts-de-France,série 1,DAUBRESSEMARCPHILIPPE,LEBLANCSEBASTIEN,DAUBRESSEMARCPHILIPPELEBLANCSEBASTIEN
+Nathalie,LEGRAND,Sylvie,VALENTE LE HIR,Les Républicains,CULT,Oise,Hauts-de-France,série 1,VALENTELEHIRSYLVIE,LEGRANDNATHALIE,VALENTELEHIRSYLVIELEGRANDNATHALIE
+Elodie,LEYGNAT-PAUTY,Franck,MENONVILLE,UC,AF/ECO,Meuse,Grand Est,série 1,MENONVILLEFRANCK,LEYGNATPAUTYELODIE,MENONVILLEFRANCKLEYGNATPAUTYELODIE
+Claire-Marie,LUCAS,Martin,LÉVRIER,RDPI,CULT,Yvelines,Ile-de-France,série 1,LEVRIERMARTIN,LUCASCLAIREMARIE,LEVRIERMARTINLUCASCLAIREMARIE
+Benjamin,MAILLARD,David,MARGUERITTE,Les Républicains,CULT,Manche,Normandie,série 1,MARGUERITTEDAVID,MAILLARDBENJAMIN,MARGUERITTEDAVIDMAILLARDBENJAMIN
+Fabien,MAITRE,Bruno,SIDO,Les Républicains,CULT,Haute-Marne,Grand Est,série 1,SIDOBRUNO,MAITREFABIEN,SIDOBRUNOMAITREFABIEN
+Christine,MARTINEZ,Jean-Marie,VANLERENBERGHE,UC,AF/SOC,Pas-de-Calais,Hauts-de-France,série 1,VANLERENBERGHEJEANMARIE,MARTINEZCHRISTINE,VANLERENBERGHEJEANMARIEMARTINEZCHRISTINE
+Ségolène de,MAUPEOU,Simon,UZENAT,SER,DEV/DUR,Morbihan,Bretagne,série 1,UZENATSIMON,MAUPEOUSEGOLENEDE,UZENATSIMONMAUPEOUSEGOLENEDE
+Soazic,METAYER,Yves,BLEUNVEN,UC,AF/ECO,Morbihan,Bretagne,série 1,BLEUNVENYVES,METAYERSOAZIC,BLEUNVENYVESMETAYERSOAZIC
+Romain,MIDA DELAYEN,Alexandre,OUIZILLE,SER,DEV/DUR,Oise,Hauts-de-France,série 1,OUIZILLEALEXANDRE,MIDADELAYENROMAIN,OUIZILLEALEXANDREMIDADELAYENROMAIN
+Ariane,MONNIER,Pierre,OUZOULIAS,CRCE-K,CULT,Hauts-de-Seine,Ile-de-France,série 1,OUZOULIASPIERRE,MONNIERARIANE,OUZOULIASPIERREMONNIERARIANE
+Virginie,MUNERET,Jacqueline,EUSTACHE-BRINIO,Les Républicains,CULT,Val-d'Oise,Ile-de-France,série 1,EUSTACHEBRINIOJACQUELINE,MUNERETVIRGINIE,EUSTACHEBRINIOJACQUELINEMUNERETVIRGINIE
+Flavie,NOEL,Sébastien,FAGNEN,SER,DEV/DUR,Manche,Normandie,série 1,FAGNENSEBASTIEN,NOELFLAVIE,FAGNENSEBASTIENNOELFLAVIE
+Alex,OLIVIER,Ian,BROSSAT,CRCE-K,LOIS,Paris,Ile-de-France,série 1,BROSSATIAN,OLIVIERALEX,BROSSATIANOLIVIERALEX
+Sandra,PEIFER,Michaël,WEBER,SER,DEV/DUR,Moselle,Grand Est,série 1,WEBERMICHAEL,PEIFERSANDRA,WEBERMICHAELPEIFERSANDRA
+Charles-Henri,PERDEREAU,Olivier,PACCAUD,Les Républicains,DEV/DUR,Oise,Hauts-de-France,série 1,PACCAUDOLIVIER,PERDEREAUCHARLESHENRI,PACCAUDOLIVIERPERDEREAUCHARLESHENRI
+Morand,PERRIN,Silvana,SILVANI,CRCE-K,AF/SOC,Meurthe-et-Moselle,Grand Est,série 1,SILVANISILVANA,PERRINMORAND,SILVANISILVANAPERRINMORAND
+Christophe,PITEUX,Jean-Pierre,CORBISEZ,CRCE-K,DEV/DUR,Pas-de-Calais,Hauts-de-France,série 1,CORBISEZJEANPIERRE,PITEUXCHRISTOPHE,CORBISEZJEANPIERREPITEUXCHRISTOPHE
+Jacques,RACHET,Anne-Marie,NÉDÉLEC,Les Républicains,DEV/DUR,Haute-Marne,Grand Est,série 1,NEDELECANNEMARIE,RACHETJACQUES,NEDELECANNEMARIERACHETJACQUES
+Emmanuelle,RAMOND,Karine,DANIEL,SER,CULT,Loire-Atlantique,Pays de la Loire,série 1,DANIELKARINE,RAMONDEMMANUELLE,DANIELKARINERAMONDEMMANUELLE
+Teddy,ROBIN,Aymeric,DUROX,NI,CULT,Seine-et-Marne,Ile-de-France,série 1,DUROXAYMERIC,ROBINTEDDY,DUROXAYMERICROBINTEDDY
+Lisa,ROY,Jocelyne,ANTOINE,UC,DEV/DUR,Meuse,Grand Est,série 1,ANTOINEJOCELYNE,ROYLISA,ANTOINEJOCELYNEROYLISA
+Saliha,SAHRAOUI,Silvana,SILVANI,CRCE-K,AF/SOC,Meurthe-et-Moselle,Grand Est,série 1,SILVANISILVANA,SAHRAOUISALIHA,SILVANISILVANASAHRAOUISALIHA
+Arthur,SALVIAC,Grégory,BLANC,GEST,FIN,Maine-et-Loire,Pays de la Loire,série 1,BLANCGREGORY,SALVIACARTHUR,BLANCGREGORYSALVIACARTHUR
+Alban,SMITH,Pauline,MARTIN,Les Républicains,FIN,Loiret,Centre-Val de Loire,série 1,MARTINPAULINE,SMITHALBAN,MARTINPAULINESMITHALBAN
+Gwendoline,TARQUIS,Georges,NATUREL,Les Républicains,FIN,Nouvelle-Calédonie,Nouvelle-Calédonie,série 1,NATURELGEORGES,TARQUISGWENDOLINE,NATURELGEORGESTARQUISGWENDOLINE
+Gwendoline,TARQUIS,Kristina,PLUCHET,Les Républicains,FIN,Eure,Normandie,série 2,PLUCHETKRISTINA,TARQUISGWENDOLINE,PLUCHETKRISTINATARQUISGWENDOLINE
+Nicolas,THIBAULT,Arnaud,BAZIN,Les Républicains,FIN,Val-d'Oise,Ile-de-France,série 1,BAZINARNAUD,THIBAULTNICOLAS,BAZINARNAUDTHIBAULTNICOLAS
+Emmanuelle,TOUCOURT,Pierre-Alain,ROIRON,SER,LOIS,Indre-et-Loire,Centre-Val de Loire,série 1,ROIRONPIERREALAIN,TOUCOURTEMMANUELLE,ROIRONPIERREALAINTOUCOURTEMMANUELLE
+Barbara,TREUTENAERE,Jean-Marc,BOYER,Les Républicains,LOIS,Puy-de-Dôme,Auvergne-Rhône-Alpes,série 1,BOYERJEANMARC,TREUTENAEREBARBARA,BOYERJEANMARCTREUTENAEREBARBARA
+Barbara,TREUTENAERE,Laurent,DUPLOMB,Les Républicains,LOIS,Haute-Loire,Auvergne-Rhône-Alpes,série 1,DUPLOMBLAURENT,TREUTENAEREBARBARA,DUPLOMBLAURENTTREUTENAEREBARBARA
+Kévin,VERONESE,Véronique,GUILLOTIN,RDSE,AF/SOC,Meurthe-et-Moselle,Grand Est,série 1,GUILLOTINVERONIQUE,VERONESEKEVIN,GUILLOTINVERONIQUEVERONESEKEVIN
+Patricia,VILIJN,Max,BRISSON,Les Républicains,AF/SOC,Pyrénées-Atlantiques,Nouvelle Aquitaine,série 1,BRISSONMAX,VILIJNPATRICIA,BRISSONMAXVILIJNPATRICIA
+Anaïs,VIVION,Karine,DANIEL,SER,CULT,Loire-Atlantique,Pays de la Loire,série 1,DANIELKARINE,VIVIONANAIS,DANIELKARINEVIVIONANAIS
+Juliette,WAQUET,Cathy,APOURCEAU-POLY,CRCE-K,AF/SOC,Pas-de-Calais,Hauts-de-France,série 1,APOURCEAUPOLYCATHY,WAQUETJULIETTE,APOURCEAUPOLYCATHYWAQUETJULIETTE
+Yasmine,ABDERRAHIM,Samantha,CAZEBONNE,RDPI,CULT,Français établis hors de France (Série 2),Sénateurs représentant les Français établis hors de France,série 2,CAZEBONNESAMANTHA,ABDERRAHIMYASMINE,CAZEBONNESAMANTHAABDERRAHIMYASMINE
+Thomas,ALARD,Florence,LASSARADE,Les Républicains,CULT,Gironde,Nouvelle Aquitaine,série 2,LASSARADEFLORENCE,ALARDTHOMAS,LASSARADEFLORENCEALARDTHOMAS
+Sylvie,ALLIEY,Jean-Jacques,MICHAU,SER,AF/ECO,Ariège,Occitanie,série 2,MICHAUJEANJACQUES,ALLIEYSYLVIE,MICHAUJEANJACQUESALLIEYSYLVIE
+Mathilde,ARCHAMBAULT,Samantha,CAZEBONNE,RDPI,CULT,Français établis hors de France (Série 2),Sénateurs représentant les Français établis hors de France,série 2,CAZEBONNESAMANTHA,ARCHAMBAULTMATHILDE,CAZEBONNESAMANTHAARCHAMBAULTMATHILDE
+Michaël,AURORA,Franck,MONTAUGÉ,SER,AF/ECO,Gers,Occitanie,série 2,MONTAUGEFRANCK,AURORAMICHAEL,MONTAUGEFRANCKAURORAMICHAEL
+Julien,BAYER,Fabien,GENET,Les Républicains,AF/ECO,Saône-et-Loire,Bourgogne-Franche-Comté,série 2,GENETFABIEN,BAYERJULIEN,GENETFABIENBAYERJULIEN
+Théophile,BEGIN,Jean-François,LONGEOT,UC,DEV/DUR,Doubs,Bourgogne-Franche-Comté,série 2,LONGEOTJEANFRANCOIS,BEGINTHEOPHILE,LONGEOTJEANFRANCOISBEGINTHEOPHILE
+Camille,BENOIT,Denis,BOUAD,SER,AF/ECO,Gard,Occitanie,série 2,BOUADDENIS,BENOITCAMILLE,BOUADDENISBENOITCAMILLE
+Rémy,BESNIER,Daniel,CHASSEING,Les Indépendants,AF/ECO,Corrèze,Nouvelle Aquitaine,série 2,CHASSEINGDANIEL,BESNIERREMY,CHASSEINGDANIELBESNIERREMY
+Claudie,BILLON,Nadège,HAVET,RDPI,DEV/DUR,Finistère,Bretagne,série 2,HAVETNADEGE,BILLONCLAUDIE,HAVETNADEGEBILLONCLAUDIE
+Hélène,BONZE,Stéphane,DEMILLY,UC,DEV/DUR,Somme,Hauts-de-France,série 2,DEMILLYSTEPHANE,BONZEHELENE,DEMILLYSTEPHANEBONZEHELENE
+Charlotte,BRAUD,Cédric,PERRIN,Les Républicains,DEV/DUR,Territoire de Belfort,Bourgogne-Franche-Comté,série 2,PERRINCEDRIC,BRAUDCHARLOTTE,PERRINCEDRICBRAUDCHARLOTTE
+Charlotte,BRAUD,Olivier,RIETMANN,Les Républicains,DEV/DUR,Haute-Saône,Bourgogne-Franche-Comté,série 2,RIETMANNOLIVIER,BRAUDCHARLOTTE,RIETMANNOLIVIERBRAUDCHARLOTTE
+Mariam,BUCH,Annick,BILLON,UC,CULT,Vendée,Pays de la Loire,série 2,BILLONANNICK,BUCHMARIAM,BILLONANNICKBUCHMARIAM
+Mariam,BUCH,Bernard,PILLEFER,UC,DEV/DUR,Loir-et-Cher,Centre-Val de Loire,série 1,PILLEFERBERNARD,BUCHMARIAM,PILLEFERBERNARDBUCHMARIAM
+Céline,CARCY-MATHIEU,Claude,RAYNAL,SER,FIN,Haute-Garonne,Occitanie,série 2,RAYNALCLAUDE,CARCYMATHIEUCELINE,RAYNALCLAUDECARCYMATHIEUCELINE
+Marie-Claire,CARLOTTI,Valérie,BOYER,Les Républicains,FIN,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,série 2,BOYERVALERIE,CARLOTTIMARIECLAIRE,BOYERVALERIECARLOTTIMARIECLAIRE
+Marlène,CEUGNIEZ,Alain,CHATILLON,Les Républicains,FIN,Haute-Garonne,Occitanie,série 2,CHATILLONALAIN,CEUGNIEZMARLENE,CHATILLONALAINCEUGNIEZMARLENE
+Aurélien,CHEVALLIER,Sebastien,PLA,SER,AF/ECO,Aude,Occitanie,série 2,PLASEBASTIEN,CHEVALLIERAURELIEN,PLASEBASTIENCHEVALLIERAURELIEN
+Annie,COUDERC MONERON,Christian,BILHAC,RDSE,FIN,Hérault,Occitanie,série 2,BILHACCHRISTIAN,COUDERCMONERONANNIE,BILHACCHRISTIANCOUDERCMONERONANNIE
+Michèle,CUBAYNES,François,BONHOMME,Les Républicains,FIN,Tarn-et-Garonne,Occitanie,série 2,BONHOMMEFRANCOIS,CUBAYNESMICHELE,BONHOMMEFRANCOISCUBAYNESMICHELE
+Aurore,DEFOIX,Pierre-Jean,VERZELEN,Les Indépendants,FIN,Aisne,Hauts-de-France,série 2,VERZELENPIERREJEAN,DEFOIXAURORE,VERZELENPIERREJEANDEFOIXAURORE
+Laurent,DESHAIES,Guy,BENARROCHE,GEST,LOIS,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,série 2,BENARROCHEGUY,DESHAIESLAURENT,BENARROCHEGUYDESHAIESLAURENT
+Anne-Camille,DIOT,Nadine,BELLUROT,Les Républicains,LOIS,Indre,Centre-Val de Loire,série 2,BELLUROTNADINE,DIOTANNECAMILLE,BELLUROTNADINEDIOTANNECAMILLE
+Romain,DOSTES,de Monique,MARCO,GEST,CULT,Gironde,Nouvelle Aquitaine,série 2,MARCODEMONIQUE,DOSTESROMAIN,MARCODEMONIQUEDOSTESROMAIN
+Yann,DUBREUIL,Franck,MONTAUGÉ,SER,AF/ECO,Gers,Occitanie,série 2,MONTAUGEFRANCK,DUBREUILYANN,MONTAUGEFRANCKDUBREUILYANN
+Nathalie,DUMAS,Étienne,BLANC,Les Républicains,AF/ECO,Rhône,Auvergne-Rhône-Alpes,série 2,BLANCETIENNE,DUMASNATHALIE,BLANCETIENNEDUMASNATHALIE
+Jules,DURIBREU,Dominique,VÉRIEN,UC,LOIS,Yonne,Bourgogne-Franche-Comté,série 2,VERIENDOMINIQUE,DURIBREUJULES,VERIENDOMINIQUEDURIBREUJULES
+Françoise,ESTABLIE,Brigitte,MICOULEAU,Les Républicains,LOIS,Haute-Garonne,Occitanie,série 2,MICOULEAUBRIGITTE,ESTABLIEFRANCOISE,MICOULEAUBRIGITTEESTABLIEFRANCOISE
+Maximilien,FAUGERAS,Bruno,ROJOUAN,Les Républicains,LOIS,Allier,Auvergne-Rhône-Alpes,série 2,ROJOUANBRUNO,FAUGERASMAXIMILIEN,ROJOUANBRUNOFAUGERASMAXIMILIEN
+Alexandra,FISSEAU,de Louis-Jean,NICOLAY,Les Républicains,LOIS,Sarthe,Pays de la Loire,série 2,NICOLAYDELOUISJEAN,FISSEAUALEXANDRA,NICOLAYDELOUISJEANFISSEAUALEXANDRA
+Rémi,FORTANE,Thierry,COZIC,SER,FIN,Sarthe,Pays de la Loire,série 2,COZICTHIERRY,FORTANEREMI,COZICTHIERRYFORTANEREMI
+Claire,FRANCOIS,Catherine,MORIN-DESAILLY,UC,CULT,Seine-Maritime,Normandie,série 2,MORINDESAILLYCATHERINE,FRANCOISCLAIRE,MORINDESAILLYCATHERINEFRANCOISCLAIRE
+Isabelle,GARDIEN,Bruno,ROJOUAN,Les Républicains,CULT,Allier,Auvergne-Rhône-Alpes,série 2,ROJOUANBRUNO,GARDIENISABELLE,ROJOUANBRUNOGARDIENISABELLE
+François,GHEYSENS,Olivier,CADIC,UC,AF/ETR/DEF,Français établis hors de France (Série 2),Sénateurs représentant les Français établis hors de France,série 2,CADICOLIVIER,GHEYSENSFRANCOIS,CADICOLIVIERGHEYSENSFRANCOIS
+Emilie,GRAND,Denis,BOUAD,SER,AF/ECO,Gard,Occitanie,série 2,BOUADDENIS,GRANDEMILIE,BOUADDENISGRANDEMILIE
+Loïc,GRENARD,Alexandra,BORCHIO FONTIMP,Les Républicains,AF/ECO,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,série 2,BORCHIOFONTIMPALEXANDRA,GRENARDLOIC,BORCHIOFONTIMPALEXANDRAGRENARDLOIC
+Edwige,GUEGAN,Anne-Catherine,LOISIER,UC,AF/ECO,Côte-d'Or,Bourgogne-Franche-Comté,série 2,LOISIERANNECATHERINE,GUEGANEDWIGE,LOISIERANNECATHERINEGUEGANEDWIGE
+Clara,HASCOET,Alexandra,BORCHIO FONTIMP,Les Républicains,AF/ECO,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,série 2,BORCHIOFONTIMPALEXANDRA,HASCOETCLARA,BORCHIOFONTIMPALEXANDRAHASCOETCLARA
+Mathieu,HENRY,Alain,MARC,Les Indépendants,AF/ECO,Aveyron,Occitanie,série 2,MARCALAIN,HENRYMATHIEU,MARCALAINHENRYMATHIEU
+Philippe,HOUBRON,Christine,BONFANTI-DOSSAT,Les Républicains,AF/ECO,Lot-et-Garonne,Nouvelle Aquitaine,série 1,BONFANTIDOSSATCHRISTINE,HOUBRONPHILIPPE,BONFANTIDOSSATCHRISTINEHOUBRONPHILIPPE
+Philippe,HOUBRON,Daniel,GUERET,Les Républicains,AF/ECO,Eure-et-Loir,Centre-Val de Loire,série 2,GUERETDANIEL,HOUBRONPHILIPPE,GUERETDANIELHOUBRONPHILIPPE
+Marion,HUGUET,Corinne,FÉRET,SER,AF/SOC,Calvados,Normandie,série 2,FERETCORINNE,HUGUETMARION,FERETCORINNEHUGUETMARION
+Pauline,JACQUES,Gérard,LAHELLEC,CRCE-K,AF/ECO,Côtes-d'Armor,Bretagne,série 2,LAHELLECGERARD,JACQUESPAULINE,LAHELLECGERARDJACQUESPAULINE
+Nathalie,JOLIVET-MIELCZAREK,Christophe-André,FRASSA,Les Républicains,AF/ECO,Français établis hors de France (Série 2),Sénateurs représentant les Français établis hors de France,série 2,FRASSACHRISTOPHEANDRE,JOLIVETMIELCZAREKNATHALIE,FRASSACHRISTOPHEANDREJOLIVETMIELCZAREKNATHALIE
+Nathalie,JOLIVET-MIELCZAREK,Ronan,LE GLEUT,Les Républicains,AF/ECO,Français établis hors de France (Série 1),Sénateurs représentant les Français établis hors de France,série 1,LEGLEUTRONAN,JOLIVETMIELCZAREKNATHALIE,LEGLEUTRONANJOLIVETMIELCZAREKNATHALIE
+Anne-Gabrielle,JOUFFREY-MATHIEU,Sylviane,NOËL,Les Républicains,AF/ECO,Haute-Savoie,Auvergne-Rhône-Alpes,série 2,NOELSYLVIANE,JOUFFREYMATHIEUANNEGABRIELLE,NOELSYLVIANEJOUFFREYMATHIEUANNEGABRIELLE
+Grégoire,KINOSSIAN,Hervé,MAUREY,UC,FIN,Eure,Normandie,série 2,MAUREYHERVE,KINOSSIANGREGOIRE,MAUREYHERVEKINOSSIANGREGOIRE
+Rayan,LALLALI,Jean-Baptiste,LEMOYNE,RDPI,AF/ETR/DEF,Yonne,Bourgogne-Franche-Comté,série 2,LEMOYNEJEANBAPTISTE,LALLALIRAYAN,LEMOYNEJEANBAPTISTELALLALIRAYAN
+Erwan,LE BIHAN,Gisèle,JOURDA,SER,AF/ETR/DEF,Aude,Occitanie,série 2,JOURDAGISELE,LEBIHANERWAN,JOURDAGISELELEBIHANERWAN
+Franck,LECHIEN-GIROUARD,Daniel,GUERET,Les Républicains,AF/ETR/DEF,Eure-et-Loir,Centre-Val de Loire,série 2,GUERETDANIEL,LECHIENGIROUARDFRANCK,GUERETDANIELLECHIENGIROUARDFRANCK
+Ghislaine,LEFLAEC,Laurence,MULLER-BRONN,Les Républicains,AF/ETR/DEF,Bas-Rhin,Grand Est,série 2,MULLERBRONNLAURENCE,LEFLAECGHISLAINE,MULLERBRONNLAURENCELEFLAECGHISLAINE
+Jean-François,LE GOFF,Michel,CANÉVET,UC,FIN,Finistère,Bretagne,série 2,CANEVETMICHEL,LEGOFFJEANFRANCOIS,CANEVETMICHELLEGOFFJEANFRANCOIS
+Laddi,LENGUEMA,Bernard,FIALAIRE,RDSE,CULT,Rhône,Auvergne-Rhône-Alpes,série 2,FIALAIREBERNARD,LENGUEMALADDI,FIALAIREBERNARDLENGUEMALADDI
+Raphaël,LICHTEN,Sophie,BRIANTE GUILLEMONT,RDSE,LOIS,Français établis hors de France (Série 2),Sénateurs représentant les Français établis hors de France,série 2,BRIANTEGUILLEMONTSOPHIE,LICHTENRAPHAEL,BRIANTEGUILLEMONTSOPHIELICHTENRAPHAEL
+Eric,MADELON-MARIE,Dominique,VÉRIEN,UC,LOIS,Yonne,Bourgogne-Franche-Comté,série 2,VERIENDOMINIQUE,MADELONMARIEERIC,VERIENDOMINIQUEMADELONMARIEERIC
+Christine,MARCHAND,Jean Pierre,VOGEL,Les Républicains,LOIS,Sarthe,Pays de la Loire,série 2,VOGELJEANPIERRE,MARCHANDCHRISTINE,VOGELJEANPIERREMARCHANDCHRISTINE
+Daët,MARION,Bernard,BUIS,RDPI,AF/ECO,Drôme,Auvergne-Rhône-Alpes,série 2,BUISBERNARD,MARIONDAET,BUISBERNARDMARIONDAET
+Auberie,MARTIN,Céline,BRULIN,CRCE-K,AF/SOC,Seine-Maritime,Normandie,série 2,BRULINCELINE,MARTINAUBERIE,BRULINCELINEMARTINAUBERIE
+Irène,MARTIN-HOULGATTE,Laurent,BURGOA,Les Républicains,AF/SOC,Gard,Occitanie,série 2,BURGOALAURENT,MARTINHOULGATTEIRENE,BURGOALAURENTMARTINHOULGATTEIRENE
+Ismaël,M'BAYE,Georges,PATIENT,RDPI,FIN,Guyane,Guyane,série 2,PATIENTGEORGES,MBAYEISMAEL,PATIENTGEORGESMBAYEISMAEL
+Louise,MENTREL,Daniel,GREMILLET,Les Républicains,FIN,Vosges,Grand Est,série 2,GREMILLETDANIEL,MENTRELLOUISE,GREMILLETDANIELMENTRELLOUISE
+Anaïs,MONNIER,Cédric,PERRIN,Les Républicains,FIN,Territoire de Belfort,Bourgogne-Franche-Comté,série 2,PERRINCEDRIC,MONNIERANAIS,PERRINCEDRICMONNIERANAIS
+Yolande,MOTILVA,Brigitte,MICOULEAU,Les Républicains,FIN,Haute-Garonne,Occitanie,série 2,MICOULEAUBRIGITTE,MOTILVAYOLANDE,MICOULEAUBRIGITTEMOTILVAYOLANDE
+Paul-Bernard,MUNCH,Christian,KLINGER,Les Républicains,FIN,Haut-Rhin,Grand Est,série 2,KLINGERCHRISTIAN,MUNCHPAULBERNARD,KLINGERCHRISTIANMUNCHPAULBERNARD
+Peggy,NICOLAS,Sabine,DREXLER,Les Républicains,FIN,Haut-Rhin,Grand Est,série 2,DREXLERSABINE,NICOLASPEGGY,DREXLERSABINENICOLASPEGGY
+Edouard,PACK,Teva,ROHFRITSCH,RDPI,LOIS,Polynésie française,Polynésie française,série 2,ROHFRITSCHTEVA,PACKEDOUARD,ROHFRITSCHTEVAPACKEDOUARD
+Chryst,PASSARD,Marie-Laure,PHINERA-HORTH,RDPI,DEV/DUR,Guyane,Guyane,série 2,PHINERAHORTHMARIELAURE,PASSARDCHRYST,PHINERAHORTHMARIELAUREPASSARDCHRYST
+Pierre,PAVY,Marie-Lise,HOUSSEAU,UC,AF/ECO,Tarn,Occitanie,série 2,HOUSSEAUMARIELISE,PAVYPIERRE,HOUSSEAUMARIELISEPAVYPIERRE
+Tumata,PERRY,Lana,TETUANUI,UC,LOIS,Polynésie française,Polynésie française,série 2,TETUANUILANA,PERRYTUMATA,TETUANUILANAPERRYTUMATA
+Mireille,PIERRE-LOUIS,Georges,PATIENT,RDPI,FIN,Guyane,Guyane,série 2,PATIENTGEORGES,PIERRELOUISMIREILLE,PATIENTGEORGESPIERRELOUISMIREILLE
+Clémence,PRECETTI,Anne-Catherine,LOISIER,UC,AF/ECO,Côte-d'Or,Bourgogne-Franche-Comté,série 2,LOISIERANNECATHERINE,PRECETTICLEMENCE,LOISIERANNECATHERINEPRECETTICLEMENCE
+Samir,RHIMINI,Rémy,POINTEREAU,Les Républicains,AF/ECO,Cher,Centre-Val de Loire,série 2,POINTEREAUREMY,RHIMINISAMIR,POINTEREAUREMYRHIMINISAMIR
+Jules,ROBIN,Gilbert,FAVREAU,Les Républicains,AF/ECO,Deux-Sèvres,Nouvelle Aquitaine,série 2,FAVREAUGILBERT,ROBINJULES,FAVREAUGILBERTROBINJULES
+Théo,SAINT-JALM,Mélanie,VOGEL,GEST,LOIS,Français établis hors de France (Série 2),Sénateurs représentant les Français établis hors de France,série 2,VOGELMELANIE,SAINTJALMTHEO,VOGELMELANIESAINTJALMTHEO
+Mélissa,SAVALLI SARROLA,Paul Toussaint,PARIGI,UC,LOIS,Haute-Corse,Corse,série 2,PARIGIPAULTOUSSAINT,SAVALLISARROLAMELISSA,PARIGIPAULTOUSSAINTSAVALLISARROLAMELISSA
+Loïc,SCHUBNEL,Ludovic,HAYE,UC,AF/ETR/DEF,Haut-Rhin,Grand Est,série 2,HAYELUDOVIC,SCHUBNELLOIC,HAYELUDOVICSCHUBNELLOIC
+Simon,SIDOBRE,Isabelle,BRIQUET,SER,FIN,Haute-Vienne,Nouvelle Aquitaine,série 2,BRIQUETISABELLE,SIDOBRESIMON,BRIQUETISABELLESIDOBRESIMON
+Alexandra,SORE,Claude,KERN,UC,CULT,Bas-Rhin,Grand Est,série 2,KERNCLAUDE,SOREALEXANDRA,KERNCLAUDESOREALEXANDRA
+Alexandra,SORE,de Louis-Jean,NICOLAY,Les Républicains,CULT,Sarthe,Pays de la Loire,série 2,NICOLAYDELOUISJEAN,SOREALEXANDRA,NICOLAYDELOUISJEANSOREALEXANDRA
+Dylan,SUAUD,Marie-Jeanne,BELLAMY,Les Républicains,CULT,Vienne,Nouvelle Aquitaine,série 2,BELLAMYMARIEJEANNE,SUAUDDYLAN,BELLAMYMARIEJEANNESUAUDDYLAN
+Céline,TAURINES,Émilienne,POUMIROL,SER,AF/SOC,Haute-Garonne,Occitanie,série 2,POUMIROLEMILIENNE,TAURINESCELINE,POUMIROLEMILIENNETAURINESCELINE
+Maxime,THURIOT,Bernard,BUIS,RDPI,AF/ECO,Drôme,Auvergne-Rhône-Alpes,série 2,BUISBERNARD,THURIOTMAXIME,BUISBERNARDTHURIOTMAXIME
+Maxime,THURIOT,Didier,RAMBAUD,RDPI,FIN,Isère,Auvergne-Rhône-Alpes,série 1,RAMBAUDDIDIER,THURIOTMAXIME,RAMBAUDDIDIERTHURIOTMAXIME
+Anne-Sophie,VANCINA,Vivette,LOPEZ,Les Républicains,FIN,Gard,Occitanie,série 2,LOPEZVIVETTE,VANCINAANNESOPHIE,LOPEZVIVETTEVANCINAANNESOPHIE
+Chantal,VANNSON,Loïc,HERVÉ,UC,AF/ETR/DEF,Haute-Savoie,Auvergne-Rhône-Alpes,série 2,HERVELOIC,VANNSONCHANTAL,HERVELOICVANNSONCHANTAL
+Pierre,VATTARD,Sylviane,NOËL,Les Républicains,AF/ETR/DEF,Haute-Savoie,Auvergne-Rhône-Alpes,série 2,NOELSYLVIANE,VATTARDPIERRE,NOELSYLVIANEVATTARDPIERRE
+Emmanuelle,VIQUESNEL,Hervé,MAUREY,UC,FIN,Eure,Normandie,série 2,MAUREYHERVE,VIQUESNELEMMANUELLE,MAUREYHERVEVIQUESNELEMMANUELLE
+Ludine,WAGNER,Elsa,SCHALCK,Les Républicains,FIN,Bas-Rhin,Grand Est,série 2,SCHALCKELSA,WAGNERLUDINE,SCHALCKELSAWAGNERLUDINE
+Véronique,ZUNDEL,Sabine,DREXLER,Les Républicains,FIN,Haut-Rhin,Grand Est,série 2,DREXLERSABINE,ZUNDELVERONIQUE,DREXLERSABINEZUNDELVERONIQUE
+Laurence,ACHIN-CHARBONNEL,Gilbert,BOUCHET,Les Républicains,FIN,Drôme,Auvergne-Rhône-Alpes,série 2,BOUCHETGILBERT,ACHINCHARBONNELLAURENCE,BOUCHETGILBERTACHINCHARBONNELLAURENCE
+Kerwin,ALCIDE,Marie-Laure,PHINERA-HORTH,RDPI,DEV/DUR,Guyane,Guyane,série 2,PHINERAHORTHMARIELAURE,ALCIDEKERWIN,PHINERAHORTHMARIELAUREALCIDEKERWIN
+Valéry,ALPHONSE,Georges,PATIENT,RDPI,FIN,Guyane,Guyane,série 2,PATIENTGEORGES,ALPHONSEVALERY,PATIENTGEORGESALPHONSEVALERY
+Stéphanie,ARNOUX DAUMAS,Loïc,HERVÉ,UC,AF/ETR/DEF,Haute-Savoie,Auvergne-Rhône-Alpes,série 2,HERVELOIC,ARNOUXDAUMASSTEPHANIE,HERVELOICARNOUXDAUMASSTEPHANIE
+Marc-Antoine,AUTHIER,Vanina,PAOLI-GAGIN,Les Indépendants,AF/ETR/DEF,Aube,Grand Est,série 2,PAOLIGAGINVANINA,AUTHIERMARCANTOINE,PAOLIGAGINVANINAAUTHIERMARCANTOINE
+Philippe,BAYOL,Éric,JEANSANNETAS,SER,FIN,Creuse,Nouvelle Aquitaine,série 2,JEANSANNETASERIC,BAYOLPHILIPPE,JEANSANNETASERICBAYOLPHILIPPE
+Aurore,BELAIDI,Stéphane,SAUTAREL,Les Républicains,FIN,Cantal,Auvergne-Rhône-Alpes,série 2,SAUTARELSTEPHANE,BELAIDIAURORE,SAUTARELSTEPHANEBELAIDIAURORE
+Nina,BENZAKINE,Martine,BERTHET,Les Républicains,FIN,Savoie,Auvergne-Rhône-Alpes,série 2,BERTHETMARTINE,BENZAKINENINA,BERTHETMARTINEBENZAKINENINA
+Géraldine,BESSON,Cédric,VIAL,Les Républicains,FIN,Savoie,Auvergne-Rhône-Alpes,série 2,VIALCEDRIC,BESSONGERALDINE,VIALCEDRICBESSONGERALDINE
+Lucien,BILLY,Olivier,RIETMANN,Les Républicains,FIN,Haute-Saône,Bourgogne-Franche-Comté,série 2,RIETMANNOLIVIER,BILLYLUCIEN,RIETMANNOLIVIERBILLYLUCIEN
+Chloé,BOUSSER,de Sonia,LA PROVÔTÉ,UC,CULT,Calvados,Normandie,série 2,LAPROVOTEDESONIA,BOUSSERCHLOE,LAPROVOTEDESONIABOUSSERCHLOE
+Hélène,BRESSON,Loïc,HERVÉ,UC,AF/ETR/DEF,Haute-Savoie,Auvergne-Rhône-Alpes,série 2,HERVELOIC,BRESSONHELENE,HERVELOICBRESSONHELENE
+Fanny,CAILLE,Olivier,RIETMANN,Les Républicains,AF/ETR/DEF,Haute-Saône,Bourgogne-Franche-Comté,série 2,RIETMANNOLIVIER,CAILLEFANNY,RIETMANNOLIVIERCAILLEFANNY
+Emilie,CARDOT,Alain,JOYANDET,Les Républicains,AF/ETR/DEF,Haute-Saône,Bourgogne-Franche-Comté,série 2,JOYANDETALAIN,CARDOTEMILIE,JOYANDETALAINCARDOTEMILIE
+Gabriel,CAZAUBON,Jean-Jacques,LOZACH,SER,CULT,Creuse,Nouvelle Aquitaine,série 2,LOZACHJEANJACQUES,CAZAUBONGABRIEL,LOZACHJEANJACQUESCAZAUBONGABRIEL
+Sylvain,CHARBONNIER,Rémi,CARDON,SER,AF/ECO,Somme,Hauts-de-France,série 2,CARDONREMI,CHARBONNIERSYLVAIN,CARDONREMICHARBONNIERSYLVAIN
+Flavie,COMTET,Patrick,CHAIZE,Les Républicains,AF/ECO,Ain,Auvergne-Rhône-Alpes,série 2,CHAIZEPATRICK,COMTETFLAVIE,CHAIZEPATRICKCOMTETFLAVIE
+Léo,COURVASIER,Vanina,PAOLI-GAGIN,Les Indépendants,AF/ECO,Aube,Grand Est,série 2,PAOLIGAGINVANINA,COURVASIERLEO,PAOLIGAGINVANINACOURVASIERLEO
+Catherine,CUNY,Elsa,SCHALCK,Les Républicains,AF/ECO,Bas-Rhin,Grand Est,série 2,SCHALCKELSA,CUNYCATHERINE,SCHALCKELSACUNYCATHERINE
+Marion,DEJOUANNET,Christian,REDON-SARRAZY,SER,AF/ECO,Haute-Vienne,Nouvelle Aquitaine,série 2,REDONSARRAZYCHRISTIAN,DEJOUANNETMARION,REDONSARRAZYCHRISTIANDEJOUANNETMARION
+Beriwan,DIESSLER,Stéphane,SAUTAREL,Les Républicains,AF/ECO,Cantal,Auvergne-Rhône-Alpes,série 2,SAUTARELSTEPHANE,DIESSLERBERIWAN,SAUTARELSTEPHANEDIESSLERBERIWAN
+Beriwan,DIESSLER,Anne,VENTALON,Les Républicains,AF/ECO,Ardèche,Auvergne-Rhône-Alpes,série 2,VENTALONANNE,DIESSLERBERIWAN,VENTALONANNEDIESSLERBERIWAN
+Léa,DIVO,Catherine,MORIN-DESAILLY,UC,CULT,Seine-Maritime,Normandie,série 2,MORINDESAILLYCATHERINE,DIVOLEA,MORINDESAILLYCATHERINEDIVOLEA
+Alexandra,DOUSSAUD,Claude,NOUGEIN,Les Républicains,CULT,Corrèze,Nouvelle Aquitaine,série 2,NOUGEINCLAUDE,DOUSSAUDALEXANDRA,NOUGEINCLAUDEDOUSSAUDALEXANDRA
+Elisa,DUFOSSE,Kristina,PLUCHET,Les Républicains,CULT,Eure,Normandie,série 2,PLUCHETKRISTINA,DUFOSSEELISA,PLUCHETKRISTINADUFOSSEELISA
+Tatiana,DUPONT,Thierry,COZIC,SER,FIN,Sarthe,Pays de la Loire,série 2,COZICTHIERRY,DUPONTTATIANA,COZICTHIERRYDUPONTTATIANA
+Sophie,EISINGER,Guy,BENARROCHE,GEST,LOIS,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,série 2,BENARROCHEGUY,EISINGERSOPHIE,BENARROCHEGUYEISINGERSOPHIE
+Frédérique,FABRE,Alain,CAZABONNE,UC,AF/ETR/DEF,Gironde,Nouvelle Aquitaine,série 2,CAZABONNEALAIN,FABREFREDERIQUE,CAZABONNEALAINFABREFREDERIQUE
+Florence,FAYE,Christian,BILHAC,RDSE,FIN,Hérault,Occitanie,série 2,BILHACCHRISTIAN,FAYEFLORENCE,BILHACCHRISTIANFAYEFLORENCE
+Aurianne,FLERET,Michel,CANÉVET,UC,FIN,Finistère,Bretagne,série 2,CANEVETMICHEL,FLERETAURIANNE,CANEVETMICHELFLERETAURIANNE
+Marie-Aude,FOUGERAY,Frédérique,GERBAUD,Les Républicains,FIN,Indre,Centre-Val de Loire,série 2,GERBAUDFREDERIQUE,FOUGERAYMARIEAUDE,GERBAUDFREDERIQUEFOUGERAYMARIEAUDE
+Mélanie,FUND,Elsa,SCHALCK,Les Républicains,FIN,Bas-Rhin,Grand Est,série 2,SCHALCKELSA,FUNDMELANIE,SCHALCKELSAFUNDMELANIE
+Jean-Luc,GAUCHER,Mathieu,DARNAUD,Les Républicains,FIN,Ardèche,Auvergne-Rhône-Alpes,série 2,DARNAUDMATHIEU,GAUCHERJEANLUC,DARNAUDMATHIEUGAUCHERJEANLUC
+Jean-Luc,GAUCHER,Anne,VENTALON,Les Républicains,FIN,Ardèche,Auvergne-Rhône-Alpes,série 2,VENTALONANNE,GAUCHERJEANLUC,VENTALONANNEGAUCHERJEANLUC
+Alain,GNOCCHI-ESPERINAS,Hussein,BOURGI,SER,LOIS,Hérault,Occitanie,série 2,BOURGIHUSSEIN,GNOCCHIESPERINASALAIN,BOURGIHUSSEINGNOCCHIESPERINASALAIN
+Antoine,GREINER,Hussein,BOURGI,SER,LOIS,Hérault,Occitanie,série 2,BOURGIHUSSEIN,GREINERANTOINE,BOURGIHUSSEINGREINERANTOINE
+Albert,GROSPERRIN,Jacques,GROSPERRIN,Les Républicains,LOIS,Doubs,Bourgogne-Franche-Comté,série 2,GROSPERRINJACQUES,GROSPERRINALBERT,GROSPERRINJACQUESGROSPERRINALBERT
+Marc,GUILLAUME,Alain,CADEC,Les Républicains,LOIS,Côtes-d'Armor,Bretagne,série 2,CADECALAIN,GUILLAUMEMARC,CADECALAINGUILLAUMEMARC
+Laurence,HEISBOURG,Françoise,DUMONT,Les Républicains,LOIS,Var,Provence-Alpes-Côte d'Azur,série 2,DUMONTFRANCOISE,HEISBOURGLAURENCE,DUMONTFRANCOISEHEISBOURGLAURENCE
+Valérie,HERISSON,Cyril,PELLEVAT,Les Indépendants,LOIS,Haute-Savoie,Auvergne-Rhône-Alpes,série 2,PELLEVATCYRIL,HERISSONVALERIE,PELLEVATCYRILHERISSONVALERIE
+Matthieu,HOUSSIN,Sebastien,PLA,SER,AF/ECO,Aude,Occitanie,série 2,PLASEBASTIEN,HOUSSINMATTHIEU,PLASEBASTIENHOUSSINMATTHIEU
+Thérèse,HURTER,Daniel,GREMILLET,Les Républicains,AF/ECO,Vosges,Grand Est,série 2,GREMILLETDANIEL,HURTERTHERESE,GREMILLETDANIELHURTERTHERESE
+Dominique,JAOUEN,Annick,BILLON,UC,CULT,Vendée,Pays de la Loire,série 2,BILLONANNICK,JAOUENDOMINIQUE,BILLONANNICKJAOUENDOMINIQUE
+Virginie,JOLY,Patrick,CHAIZE,Les Républicains,CULT,Ain,Auvergne-Rhône-Alpes,série 2,CHAIZEPATRICK,JOLYVIRGINIE,CHAIZEPATRICKJOLYVIRGINIE
+Maxence,JOUVE,Valérie,BOYER,Les Républicains,CULT,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,série 2,BOYERVALERIE,JOUVEMAXENCE,BOYERVALERIEJOUVEMAXENCE
+Athenais,KOUIDRI,Marie-Pierre,MONIER,SER,CULT,Drôme,Auvergne-Rhône-Alpes,série 2,MONIERMARIEPIERRE,KOUIDRIATHENAIS,MONIERMARIEPIERREKOUIDRIATHENAIS
+Fatima,LARIGAUDERIE,Jean-Jacques,LOZACH,SER,CULT,Creuse,Nouvelle Aquitaine,série 2,LOZACHJEANJACQUES,LARIGAUDERIEFATIMA,LOZACHJEANJACQUESLARIGAUDERIEFATIMA
+Anne,LEBURGUE-KARABABA,Patricia,SCHILLINGER,RDPI,LOIS,Haut-Rhin,Grand Est,série 2,SCHILLINGERPATRICIA,LEBURGUEKARABABAANNE,SCHILLINGERPATRICIALEBURGUEKARABABAANNE
+Christelle,LECOMTE,Corinne,IMBERT,Les Républicains,LOIS,Charente-Maritime,Nouvelle Aquitaine,série 2,IMBERTCORINNE,LECOMTECHRISTELLE,IMBERTCORINNELECOMTECHRISTELLE
+Magali,LE FRANCOIS,Mireille,JOUVE,RDSE,AF/ETR/DEF,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,série 2,JOUVEMIREILLE,LEFRANCOISMAGALI,JOUVEMIREILLELEFRANCOISMAGALI
+Dominique,LE HEN,Jean-Luc,FICHET,SER,AF/SOC,Finistère,Bretagne,série 2,FICHETJEANLUC,LEHENDOMINIQUE,FICHETJEANLUCLEHENDOMINIQUE
+Emilie,LE PETIT,Rémy,POINTEREAU,Les Républicains,AF/SOC,Cher,Centre-Val de Loire,série 2,POINTEREAUREMY,LEPETITEMILIE,POINTEREAUREMYLEPETITEMILIE
+Lisa-Marie,LONGEOT,Annick,JACQUEMET,UC,AF/ECO,Doubs,Bourgogne-Franche-Comté,série 2,JACQUEMETANNICK,LONGEOTLISAMARIE,JACQUEMETANNICKLONGEOTLISAMARIE
+Clarisse,MAHOUDEAU,Corinne,IMBERT,Les Républicains,AF/ECO,Charente-Maritime,Nouvelle Aquitaine,série 2,IMBERTCORINNE,MAHOUDEAUCLARISSE,IMBERTCORINNEMAHOUDEAUCLARISSE
+Kevin,MARCK,Patricia,SCHILLINGER,RDPI,LOIS,Haut-Rhin,Grand Est,série 2,SCHILLINGERPATRICIA,MARCKKEVIN,SCHILLINGERPATRICIAMARCKKEVIN
+Benjamin,MARTELLI,Dominique,ESTROSI SASSONE,Les Républicains,LOIS,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,série 2,ESTROSISASSONEDOMINIQUE,MARTELLIBENJAMIN,ESTROSISASSONEDOMINIQUEMARTELLIBENJAMIN
+Laure,MARTIN,Rémy,POINTEREAU,Les Républicains,LOIS,Cher,Centre-Val de Loire,série 2,POINTEREAUREMY,MARTINLAURE,POINTEREAUREMYMARTINLAURE
+Valérie,MARTINON PIGEAT,Jean-Jacques,LOZACH,SER,CULT,Creuse,Nouvelle Aquitaine,série 2,LOZACHJEANJACQUES,MARTINONPIGEATVALERIE,LOZACHJEANJACQUESMARTINONPIGEATVALERIE
+Augustin de,MEAUX,Jean-Baptiste,BLANC,Les Républicains,CULT,Vaucluse,Provence-Alpes-Côte d'Azur,série 2,BLANCJEANBAPTISTE,MEAUXAUGUSTINDE,BLANCJEANBAPTISTEMEAUXAUGUSTINDE
+Christine,MESSIAS RODRIGUES,Françoise,DUMONT,Les Républicains,CULT,Var,Provence-Alpes-Côte d'Azur,série 2,DUMONTFRANCOISE,MESSIASRODRIGUESCHRISTINE,DUMONTFRANCOISEMESSIASRODRIGUESCHRISTINE
+Lucile de,MONSPEY,Kristina,PLUCHET,Les Républicains,CULT,Eure,Normandie,série 2,PLUCHETKRISTINA,MONSPEYLUCILEDE,PLUCHETKRISTINAMONSPEYLUCILEDE
+Pascale,MOURRUT,Vivette,LOPEZ,Les Républicains,CULT,Gard,Occitanie,série 2,LOPEZVIVETTE,MOURRUTPASCALE,LOPEZVIVETTEMOURRUTPASCALE
+Estelle,NAUD,Marie-Pierre,MONIER,SER,CULT,Drôme,Auvergne-Rhône-Alpes,série 2,MONIERMARIEPIERRE,NAUDESTELLE,MONIERMARIEPIERRENAUDESTELLE
+Géraud,OGIER D IVRY,Brigitte,HYBERT,Les Républicains,CULT,Vendée,Pays de la Loire,série 2,HYBERTBRIGITTE,OGIERDIVRYGERAUD,HYBERTBRIGITTEOGIERDIVRYGERAUD
+Géraud,OGIER D IVRY,Vivette,LOPEZ,Les Républicains,CULT,Gard,Occitanie,série 2,LOPEZVIVETTE,OGIERDIVRYGERAUD,LOPEZVIVETTEOGIERDIVRYGERAUD
+Nicolas,PALMARO,André,GUIOL,RDSE,AF/ETR/DEF,Var,Provence-Alpes-Côte d'Azur,série 2,GUIOLANDRE,PALMARONICOLAS,GUIOLANDREPALMARONICOLAS
+Vincent,PATTIER,Christophe-André,FRASSA,Les Républicains,AF/ETR/DEF,Français établis hors de France (Série 2),Sénateurs représentant les Français établis hors de France,série 2,FRASSACHRISTOPHEANDRE,PATTIERVINCENT,FRASSACHRISTOPHEANDREPATTIERVINCENT
+Anne-Lise,PELLETIER,Jérôme,DURAIN,SER,LOIS,Saône-et-Loire,Bourgogne-Franche-Comté,série 2,DURAINJEROME,PELLETIERANNELISE,DURAINJEROMEPELLETIERANNELISE
+Marielle,PETTINATO,Lana,TETUANUI,UC,LOIS,Polynésie française,Polynésie française,série 2,TETUANUILANA,PETTINATOMARIELLE,TETUANUILANAPETTINATOMARIELLE
+Dylan,PIRAS,Olivier,CADIC,UC,AF/ETR/DEF,Français établis hors de France (Série 2),Sénateurs représentant les Français établis hors de France,série 2,CADICOLIVIER,PIRASDYLAN,CADICOLIVIERPIRASDYLAN
+Morgane,RECLUS,Alexandra,BORCHIO FONTIMP,Les Républicains,AF/ETR/DEF,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,série 2,BORCHIOFONTIMPALEXANDRA,RECLUSMORGANE,BORCHIOFONTIMPALEXANDRARECLUSMORGANE
+Jean-Marc,RIGAUDIERE,Frédérique,GERBAUD,Les Républicains,AF/ETR/DEF,Indre,Centre-Val de Loire,série 2,GERBAUDFREDERIQUE,RIGAUDIEREJEANMARC,GERBAUDFREDERIQUERIGAUDIEREJEANMARC
+Isabelle-Martine,ROGUET,Sylviane,NOËL,Les Républicains,AF/ETR/DEF,Haute-Savoie,Auvergne-Rhône-Alpes,série 2,NOELSYLVIANE,ROGUETISABELLEMARTINE,NOELSYLVIANEROGUETISABELLEMARTINE
+Marguerite,SALLES,Jean-Claude,ANGLARS,Les Républicains,AF/ETR/DEF,Aveyron,Occitanie,série 2,ANGLARSJEANCLAUDE,SALLESMARGUERITE,ANGLARSJEANCLAUDESALLESMARGUERITE
+Pierre,SAVREUX,Pascale,GRUNY,Les Républicains,AF/ETR/DEF,Aisne,Hauts-de-France,série 2,GRUNYPASCALE,SAVREUXPIERRE,GRUNYPASCALESAVREUXPIERRE
+Ghislaine,SEGUINOT,Hussein,BOURGI,SER,LOIS,Hérault,Occitanie,série 2,BOURGIHUSSEIN,SEGUINOTGHISLAINE,BOURGIHUSSEINSEGUINOTGHISLAINE
+Bruno,SIMON,Nicole,DURANTON,RDPI,AF/ETR/DEF,Eure,Normandie,série 2,DURANTONNICOLE,SIMONBRUNO,DURANTONNICOLESIMONBRUNO
+Marie,SOULEAU-JOFFRE,Jean-Marc,DELIA,Les Républicains,AF/ETR/DEF,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,série 2,DELIAJEANMARC,SOULEAUJOFFREMARIE,DELIAJEANMARCSOULEAUJOFFREMARIE
+Marie,SOULEAU-JOFFRE,Paul,VIDAL,Les Républicains,AF/ETR/DEF,Rhône,Auvergne-Rhône-Alpes,série 2,VIDALPAUL,SOULEAUJOFFREMARIE,VIDALPAULSOULEAUJOFFREMARIE
+Emilie,SUBRA,Pierre,MÉDEVIELLE,Les Indépendants,AF/ETR/DEF,Haute-Garonne,Occitanie,série 2,MEDEVIELLEPIERRE,SUBRAEMILIE,MEDEVIELLEPIERRESUBRAEMILIE
+Léon,THEBAULT,de Monique,MARCO,GEST,CULT,Gironde,Nouvelle Aquitaine,série 2,MARCODEMONIQUE,THEBAULTLEON,MARCODEMONIQUETHEBAULTLEON
+Alice de,TURCKHEIM,André,REICHARDT,Les Républicains,CULT,Bas-Rhin,Grand Est,série 2,REICHARDTANDRE,TURCKHEIMALICEDE,REICHARDTANDRETURCKHEIMALICEDE
+Philippine,VAN DER MEULEN,Catherine,DI FOLCO,Les Républicains,CULT,Rhône,Auvergne-Rhône-Alpes,série 2,DIFOLCOCATHERINE,VANDERMEULENPHILIPPINE,DIFOLCOCATHERINEVANDERMEULENPHILIPPINE
+Philippine,VAN DER MEULEN,Jean-François,RAPIN,Les Républicains,CULT,Pas-de-Calais,Hauts-de-France,série 1,RAPINJEANFRANCOIS,VANDERMEULENPHILIPPINE,RAPINJEANFRANCOISVANDERMEULENPHILIPPINE
+Eric,VAN ROY,Jean-Luc,FICHET,SER,AF/SOC,Finistère,Bretagne,série 2,FICHETJEANLUC,VANROYERIC,FICHETJEANLUCVANROYERIC
+Eric,VAN ROY,Jean-Jacques,MICHAU,SER,AF/ECO,Ariège,Occitanie,série 2,MICHAUJEANJACQUES,VANROYERIC,MICHAUJEANJACQUESVANROYERIC
+Pierre-Jean,VEYRET,Bernard,BUIS,RDPI,AF/ECO,Drôme,Auvergne-Rhône-Alpes,série 2,BUISBERNARD,VEYRETPIERREJEAN,BUISBERNARDVEYRETPIERREJEAN
+Matteo,VITALI,Jacques,GROSPERRIN,Les Républicains,AF/ECO,Doubs,Bourgogne-Franche-Comté,série 2,GROSPERRINJACQUES,VITALIMATTEO,GROSPERRINJACQUESVITALIMATTEO
+Julie,ZECH,Christian,KLINGER,Les Républicains,AF/ECO,Haut-Rhin,Grand Est,série 2,KLINGERCHRISTIAN,ZECHJULIE,KLINGERCHRISTIANZECHJULIE
+Jean-Michel,ADELAIDE,Vanina,PAOLI-GAGIN,Les Indépendants,AF/ECO,Aube,Grand Est,série 2,PAOLIGAGINVANINA,ADELAIDEJEANMICHEL,PAOLIGAGINVANINAADELAIDEJEANMICHEL
+Marie,ALLEGRINI,Marie-Arlette,CARLOTTI,SER,AF/ETR/DEF,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,série 2,CARLOTTIMARIEARLETTE,ALLEGRINIMARIE,CARLOTTIMARIEARLETTEALLEGRINIMARIE
+Gabrielle,ANTIER,Mickaël,VALLET,SER,AF/ETR/DEF,Charente-Maritime,Nouvelle Aquitaine,série 2,VALLETMICKAEL,ANTIERGABRIELLE,VALLETMICKAELANTIERGABRIELLE
+Maryse,AUGER,Claude,RAYNAL,SER,FIN,Haute-Garonne,Occitanie,série 2,RAYNALCLAUDE,AUGERMARYSE,RAYNALCLAUDEAUGERMARYSE
+Anne,BARBOLOSI,Paul Toussaint,PARIGI,UC,LOIS,Haute-Corse,Corse,série 2,PARIGIPAULTOUSSAINT,BARBOLOSIANNE,PARIGIPAULTOUSSAINTBARBOLOSIANNE
+Emilie,BEAUJOT,Else,JOSEPH,Les Républicains,LOIS,Ardennes,Grand Est,série 2,JOSEPHELSE,BEAUJOTEMILIE,JOSEPHELSEBEAUJOTEMILIE
+Paola,BENHAIM,Jacques,FERNIQUE,GEST,DEV/DUR,Bas-Rhin,Grand Est,série 2,FERNIQUEJACQUES,BENHAIMPAOLA,FERNIQUEJACQUESBENHAIMPAOLA
+Sandrine,BERTRAND,Patrick,CHAIZE,Les Républicains,DEV/DUR,Ain,Auvergne-Rhône-Alpes,série 2,CHAIZEPATRICK,BERTRANDSANDRINE,CHAIZEPATRICKBERTRANDSANDRINE
+Catherine,BILIEC,Michel,CANÉVET,UC,FIN,Finistère,Bretagne,série 2,CANEVETMICHEL,BILIECCATHERINE,CANEVETMICHELBILIECCATHERINE
+Christa,BLAIN,Annick,BILLON,UC,CULT,Vendée,Pays de la Loire,série 2,BILLONANNICK,BLAINCHRISTA,BILLONANNICKBLAINCHRISTA
+Bénédicte,BRAIT,Marie-Claude,VARAILLAS,CRCE-K,DEV/DUR,Dordogne,Nouvelle Aquitaine,série 2,VARAILLASMARIECLAUDE,BRAITBENEDICTE,VARAILLASMARIECLAUDEBRAITBENEDICTE
+Nathalie,BROCHAND,Sylvie,GOY-CHAVENT,Les Républicains,DEV/DUR,Ain,Auvergne-Rhône-Alpes,série 2,GOYCHAVENTSYLVIE,BROCHANDNATHALIE,GOYCHAVENTSYLVIEBROCHANDNATHALIE
+Jérôme,CALMELS,Jean-Luc,FICHET,SER,AF/SOC,Finistère,Bretagne,série 2,FICHETJEANLUC,CALMELSJEROME,FICHETJEANLUCCALMELSJEROME
+Guillaume,CARISTAN,Fabien,GENET,Les Républicains,AF/SOC,Saône-et-Loire,Bourgogne-Franche-Comté,série 2,GENETFABIEN,CARISTANGUILLAUME,GENETFABIENCARISTANGUILLAUME
+Guillaume,CARISTAN,Bruno,ROJOUAN,Les Républicains,AF/SOC,Allier,Auvergne-Rhône-Alpes,série 2,ROJOUANBRUNO,CARISTANGUILLAUME,ROJOUANBRUNOCARISTANGUILLAUME
+Clémence,CELERIER,Marie-Claude,VARAILLAS,CRCE-K,DEV/DUR,Dordogne,Nouvelle Aquitaine,série 2,VARAILLASMARIECLAUDE,CELERIERCLEMENCE,VARAILLASMARIECLAUDECELERIERCLEMENCE
+Thomas,CHEVALERIAS,François,BONNEAU,UC,AF/ETR/DEF,Charente,Nouvelle Aquitaine,série 2,BONNEAUFRANCOIS,CHEVALERIASTHOMAS,BONNEAUFRANCOISCHEVALERIASTHOMAS
+Alexandre,COPIN,Cédric,VIAL,Les Républicains,AF/ETR/DEF,Savoie,Auvergne-Rhône-Alpes,série 2,VIALCEDRIC,COPINALEXANDRE,VIALCEDRICCOPINALEXANDRE
+Maryline,CROYET,Lucien,STANZIONE,SER,AF/ECO,Vaucluse,Provence-Alpes-Côte d'Azur,série 2,STANZIONELUCIEN,CROYETMARYLINE,STANZIONELUCIENCROYETMARYLINE
+Myriam,DEAU,Didier,MANDELLI,Les Républicains,AF/ECO,Vendée,Pays de la Loire,série 2,MANDELLIDIDIER,DEAUMYRIAM,MANDELLIDIDIERDEAUMYRIAM
+Thomas,DENIEAULT,de Albéric,MONTGOLFIER,Les Républicains,AF/ECO,Eure-et-Loir,Centre-Val de Loire,série 2,MONTGOLFIERDEALBERIC,DENIEAULTTHOMAS,MONTGOLFIERDEALBERICDENIEAULTTHOMAS
+Yoan,DIETSCHE,Jean-Michel,ARNAUD,UC,LOIS,Hautes-Alpes,Provence-Alpes-Côte d'Azur,série 2,ARNAUDJEANMICHEL,DIETSCHEYOAN,ARNAUDJEANMICHELDIETSCHEYOAN
+Raphaël,DONAY,Yan,CHANTREL,SER,CULT,Français établis hors de France (Série 2),Sénateurs représentant les Français établis hors de France,série 2,CHANTRELYAN,DONAYRAPHAEL,CHANTRELYANDONAYRAPHAEL
+Dimitri,DOUSSOT,Alain,JOYANDET,Les Républicains,CULT,Haute-Saône,Bourgogne-Franche-Comté,série 2,JOYANDETALAIN,DOUSSOTDIMITRI,JOYANDETALAINDOUSSOTDIMITRI
+Catherine,DUJARDIN,Pierre-Jean,VERZELEN,Les Indépendants,CULT,Aisne,Hauts-de-France,série 2,VERZELENPIERREJEAN,DUJARDINCATHERINE,VERZELENPIERREJEANDUJARDINCATHERINE
+Gaëlle,DUPRE,Évelyne,PERROT,UC,AF/ETR/DEF,Aube,Grand Est,série 2,PERROTEVELYNE,DUPREGAELLE,PERROTEVELYNEDUPREGAELLE
+Pascal,ELLUL,Pierre-Antoine,LEVI,UC,CULT,Tarn-et-Garonne,Occitanie,série 2,LEVIPIERREANTOINE,ELLULPASCAL,LEVIPIERREANTOINEELLULPASCAL
+Nastasia,FARINOTTI,Martine,BERTHET,Les Républicains,CULT,Savoie,Auvergne-Rhône-Alpes,série 2,BERTHETMARTINE,FARINOTTINASTASIA,BERTHETMARTINEFARINOTTINASTASIA
+Jules,FERON,Sabine,DREXLER,Les Républicains,CULT,Haut-Rhin,Grand Est,série 2,DREXLERSABINE,FERONJULES,DREXLERSABINEFERONJULES
+Romane,FLOURIOT,Annie,LE HOUEROU,SER,AF/SOC,Côtes-d'Armor,Bretagne,série 2,LEHOUEROUANNIE,FLOURIOTROMANE,LEHOUEROUANNIEFLOURIOTROMANE
+Pierre-Henri,FOURGOUS,François,BONHOMME,Les Républicains,AF/SOC,Tarn-et-Garonne,Occitanie,série 2,BONHOMMEFRANCOIS,FOURGOUSPIERREHENRI,BONHOMMEFRANCOISFOURGOUSPIERREHENRI
+Caroline,GAILLARD,Marie-Jeanne,BELLAMY,Les Républicains,AF/SOC,Vienne,Nouvelle Aquitaine,série 2,BELLAMYMARIEJEANNE,GAILLARDCAROLINE,BELLAMYMARIEJEANNEGAILLARDCAROLINE
+Caroline,GAILLARD,Didier,MANDELLI,Les Républicains,AF/SOC,Vendée,Pays de la Loire,série 2,MANDELLIDIDIER,GAILLARDCAROLINE,MANDELLIDIDIERGAILLARDCAROLINE
+Marine,GAUDRIER,Gilbert,BOUCHET,Les Républicains,AF/SOC,Drôme,Auvergne-Rhône-Alpes,série 2,BOUCHETGILBERT,GAUDRIERMARINE,BOUCHETGILBERTGAUDRIERMARINE
+Martine,GONDRAN,Valérie,BOYER,Les Républicains,AF/SOC,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,série 2,BOYERVALERIE,GONDRANMARTINE,BOYERVALERIEGONDRANMARTINE
+Caroline,GRELET JOLY,Alain,MILON,Les Républicains,AF/SOC,Vaucluse,Provence-Alpes-Côte d'Azur,série 2,MILONALAIN,GRELETJOLYCAROLINE,MILONALAINGRELETJOLYCAROLINE
+Brigitte,GRUDLER,Jean Pierre,VOGEL,Les Républicains,AF/SOC,Sarthe,Pays de la Loire,série 2,VOGELJEANPIERRE,GRUDLERBRIGITTE,VOGELJEANPIERREGRUDLERBRIGITTE
+Cédric,GUYON,Fabien,GENET,Les Républicains,AF/SOC,Saône-et-Loire,Bourgogne-Franche-Comté,série 2,GENETFABIEN,GUYONCEDRIC,GENETFABIENGUYONCEDRIC
+Baptiste,HENNERESSE,Anne-Catherine,LOISIER,UC,AF/ECO,Côte-d'Or,Bourgogne-Franche-Comté,série 2,LOISIERANNECATHERINE,HENNERESSEBAPTISTE,LOISIERANNECATHERINEHENNERESSEBAPTISTE
+Marianne,HORNY-GONIER,Claude,KERN,UC,CULT,Bas-Rhin,Grand Est,série 2,KERNCLAUDE,HORNYGONIERMARIANNE,KERNCLAUDEHORNYGONIERMARIANNE
+Gaëlle,HUGUENIN-ROBINOT,Daniel,GREMILLET,Les Républicains,CULT,Vosges,Grand Est,série 2,GREMILLETDANIEL,HUGUENINROBINOTGAELLE,GREMILLETDANIELHUGUENINROBINOTGAELLE
+Biliana,ILIC,Jean-Baptiste,LEMOYNE,RDPI,AF/ETR/DEF,Yonne,Bourgogne-Franche-Comté,série 2,LEMOYNEJEANBAPTISTE,ILICBILIANA,LEMOYNEJEANBAPTISTEILICBILIANA
+Charles,JEAN-LOUIS,Étienne,BLANC,Les Républicains,AF/ETR/DEF,Rhône,Auvergne-Rhône-Alpes,série 2,BLANCETIENNE,JEANLOUISCHARLES,BLANCETIENNEJEANLOUISCHARLES
+Marie-Joseph de,JORNA DELOCHE,Marie-Pierre,RICHER,Les Républicains,AF/ETR/DEF,Cher,Centre-Val de Loire,série 2,RICHERMARIEPIERRE,JORNADELOCHEMARIEJOSEPHDE,RICHERMARIEPIERREJORNADELOCHEMARIEJOSEPHDE
+Léa,KAUFFMANN,Jacques,FERNIQUE,GEST,DEV/DUR,Bas-Rhin,Grand Est,série 2,FERNIQUEJACQUES,KAUFFMANNLEA,FERNIQUEJACQUESKAUFFMANNLEA
+Mélanie,LAFORET,Claude,KERN,UC,CULT,Bas-Rhin,Grand Est,série 2,KERNCLAUDE,LAFORETMELANIE,KERNCLAUDELAFORETMELANIE
+Julien,LAY,Florence,BLATRIX CONTAT,SER,FIN,Ain,Auvergne-Rhône-Alpes,série 2,BLATRIXCONTATFLORENCE,LAYJULIEN,BLATRIXCONTATFLORENCELAYJULIEN
+Géraldine de,LE CHAUFF KERGUENEC,Jean Pierre,VOGEL,Les Républicains,FIN,Sarthe,Pays de la Loire,série 2,VOGELJEANPIERRE,LECHAUFFKERGUENECGERALDINEDE,VOGELJEANPIERRELECHAUFFKERGUENECGERALDINEDE
+Marine,LEFEVRE,Pascale,GRUNY,Les Républicains,FIN,Aisne,Hauts-de-France,série 2,GRUNYPASCALE,LEFEVREMARINE,GRUNYPASCALELEFEVREMARINE
+Rémy,LEGER,Didier,MARIE,SER,AF/ETR/DEF,Seine-Maritime,Normandie,série 2,MARIEDIDIER,LEGERREMY,MARIEDIDIERLEGERREMY
+Colette,LE MERRER,Annie,LE HOUEROU,SER,AF/SOC,Côtes-d'Armor,Bretagne,série 2,LEHOUEROUANNIE,LEMERRERCOLETTE,LEHOUEROUANNIELEMERRERCOLETTE
+Lucas,LE ROUX,Annick,JACQUEMET,UC,AF/ECO,Doubs,Bourgogne-Franche-Comté,série 2,JACQUEMETANNICK,LEROUXLUCAS,JACQUEMETANNICKLEROUXLUCAS
+Pierre,LOPEZ LANDIER,Gilbert-Luc,DEVINAZ,SER,DEV/DUR,Rhône,Auvergne-Rhône-Alpes,série 2,DEVINAZGILBERTLUC,LOPEZLANDIERPIERRE,DEVINAZGILBERTLUCLOPEZLANDIERPIERRE
+Jean-Charles,MARASSE,Évelyne,PERROT,UC,AF/ETR/DEF,Aube,Grand Est,série 2,PERROTEVELYNE,MARASSEJEANCHARLES,PERROTEVELYNEMARASSEJEANCHARLES
+Lou-Ana,MARIJON,Sophie,BRIANTE GUILLEMONT,RDSE,LOIS,Français établis hors de France (Série 2),Sénateurs représentant les Français établis hors de France,série 2,BRIANTEGUILLEMONTSOPHIE,MARIJONLOUANA,BRIANTEGUILLEMONTSOPHIEMARIJONLOUANA
+Dominique,MARTI,Gisèle,JOURDA,SER,AF/ETR/DEF,Aude,Occitanie,série 2,JOURDAGISELE,MARTIDOMINIQUE,JOURDAGISELEMARTIDOMINIQUE
+Cristina,MARTINEAU,Gilbert-Luc,DEVINAZ,SER,DEV/DUR,Rhône,Auvergne-Rhône-Alpes,série 2,DEVINAZGILBERTLUC,MARTINEAUCRISTINA,DEVINAZGILBERTLUCMARTINEAUCRISTINA
+Paul-Eliott,MASSOT,Serge,MÉRILLOU,SER,AF/ECO,Dordogne,Nouvelle Aquitaine,série 2,MERILLOUSERGE,MASSOTPAULELIOTT,MERILLOUSERGEMASSOTPAULELIOTT
+Paul-Eliott,MASSOT,Franck,MONTAUGÉ,SER,AF/ECO,Gers,Occitanie,série 2,MONTAUGEFRANCK,MASSOTPAULELIOTT,MONTAUGEFRANCKMASSOTPAULELIOTT
+Besma,MEDINI,Yan,CHANTREL,SER,CULT,Français établis hors de France (Série 2),Sénateurs représentant les Français établis hors de France,série 2,CHANTRELYAN,MEDINIBESMA,CHANTRELYANMEDINIBESMA
+Jean-Michel,MONIER,Michel,BONNUS,Les Républicains,CULT,Var,Provence-Alpes-Côte d'Azur,série 2,BONNUSMICHEL,MONIERJEANMICHEL,BONNUSMICHELMONIERJEANMICHEL
+Tino,MORGANTI-MALET,Brigitte,DEVÉSA,UC,AF/SOC,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,série 2,DEVESABRIGITTE,MORGANTIMALETTINO,DEVESABRIGITTEMORGANTIMALETTINO
+Maylis,MOUTON,Vanina,PAOLI-GAGIN,Les Indépendants,AF/SOC,Aube,Grand Est,série 2,PAOLIGAGINVANINA,MOUTONMAYLIS,PAOLIGAGINVANINAMOUTONMAYLIS
+Marion,NICAISE,Patricia,DEMAS,Les Républicains,AF/SOC,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,série 2,DEMASPATRICIA,NICAISEMARION,DEMASPATRICIANICAISEMARION
+Béatrice,OLIVIER,Pascal,ALLIZARD,Les Républicains,AF/SOC,Calvados,Normandie,série 2,ALLIZARDPASCAL,OLIVIERBEATRICE,ALLIZARDPASCALOLIVIERBEATRICE
+Stéphanie,PARRY,Jean-Baptiste,BLANC,Les Républicains,AF/SOC,Vaucluse,Provence-Alpes-Côte d'Azur,série 2,BLANCJEANBAPTISTE,PARRYSTEPHANIE,BLANCJEANBAPTISTEPARRYSTEPHANIE
+Nicolas,PAULIN-HIPPOLYTE,Nadine,BELLUROT,Les Républicains,AF/SOC,Indre,Centre-Val de Loire,série 2,BELLUROTNADINE,PAULINHIPPOLYTENICOLAS,BELLUROTNADINEPAULINHIPPOLYTENICOLAS
+Emilio,PERRAULT,Patricia,DEMAS,Les Républicains,AF/SOC,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,série 2,DEMASPATRICIA,PERRAULTEMILIO,DEMASPATRICIAPERRAULTEMILIO
+Mickaël,PHILIPPE,Pascal,MARTIN,UC,DEV/DUR,Seine-Maritime,Normandie,série 2,MARTINPASCAL,PHILIPPEMICKAEL,MARTINPASCALPHILIPPEMICKAEL
+Antonin,PORCU,Christian,KLINGER,Les Républicains,DEV/DUR,Haut-Rhin,Grand Est,série 2,KLINGERCHRISTIAN,PORCUANTONIN,KLINGERCHRISTIANPORCUANTONIN
+Mary-Anna,REIATUA,Teva,ROHFRITSCH,RDPI,LOIS,Polynésie française,Polynésie française,série 2,ROHFRITSCHTEVA,REIATUAMARYANNA,ROHFRITSCHTEVAREIATUAMARYANNA
+Alexis,ROBIN,de Albéric,MONTGOLFIER,Les Républicains,LOIS,Eure-et-Loir,Centre-Val de Loire,série 2,MONTGOLFIERDEALBERIC,ROBINALEXIS,MONTGOLFIERDEALBERICROBINALEXIS
+Béatrice,SABY,Lucien,STANZIONE,SER,AF/ECO,Vaucluse,Provence-Alpes-Côte d'Azur,série 2,STANZIONELUCIEN,SABYBEATRICE,STANZIONELUCIENSABYBEATRICE
+Marie,SAMMARCELLI,Alain,CAZABONNE,UC,AF/ETR/DEF,Gironde,Nouvelle Aquitaine,série 2,CAZABONNEALAIN,SAMMARCELLIMARIE,CAZABONNEALAINSAMMARCELLIMARIE
+Arthur,SCETBON,Céline,BRULIN,CRCE-K,AF/SOC,Seine-Maritime,Normandie,série 2,BRULINCELINE,SCETBONARTHUR,BRULINCELINESCETBONARTHUR
+Julien,SEYSSEL,Évelyne,PERROT,UC,AF/ETR/DEF,Aube,Grand Est,série 2,PERROTEVELYNE,SEYSSELJULIEN,PERROTEVELYNESEYSSELJULIEN
+Marie-Pierre,SOLY,Marc,LAMÉNIE,Les Indépendants,AF/ETR/DEF,Ardennes,Grand Est,série 2,LAMENIEMARC,SOLYMARIEPIERRE,LAMENIEMARCSOLYMARIEPIERRE
+Sonia,SOURICE,Bruno,BELIN,Les Républicains,AF/ETR/DEF,Vienne,Nouvelle Aquitaine,série 2,BELINBRUNO,SOURICESONIA,BELINBRUNOSOURICESONIA
+Gwendoline,TARQUIS,Georges,NATUREL,Les Républicains,AF/ETR/DEF,Nouvelle-Calédonie,Nouvelle-Calédonie,série 1,NATURELGEORGES,TARQUISGWENDOLINE,NATURELGEORGESTARQUISGWENDOLINE
+Gwendoline,TARQUIS,Kristina,PLUCHET,Les Républicains,AF/ETR/DEF,Eure,Normandie,série 2,PLUCHETKRISTINA,TARQUISGWENDOLINE,PLUCHETKRISTINATARQUISGWENDOLINE
+Marianne,THEOLEYRE,Gilbert-Luc,DEVINAZ,SER,DEV/DUR,Rhône,Auvergne-Rhône-Alpes,série 2,DEVINAZGILBERTLUC,THEOLEYREMARIANNE,DEVINAZGILBERTLUCTHEOLEYREMARIANNE
+Sandrine,UGATAI,Mikaele,KULIMOETOKE,RDPI,CULT,Iles Wallis et Futuna,Iles Wallis et Futuna,série 2,KULIMOETOKEMIKAELE,UGATAISANDRINE,KULIMOETOKEMIKAELEUGATAISANDRINE
+Pauline,VAN DEUREN,Cyril,PELLEVAT,Les Indépendants,CULT,Haute-Savoie,Auvergne-Rhône-Alpes,série 2,PELLEVATCYRIL,VANDEURENPAULINE,PELLEVATCYRILVANDEURENPAULINE
+Monika,VASSILEV,Alain,JOYANDET,Les Républicains,CULT,Haute-Saône,Bourgogne-Franche-Comté,série 2,JOYANDETALAIN,VASSILEVMONIKA,JOYANDETALAINVASSILEVMONIKA
+Alexia,VIGNOUD,Martine,BERTHET,Les Républicains,CULT,Savoie,Auvergne-Rhône-Alpes,série 2,BERTHETMARTINE,VIGNOUDALEXIA,BERTHETMARTINEVIGNOUDALEXIA
+Grégoire,VIVET,Antoine,LEFÈVRE,Les Républicains,CULT,Aisne,Hauts-de-France,série 2,LEFEVREANTOINE,VIVETGREGOIRE,LEFEVREANTOINEVIVETGREGOIRE
+Sarah,ZEKRI,Nicole,DURANTON,RDPI,AF/ETR/DEF,Eure,Normandie,série 2,DURANTONNICOLE,ZEKRISARAH,DURANTONNICOLEZEKRISARAH
