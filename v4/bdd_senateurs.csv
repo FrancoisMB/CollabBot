@@ -215,7 +215,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 04052E,M.,Bodin,Yannick,ANCIEN,1942-08-08 00:00:00.0,2023-10-08 00:00:00.0,SER,,commission de la culture,Seine-et-Marne,,y.bodin@senat.fr,"Professeurs, professions scientifiques",Enseignement secondaire,Professeur de collège
 000634,M.,Boeuf,Marc,ANCIEN,1934-01-08 00:00:00.0,1993-08-27 00:00:00.0,SER,,commission des affaires sociales,Gironde,,,Cadres d'entreprise,Salariés (Cadres divers),Directeur de la Mutuelle Générale de l'Education Nationale
 74013K,M.,Bohl,André,ANCIEN,1936-01-26 00:00:00.0,,UC,,commission de la culture,Moselle,,Non public,Ingenieurs et cadres techniques d'entreprise,Salariés (Ingénieurs),Ingénieur commercial
-21584C,M.,Boileau,Pierre,ACTIF,1949-08-09 00:00:00.0,,NI,,Aucune,Meurthe-et-Moselle,,,Autres personnes sans activité professionnelle,Sans profession déclarée,
+21584C,M.,Boileau,Pierre,ACTIF,1948-08-09 00:00:00.0,,NI,,Aucune,Meurthe-et-Moselle,,p.boileau@senat.fr,Autres personnes sans activité professionnelle,Sans profession déclarée,
 59218H,M.,Boileau,Roger,ANCIEN,1914-06-01 00:00:00.0,2001-09-12 00:00:00.0,UC,,commission de la culture,Meurthe-et-Moselle,,,Pharmaciens libéraux,Professions médicales (Pharmaciens),Pharmacien
 000176,M.,Boin,Raymond,ANCIEN,1908-02-20 00:00:00.0,1987-05-19 00:00:00.0,G.D.,,commission des affaires étrangères,Haute-Marne,Secrétaire du Sénat,,Medecins libéraux généralistes,Professions médicales (Médecins),Médecin
 000761,M.,Boisrond,Jacques,ANCIEN,1891-02-27 00:00:00.0,1961-10-03 00:00:00.0,RI,,commission de la culture,Loir-et-Cher,,,Professions libérales,Professions judiciaires et libérales (Divers),Administrateur d'immeubles
@@ -335,7 +335,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 21096Q,M.,Buval,Frédéric,ACTIF,1951-03-24 00:00:00.0,,RDPI,Apparenté,commission des affaires économiques,Martinique,,Non public,Anciens cadres,Fonctionnaires (Retraités),Ancien cadre
 59524Q,M.,Cabana,Camille,ANCIEN,1930-12-11 00:00:00.0,2002-06-02 00:00:00.0,RPR,,commission des finances,Paris,,,Anciens cadres,Fonctionnaires (Retraités),Préfet honoraire
 83020K,M.,Cabanel,Guy-Pierre,ANCIEN,1927-04-07 00:00:00.0,2016-03-15 00:00:00.0,RDSE,,commission des lois,Isère,,Non public,Médecins hospitaliers (sans activité libérale),Professions médicales (Professeurs),Professeur d'Université
-14207L,M.,Cabanel,Henri,ACTIF,1959-03-09 00:00:00.0,,RDSE,,commission des affaires économiques,Hérault,,h.cabanel@senat.fr,Agriculteurs sur moyenne exploitation,Professions agricoles,Viticulteur
+14207L,M.,Cabanel,Henri,ACTIF,1959-03-09 00:00:00.0,,RDSE,,commission des affaires économiques,Hérault,Secrétaire du Sénat,h.cabanel@senat.fr,Agriculteurs sur moyenne exploitation,Professions agricoles,Viticulteur
 19926J,Mme,Cabaret,Muriel,ANCIEN,1955-03-09 00:00:00.0,,SER,,commission des affaires sociales,Sarthe,,,Retraités,Fonctionnaires (Retraités),Retraitée de la fonction publique territoriale
 58366Q,M.,Cabocel,Rémi,ANCIEN,1926-09-13 00:00:00.0,2009-10-22 00:00:00.0,NI,,Aucune,Moselle,,,Agriculteurs exploitants,Professions agricoles,Agriculteur
 20104S,M.,Cadec,Alain,ACTIF,1953-06-21 00:00:00.0,,Les Républicains,Apparenté,commission des affaires économiques,Côtes-d'Armor,,a.cadec@senat.fr,Anciens cadres,Salariés (Retraités),Retraité
@@ -562,7 +562,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 89034S,M.,de Menou,Jacques,ANCIEN,1932-10-30 00:00:00.0,2010-08-11 00:00:00.0,RPR,,commission de l'économie,Finistère,,,Ingenieurs et cadres techniques d'entreprise,Salariés (Ingénieurs),Ingénieur agronome
 000705,M.,de Montalembert,Geoffroy,ANCIEN,1898-10-10 00:00:00.0,1993-03-02 00:00:00.0,RPR,,commission des finances,Seine-Maritime,,,Agriculteurs exploitants,Professions agricoles,Agriculteur
 98032R,M.,de Montesquiou,Aymeri,ANCIEN,1942-07-07 00:00:00.0,,UC,,commission des affaires étrangères,Gers,,a.demontesquiou@senat.fr,Autres personnes sans activité professionnelle,Professions agricoles,Exploitant agricole
-08011M,M.,de Montgolfier,Albéric,ACTIF,1964-07-06 00:00:00.0,,Les Républicains,,commission des finances,Eure-et-Loir,,a.de-montgolfier@senat.fr,Professions libérales,Professions judiciaires et libérales (Divers),Avocat au Conseil d'État et à la Cour de cassation
+08011M,M.,de Montgolfier,Albéric,ACTIF,1964-07-06 00:00:00.0,,Les Républicains,Rattaché,commission des finances,Eure-et-Loir,,a.de-montgolfier@senat.fr,Professions libérales,Professions judiciaires et libérales (Divers),Avocat au Conseil d'État et à la Cour de cassation
 000209,M.,de Montigny,Lucien,ANCIEN,1909-04-06 00:00:00.0,1975-07-05 00:00:00.0,U.C.D.P.,,commission des lois,Mayenne,,,Avocats,Professions judiciaires et libérales (Avocats),Avocat
 000428,M.,de Nicolaÿ,François,ANCIEN,1919-08-31 00:00:00.0,1963-11-21 00:00:00.0,RI,,commission des affaires étrangères,Sarthe,,,Agriculteurs exploitants,Professions agricoles,Exploitant agricole et forestier
 14169X,M.,de Nicolaÿ,Louis-Jean,ACTIF,1949-09-18 00:00:00.0,,Les Républicains,,commission de l'aménagement du territoire et du développement durable,Sarthe,,lj.de-nicolay@senat.fr,Personnes diverses sans activité professionnelle de 60 ans et plus (sauf retraités),Sans profession déclarée,Gérant de société
