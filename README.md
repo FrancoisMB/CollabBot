@@ -6,7 +6,7 @@ Un bot twitter codé entre midi et deux qui poste les arrivées et départs de c
 
 ⚠️ : Le code utilise une reconnaissance optique des tableaux des PDF du Sénat, ce qui peut produire des erreurs. Pour les éviter, il faudrait que le Sénat publie ses fichiers dans à peu près n'importe quel autre format que pdf (csv idéalement). N'hésitez pas à leur envoyer un mail pour le leur demander.
 
-**FAQ :**
+## FAQ :
 
 - _Et les collaborateurs du Parlement européen ?_
 
@@ -26,7 +26,7 @@ Soit l'erreur est produite par le code, le plus probable étant à cause de l'im
 
 Envoyez moi un message privé.
 
-**Changelog**
+## Changelog
 
 v2 : possible grace à Regards Citoyens : https://github.com/regardscitoyens/Collaborateurs-Parlement
 
