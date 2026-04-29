@@ -4,7 +4,7 @@ Un bot twitter codé entre midi et deux qui poste les arrivées et départs de c
 
 ⚠️ : Ce bot est "relativement" fiable, mais il peut produire des erreurs. C'est un outil que je fournis gratuitement, pas un service que je garantis. Ne faites confiance à ses infos qu'à vos risques et périls.
 
-⚠️ : Le code utilise une reconnaissance optique des tableaux des PDF du Sénat, ce qui peut produire des erreurs. Pour les éviter, il faudrait que le Sénat publie ces tableaux dans à peu près n'importe quel autre format que pdf (csv idéalement). N'hésitez pas à leur envoyer un mail pour le leur demander.
+⚠️ : Le code utilise une reconnaissance optique des tableaux des PDF du Sénat, ce qui peut produire des erreurs. Pour les éviter, il faudrait que le Sénat publie ses fichiers dans à peu près n'importe quel autre format que pdf (csv idéalement). N'hésitez pas à leur envoyer un mail pour le leur demander.
 
 **FAQ :**
 
