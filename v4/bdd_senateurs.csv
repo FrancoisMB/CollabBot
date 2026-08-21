@@ -482,6 +482,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 98023Q,M.,Cornu,Gérard,ANCIEN,1952-02-06 00:00:00.0,,Les Républicains,Apparenté,commission de l'aménagement du territoire et du développement durable,Eure-et-Loir,,g.cornu@senat.fr,Commercants et assimilés,Commerce et industrie (Retraités),Opticien-Audioprothésiste
 19253P,Mme,Costes,Josiane,ANCIEN,1947-08-23 00:00:00.0,,RDSE,,commission des lois,Cantal,,Non public,Retraités,Enseignement supérieur (sauf Professeurs de médecine),Professeur agrégé d'anglais
 59224F,M.,Costes,Marcel,ANCIEN,1935-10-05 00:00:00.0,2013-05-27 00:00:00.0,SER,,commission de l'économie,Lot,,,Artisans,Commerce et industrie (Artisans),Artisan
+21632S,Mme,Cotillot,Annouck,ACTIF,1976-03-18 00:00:00.0,,RDPI,,Aucune,Côte-d'Or,,,Autres personnes sans activité professionnelle,Sans profession déclarée,
 000702,M.,Coude Du Foresto,Yvon,ANCIEN,1897-02-10 00:00:00.0,1980-01-24 00:00:00.0,U.C.D.P.,,commission des finances,Deux-Sèvres,,,Ingenieurs et cadres techniques d'entreprise,Salariés (Ingénieurs),Ingénieur
 07030L,M.,Couderc,Raymond,ANCIEN,1946-09-16 00:00:00.0,,Les Républicains,,commission des affaires étrangères,Hérault,,r.couderc@senat.fr,"Professeurs, professions scientifiques",Enseignement supérieur (sauf Professeurs de médecine),Professeur d'université
 000192,M.,Coudert,Jacques,ANCIEN,1908-07-30 00:00:00.0,1988-09-17 00:00:00.0,RPR,Apparenté,commission de l'économie,Corrèze,,,Professions libérales,Professions judiciaires et libérales (Divers),Expert agricole
@@ -1496,7 +1497,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 000182,M.,Patenotre,François,ANCIEN,1908-04-05 00:00:00.0,1977-04-11 00:00:00.0,RI,,commission de l'économie,Aube,,,Agriculteurs exploitants,Professions agricoles,Agriculteur
 08073C,M.,Patient,Georges,ACTIF,1949-04-01 00:00:00.0,,RDPI,,commission des finances,Guyane,,g.patient@senat.fr,Cadres administratifs et commerciaux d'entreprise,Salariés (Cadres divers),Consultant financier
 000112,M.,Patria,Pierre,ANCIEN,1904-11-05 00:00:00.0,1983-05-25 00:00:00.0,RI,,commission de l'économie,Oise,,,Agriculteurs exploitants,Professions agricoles,Agriculteur
-08061X,M.,Patriat,François,ACTIF,1943-03-21 00:00:00.0,,RDPI,,commission de la culture,Côte-d'Or,,f.patriat@senat.fr,Professions libérales,Professions judiciaires et libérales (Divers),Docteur vétérinaire
+08061X,M.,Patriat,François,ANCIEN,1943-03-21 00:00:00.0,2026-08-19 00:00:00.0,RDPI,,commission de la culture,Côte-d'Or,,f.patriat@senat.fr,Professions libérales,Professions judiciaires et libérales (Divers),Docteur vétérinaire
 21421H,Mme,Patru,Anne-Sophie,ACTIF,1975-02-15 00:00:00.0,,UC,,commission des lois,Ille-et-Vilaine,,as.patru@senat.fr,Autres personnes sans activité professionnelle,Sans profession déclarée,Responsable de clientèle agricole
 08047A,M.,Paul,Philippe,ACTIF,1965-01-25 00:00:00.0,,Les Républicains,Rattaché,commission des affaires étrangères,Finistère,,p.paul@senat.fr,Cadres administratifs et commerciaux d'entreprise,Salariés (Cadres divers),Cadre du secteur privé
 000090,M.,Paulian,Gilbert,ANCIEN,1903-11-06 00:00:00.0,1984-05-22 00:00:00.0,RI,Apparenté,commission de l'économie,Alger,,,Agriculteurs exploitants,Professions agricoles,Directeur d'exploitation agricole
