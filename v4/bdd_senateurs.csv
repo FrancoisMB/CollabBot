@@ -482,7 +482,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 98023Q,M.,Cornu,Gérard,ANCIEN,1952-02-06 00:00:00.0,,Les Républicains,Apparenté,commission de l'aménagement du territoire et du développement durable,Eure-et-Loir,,g.cornu@senat.fr,Commercants et assimilés,Commerce et industrie (Retraités),Opticien-Audioprothésiste
 19253P,Mme,Costes,Josiane,ANCIEN,1947-08-23 00:00:00.0,,RDSE,,commission des lois,Cantal,,Non public,Retraités,Enseignement supérieur (sauf Professeurs de médecine),Professeur agrégé d'anglais
 59224F,M.,Costes,Marcel,ANCIEN,1935-10-05 00:00:00.0,2013-05-27 00:00:00.0,SER,,commission de l'économie,Lot,,,Artisans,Commerce et industrie (Artisans),Artisan
-21632S,Mme,Cotillot,Annouck,ACTIF,1976-03-18 00:00:00.0,,RDPI,,Aucune,Côte-d'Or,,,Autres personnes sans activité professionnelle,Sans profession déclarée,
+21632S,Mme,Cotillot,Annouck,ANCIEN,1976-03-18 00:00:00.0,,RDPI,,Aucune,Côte-d'Or,,,Autres personnes sans activité professionnelle,Sans profession déclarée,
 000702,M.,Coude Du Foresto,Yvon,ANCIEN,1897-02-10 00:00:00.0,1980-01-24 00:00:00.0,U.C.D.P.,,commission des finances,Deux-Sèvres,,,Ingenieurs et cadres techniques d'entreprise,Salariés (Ingénieurs),Ingénieur
 07030L,M.,Couderc,Raymond,ANCIEN,1946-09-16 00:00:00.0,,Les Républicains,,commission des affaires étrangères,Hérault,,r.couderc@senat.fr,"Professeurs, professions scientifiques",Enseignement supérieur (sauf Professeurs de médecine),Professeur d'université
 000192,M.,Coudert,Jacques,ANCIEN,1908-07-30 00:00:00.0,1988-09-17 00:00:00.0,RPR,Apparenté,commission de l'économie,Corrèze,,,Professions libérales,Professions judiciaires et libérales (Divers),Expert agricole
@@ -1268,6 +1268,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 000223,M.,Mailhe,Pierre,ANCIEN,1909-10-22 00:00:00.0,1987-11-30 00:00:00.0,G.D.,,commission des lois,Hautes-Pyrénées,,,Avocats,Professions judiciaires et libérales (Avocats),Avocat
 000518,M.,Maille,Pierre,ANCIEN,1923-12-13 00:00:00.0,1973-11-16 00:00:00.0,U.C.D.P.,,commission de la culture,Somme,,,Agriculteurs exploitants,Professions agricoles,Cultivateur
 000059,M.,Maillols,Sylvain,ANCIEN,1901-12-16 00:00:00.0,1988-01-20 00:00:00.0,RPR,,commission de la culture,Pyrénées-Orientales,,,Autres personnes sans activité professionnelle,Sans profession déclarée,Sans profession déclarée
+21634U,M.,Maingault,Didier,ACTIF,1974-10-21 00:00:00.0,,RDPI,,Aucune,Côte-d'Or,,,Autres personnes sans activité professionnelle,Sans profession déclarée,
 58947G,M.,Malassagne,Paul,ANCIEN,1918-03-24 00:00:00.0,2007-09-05 00:00:00.0,RPR,Apparenté,commission de l'économie,Cantal,Secrétaire du Sénat,,Chirurgiens-dentistes (libéraux ou salariés),Professions médicales (Dentistes),Dentiste
 000742,M.,Male,Fernand,ANCIEN,1899-09-20 00:00:00.0,1961-02-21 00:00:00.0,G.D.,Rattaché,commission de la culture,Mostaganem-Tiaret,,,Agriculteurs exploitants,Professions agricoles,Eleveur producteur
 000611,M.,Male,Guy,ANCIEN,1930-07-01 00:00:00.0,1987-12-03 00:00:00.0,UC,,commission des lois,Pyrénées-Orientales,,,Cadres d'entreprise,Salariés (Cadres divers),Directeur technique
@@ -1452,7 +1453,7 @@ Matricule,Qualité,Nom usuel,Prénom usuel,État,Date naissance,Date de décès,
 83046V,M.,Neuwirth,Lucien,ANCIEN,1924-05-18 00:00:00.0,2013-11-26 00:00:00.0,RPR,,commission des affaires sociales,Loire,,Non public,Professions libérales,Professions judiciaires et libérales (Divers),Administrateur Conseil
 09012S,Mme,Nicoux,Renée,ANCIEN,1951-03-26 00:00:00.0,,SER,,commission des affaires économiques,Creuse,,r.nicoux@senat.fr,Retraités,Enseignement (Retraités),Enseignante
 58636T,M.,Noe,Pierre,ANCIEN,1926-06-22 00:00:00.0,2014-08-20 00:00:00.0,SER,,commission de l'économie,Essonne,,,Ingenieurs et cadres techniques d'entreprise,Salariés (Ingénieurs),Ingénieur
-19768N,Mme,Noël,Sylviane,ACTIF,1978-01-27 00:00:00.0,,Les Républicains,,commission des affaires économiques,Haute-Savoie,,s.noel@senat.fr,Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités),Sans profession déclarée,Attachée parlementaire
+19768N,Mme,Noël,Sylviane,ACTIF,1978-01-27 00:00:00.0,,Les Républicains,Rattaché,commission des affaires économiques,Haute-Savoie,,s.noel@senat.fr,Personnes diverses sans activité professionnelle de moins de 60 ans (sauf retraités),Sans profession déclarée,Attachée parlementaire
 98044V,M.,Nogrix,Philippe,ANCIEN,1942-06-03 00:00:00.0,,UC,,commission des affaires étrangères,Ille-et-Vilaine,,p.nogrix@senat.fr,Autres personnes sans activité professionnelle,Salariés (Cadres divers),Cadre de Direction
 14253S,M.,Nougein,Claude,ACTIF,1946-12-04 00:00:00.0,,Les Républicains,,commission des finances,Corrèze,,c.nougein@senat.fr,"Anciens artisans, commercants, chefs d'entreprise",Commerce et industrie (Retraités),Chef d'entreprise
 000096,M.,Noury,Jean,ANCIEN,1904-02-19 00:00:00.0,1983-05-30 00:00:00.0,U.C.D.P.,,commission de la culture,Ille-et-Vilaine,Secrétaire du Sénat,,Chefs d'entreprise de 10 salaries ou plus,Commerce et industrie (Chefs d'entreprises),Industriel
